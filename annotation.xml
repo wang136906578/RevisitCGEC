@@ -1,0 +1,1486 @@
+<set id="0" source-language="cn" target-language="cn">
+  <seg id="687" doc-id="mucgec">
+    <source>年轻人 愿意 花 几十万 印尼 币 去 看 他们 偶像 的 演唱会 ， 或者 买 了 几十万 的 衣服 只是 因为 看到 偶像 穿 了 同样 的 衣服 ， 这些 事 当然 不好 ， 不但 害 歌迷 们 乱花钱 也 让 他们 变 名牌 观念 者 。</source>
+    <translation system="bart+char+spm">年轻人 愿意 花 几十万 印尼 币 去 看 他们 偶像 的 演唱会 ， 或者 买 了 几十万 的 衣服 只是 因为 看到 偶像 穿 了 同样 的 衣服 ， 这些 事 当然 不好 ， 不但 害 歌迷 们 乱花钱 也 让 他们 变成 名牌 观念 者 。</translation>
+    <translation system="t5">年轻人 愿意 花 几十万 印尼 币 去 看 他们 偶像 的 演唱会 ， 或者 买 了 几十万 的 衣服 只是 因为 看到 偶像 穿 了 同样 的 衣服 ， 这些 事 当然 不好 ， 不但 害 歌迷 们 乱花钱 也 让 他们 变 名牌 观念 者 。</translation>
+    <translation system="s2e">年轻人 愿意 花 几十万 印尼 币 去 看 他们 偶像 的 演唱会 ， 或者 买 了 几十万 的 衣服 只是 因为 看到 偶像 穿 了 同样 的 衣服 ， 这些 事 当然 不好 ， 不但 害 歌迷 们 乱花钱 也 让 他们 变成 名牌 者 。</translation>
+    <translation system="word">年轻人 愿意 花 几十万 印尼 币 去 看 他们 偶像 的 演唱会 ， 或者 买 了 几十万 的 衣服 ， 只是 因为 看到 偶像 穿 了 同样 的 衣服 ， 这些 事 当然 不好 ， 不但 害 歌迷 们 乱花钱 也 让 他们 变成 名牌 观念 者 。</translation>
+  </seg>
+  <seg id="327" doc-id="mucgec">
+    <source>我 高中生 时 我 一年 学习 了 汉语 ， 但 我 都 忘 了 。 然而 在 上海 时 我 逐渐 记 起来 一些 汉语 的 句 字 。</source>
+    <translation system="bart+word">我 高中生 时 我 学习 了 一年 汉语 ， 但 我 都 忘 了 ， 然而 在 上海 时 我 逐渐 记 起来 一些 汉语 的 句子 。</translation>
+    <translation system="t5">我 高中 时 我 学习 了 一年 汉语 ， 但 我 都 忘 了 。 然而 在 上海 时 我 逐渐 记 起来 一些 汉语 的 句子 。</translation>
+    <translation system="s2e">我 高中 时 我学 了 一年 汉语 ， 但 我 都 忘 了 ， 然而 在 上海 时 我 逐渐 记 起来 一些 汉语 的 句子 。</translation>
+    <translation system="char">我 高中生 时 我 一年 学习 了 汉语 ， 但 我 都 忘 了 ， 然而 在 上海 时 我 逐渐 记 起来 一些 汉语 的 句子 。</translation>
+    <translation system="spm">我 高中 时 我 学习 了 一年 汉语 ， 但 我 都 忘 了 ， 然而 在 上海 时 我 逐渐 记 起来 一些 汉语 的 句子 。</translation>
+  </seg>
+  <seg id="847" doc-id="mucgec">
+    <source>我们 看着 父亲 长大 了 ， 所以 有时候 生活 得 不 认真 ， 但 把 父亲 的 背影 想 起来 ， 会 再 认真 地 生活 。</source>
+    <translation system="bart">我们 看着 父亲 长大 ， 所以 有时候 生活 得 不 认真 ， 但 把 父亲 的 背影 想 起来 ， 会 再 认真 地 生活 。</translation>
+    <translation system="t5">我们 看着 父亲 长大 了 ， 所以 有时候 生活 得 不 认真 ， 但 把 父亲 的 背影 想 起来 ， 就 会 再 认真 地 生活 。</translation>
+    <translation system="s2e">我们 看着 父亲 长大 了 ， 所以 有时候 生活 得 不 认真 ， 但 把 父亲 的 背影 想 起来 ， 会 再 认真 地 生活 。</translation>
+    <translation system="word+char+spm">我们 看着 父亲 长大 了 ， 所以 有时候 生活 得 不 认真 ， 但 父亲 的 背影 想 起来 ， 会 再 认真 地 生活 。</translation>
+  </seg>
+  <seg id="70" doc-id="mucgec">
+    <source>可是 有 一些 人 呢 肯定 没有 特别 的 爱好 的 。</source>
+    <translation system="bart+s2e+spm">可是 有 一些 人 呢 ， 肯定 没有 特别 的 爱好 。</translation>
+    <translation system="t5">可是 有 一些 人 呢 肯定 没有 特别 的 爱好 。</translation>
+    <translation system="word">可是 有 一些 人 呢 ， 肯定 没有 特别 的 爱好 的 。</translation>
+    <translation system="char">可是 有 一些 人 呢 肯定 没有 什么 特别 的 爱好 。</translation>
+  </seg>
+  <seg id="397" doc-id="mucgec">
+    <source>甚至 某 市政府 出台 一项 规定 ， 就是 在 公共场所 走边 抽烟 的 人 将 被 罚款 。 这样 的 情况 虽然 抽烟 的 人 很 不 方便 不 抽烟 的 人 很 好 。</source>
+    <translation system="bart">甚至 某 市政府 出台 一项 规定 ， 就是 在 公共场所 走边 抽烟 的 人 将 被 罚款 ， 这样 的 情况 虽然 对 抽烟 的 人 很 不 方便 ， 但 对 不 抽烟 的 人 很 好 。</translation>
+    <translation system="t5">甚至 某 市政府 出台 一项 规定 ， 就是 在 公共场所 走边 抽烟 的 人 将 被 罚款 。 这样 的 情况 虽然 抽烟 的 人 很 不 方便 ， 但 不 抽烟 的 人 很 好 。</translation>
+    <translation system="s2e">甚至 某 市政府 出台 了 一项 规定 ， 就是 在 公共场所 边 走边 抽烟 的 人 将 被 罚款 ， 这样 的 情况 虽然 对 抽烟 的 人 很 不 方便 ， 但 对 不 抽烟 的 人 很 好 。</translation>
+    <translation system="word">甚至 某 市政府 出台 了 一项 规定 ， 就是 在 公共场所 走边 抽烟 的 人 将 被 罚款 ， 这样 的 情况 虽然 抽烟 的 人 很 不 方便 ， 不 抽烟 的 人 也 很 好 。</translation>
+    <translation system="char">甚至 某 市政府 出台 一项 规定 ， 就是 在 公共场所 走边 抽烟 的 人 将 被 罚款 ， 这样 的 情况 虽然 抽烟 的 人 很 不 方便 ， 不 抽烟 的 人 很 好 。</translation>
+    <translation system="spm">甚至 某 市政府 出台 了 一项 规定 ， 就是 在 公共场所 边 走边 抽烟 的 人 将 被 罚款 ， 这样 的 情况 虽然 抽烟 的 人 很 不 方便 ， 不 抽烟 的 人 很 好 。</translation>
+  </seg>
+  <seg id="1101" doc-id="mucgec">
+    <source>李友 告诉 他 图书馆 没有 书店 那么 远 。</source>
+    <translation system="bart">李友 告诉 他 ， 图书馆 没有 书店 那么 远 。</translation>
+    <translation system="t5">李友 告诉 他 图书馆 离 书店 没有 那么 远 。</translation>
+    <translation system="s2e+word+char">李友 告诉 他 图书馆 没有 书店 那么 远 。</translation>
+    <translation system="spm">李友 告诉 我 图书馆 没有 书店 那么 远 。</translation>
+  </seg>
+  <seg id="1128" doc-id="mucgec">
+    <source>原来 世博会 是 一个 办法 给 别的 国家 看 工业革命 的 进步 。 第一个 世界 博览会 是 1851 年 在 伦敦 举办 的 。</source>
+    <translation system="bart+t5">原来 世博会 是 一个 给 别的 国家 看 工业革命 的 进步 的 办法 。 第一个 世界 博览会 是 1851 年 在 伦敦 举办 的 。</translation>
+    <translation system="s2e">原来 世博会 是 一个 给 别的 国家 看 工业革命 的 进步 ， 第一个 世界 博览会 是 1851 年 在 伦敦 举办 的 。</translation>
+    <translation system="word">原来 世博会 是 一个 办法 让 别的 国家 看 工业革命 的 进步 ， 第一个 世界 博览会 是 185 ## 1 年 在 伦敦 举办 的 。</translation>
+    <translation system="char">原来 世博会 是 一个 办法 给 别的 国家 看 工业革命 的 进步 的 办法 ， 第一个 世界 博览会 是 1851 年 在 伦敦 举办 的 。</translation>
+    <translation system="spm">原来 世博会 是 一个 办法 给 别的 国家 看 工业革命 的 进步 ， 第一个 世界 博览会 是 1851 年 在 伦敦 举办 的 。</translation>
+  </seg>
+  <seg id="373" doc-id="mucgec">
+    <source>现在 很多 青年人 要 吸烟 ， 因为 他们 觉得 吸烟 很 好看 ， 所以 对 吸烟 感兴 兴 。</source>
+    <translation system="bart+s2e+word+spm">现在 很多 青年人 要 吸烟 ， 因为 他们 觉得 吸烟 很 好看 ， 所以 对 吸烟 感兴趣 。</translation>
+    <translation system="t5">现在 很多 青年人 要 吸烟 ， 因为 他们 觉得 吸烟 很 好看 ， 所以 对 吸烟 很感兴趣 。</translation>
+    <translation system="char">现在 很多 青年人 要 吸烟 ， 因为 他们 觉得 吸烟 很 好看 ， 所以 我 对 吸烟 感兴趣 。</translation>
+  </seg>
+  <seg id="417" doc-id="mucgec">
+    <source>因为 流动 歌曲 很 容易 学会 ， 而且 歌曲 里面 可以 看到 我们 的 生活 。</source>
+    <translation system="bart+s2e+char+spm">因为 流动 歌曲 很 容易 学会 ， 而且 从 歌曲 里面 可以 看到 我们 的 生活 。</translation>
+    <translation system="t5">因为 流动 歌曲 很 容易 学会 ， 而且 歌曲 里面 可以 看到 我们 的 生活 。 因为 流动 歌曲 很 容易 学会 ， 而且 歌曲 里面 可以 看到 我们 的 生活 。</translation>
+    <translation system="word">因为 流动 歌曲 很 容易 学会 ， 而且 在 歌曲 里面 可以 看到 我们 的 生活 。</translation>
+  </seg>
+  <seg id="708" doc-id="mucgec">
+    <source>他们 不仅 在 韩国 喜欢 他们 的 歌迷 特别 多 ， 不 只是 喜欢 他们 的 歌 ， 还 很 喜欢 他们 的 为 人 。</source>
+    <translation system="bart+t5+word">他们 不仅 在 韩国 喜欢 他们 的 歌迷 特别 多 ， 不 只是 喜欢 他们 的 歌 ， 还 很 喜欢 他们 的 为 人 。</translation>
+    <translation system="s2e">在 韩国 喜欢 他们 的 歌迷 很多 ， 不 只是 喜欢 他们 的 歌 ， 还 很 喜欢 他们 的 为 人 。</translation>
+    <translation system="char">他们 不仅 在 韩国 喜欢 他们 的 歌迷 特别 多 ， 不 只是 喜欢 他们 的 歌 ， 还 很 喜欢 他们 的 为 人 着想 。</translation>
+    <translation system="spm">他们 不仅 在 韩国 喜欢 他们 的 歌迷 ， 而且 特别 多 ， 不 只是 喜欢 他们 的 歌 ， 还 很 喜欢 他们 的 为 人 。</translation>
+  </seg>
+  <seg id="781" doc-id="mucgec">
+    <source>小孩子 做错 了 事 也 一定 要 批评 ， 就算 孩子 只是 把 一个 朋友 打 了 一下 ， 也 不能 把 事情 放 过去 ， 不然 ， 孩子 就 会 觉得 他 做 的 事 是 没错 ， 然后 继续 犯错误 ， 越犯 越大 。</source>
+    <translation system="bart+s2e+char+spm">小孩子 做错 了 事 也 一定 要 批评 ， 就算 孩子 只是 把 一个 朋友 打 了 一下 ， 也 不能 把 事情 放 过去 ， 不然 ， 孩子 就 会 觉得 他 做 的 事 是 没错 的 ， 然后 继续 犯错误 ， 越犯 越大 。</translation>
+    <translation system="t5">小孩子 做错 了 事 也 一定 要 批评 ， 就算 孩子 只是 把 一个 朋友 打 了 一下 ， 也 不能 把 事情 放 过去 ， 不然 ， 孩子 就 会 觉得 他 做 的 事 是 没错 ， 然后 继续 犯错误 ， 越犯 越大 。</translation>
+    <translation system="word">小孩子 做错 了 事 也 一定 要 批评 ， 就算 孩子 只是 把 一个 朋友 打 了 一下 ， 也 不能 把 事情 放 过去 ， 不然 ， 孩子 就 会 觉得 他 做 的 事 没错 ， 然后 继续 犯错误 ， 越犯 越大 。</translation>
+  </seg>
+  <seg id="438" doc-id="mucgec">
+    <source>为了 这次 旅游 ， 我们 从 上个月 开始 准备 买 机票 ， 顶 饭店 ， 办 签证 了 。</source>
+    <translation system="bart+s2e+char+spm">为了 这次 旅游 ， 我们 从 上个月 开始 准备 买 机票 ， 订 饭店 ， 办 签证 。</translation>
+    <translation system="t5">为了 这次 旅游 ， 我们 从 上个月 开始 准备 买 机票 ， 去 饭店 ， 办 签证 。</translation>
+    <translation system="word">为了 这次 旅游 ， 我们 从 上个月 开始 准备 买 机票 ， 订 饭店 ， 办 签证 了 。</translation>
+  </seg>
+  <seg id="623" doc-id="mucgec">
+    <source>长期以来 ， 各国 的 学校 确是 男女 合式 教育 ， 这一 类型 的 混合 教说 起来 也 不算 那么 好 。 是因为 男性 和 女性 天生 就是 在 个别 方面 有所不同 。 就是 他们 的 思考 能力 呀 ， 性 方面 呀 ， 他们 应有 的 本性 确实 不同 。</source>
+    <translation system="bart+char">长期以来 ， 各国 的 学校 确是 男女 混合式 教育 ， 这一 类型 的 混合 教育 说 起来 也 不算 那么 好 ， 是因为 男性 和 女性 天生 就 在 个别 方面 有所不同 ， 就是 他们 的 思考 能力 呀 ， 性 方面 呀 ， 他们 应有 的 本性 确实 不同 。</translation>
+    <translation system="t5">长期以来 ， 各国 的 学校 确是 男女 合式 教育 ， 这一 类型 的 混合 教说 起来 也 不算 那么 好 。 是因为 男性 和 女性 天生 就是 在 个别 方面 有所不同 。 就是 他们 的 思考 能力 呀 ， 性 方面 呀 ， 他们 应有 的 本性 确实 不同 。</translation>
+    <translation system="s2e">长期以来 ， 各国 的 学校 确是 男女 混合式 教育 ， 这一 类型 的 混合 教育 说 起来 也 不算 那么 好 ， 因为 男性 和 女性 天生 就是 在 个别 方面 有所不同 ， 就是 他们 的 思考 能力 呀 ， 性 方面 呀 ， 他们 的 本性 确实 不同 。</translation>
+    <translation system="word+spm">长期以来 ， 各国 的 学校 确是 男女 混合式 教育 ， 这一 类型 的 混合 教育 说 起来 也 不算 那么 好 ， 是因为 男性 和 女性 天生 就是 在 个别 方面 有所不同 ， 就是 他们 的 思考 能力 呀 ， 性 方面 呀 ， 他们 应有 的 本性 确实 不同 。</translation>
+  </seg>
+  <seg id="374" doc-id="mucgec">
+    <source>我 旅行 的 时候 认识 了 很多 的 人 ， 他们 都 住 在 别的 国家 。 这有 好点 和 不利 ， 好点 是 ： 我 可以 拜訪 他们 ， 我 只要 飞机票 ， 以后 我 可以 在 他们 的 家留 ， 因为 他们 请 我客 。 我 跟 他们 可以 参观 有意思 的 地方 。</source>
+    <translation system="bart">我 旅行 的 时候 认识 了 很多 的 人 ， 他们 都 住 在 别的 国家 ， 这有 好处 和 坏处 ， 好处 是 ： 我 可以 拜访 他们 ， 我 只要 飞机票 ， 以后 我 可以 在 他们 的 家住 ， 因为 他们 请 我 吃饭 ， 我 跟 他们 可以 参观 有意思 的 地方 。</translation>
+    <translation system="t5">我 旅行 的 时候 认识 了 很多 的 人 ， 他们 都 住 在 别的 国家 ， 这有 好处 和 坏处 ， 好处 是 ： 我 可以 拜访 他们 ， 我 只要 飞机票 ， 以后 我 可以 在 他们 的 家留 ， 因为 他们 请 我客 。 我 跟 他们 可以 参观 有意思 的 地方 。</translation>
+    <translation system="s2e">我 旅行 的 时候 认识 了 很多 的 人 ， 他们 都 住 在 别的 国家 ， 这有 好处 和 不利 ， 好点 是 ： 我 可以 拜访 他们 ， 我 只要 飞机票 ， 以后 我 可以 在 他们 的 家住 ， 因为 他们 请 我 做客 ， 我 跟 他们 可以 参观 有意思 的 地方 。</translation>
+    <translation system="word">我 旅行 的 时候 认识 了 很多 的 人 ， 他们 都 住 在 别的 国家 ， 这有 好处 和 不利 ， 好处 是 ： 我 可以 原谅 他们 ， 我 只要 飞机票 ， 以后 我 可以 在 他们 的 家留 ， 因为 他们 请 我客 ， 我 跟 他们 可以 参观 有意思 的 地方 。</translation>
+    <translation system="char">我 旅行 的 时候 认识 了 很多 的 人 ， 他们 都 住 在 别的 国家 ， 这有 好处 和 不利 ， 好处 是 ： 我 可以 拜访 他们 ， 我 只要 飞机票 ， 以后 我 可以 在 他们 的 家里 ， 因为 他们 请 我客 ， 我 跟 他们 可以 参观 有意思 的 地方 。</translation>
+    <translation system="spm">我 旅行 的 时候 认识 了 很多 的 人 ， 他们 都 住 在 别的 国家 ， 这有 好处 和 不利 ， 好点 是 ： 我 可以 来 看望 他们 ， 我 只要 飞机票 ， 以后 我 可以 在 他们 的 家留 ， 因为 他们 请 我客 ， 我 跟 他们 可以 参观 有意思 的 地方 。</translation>
+  </seg>
+  <seg id="395" doc-id="mucgec">
+    <source>什么 是 我 的 梦想 呢 ？</source>
+    <translation system="bart+t5+word+char+spm">我 的 梦想 是 什么 呢 ？</translation>
+    <translation system="s2e">什么 是 我 的 梦想 呢 ？</translation>
+  </seg>
+  <seg id="304" doc-id="mucgec">
+    <source>但是 这些 流行歌 的 作者 都 没有 一定 的 创造 信 。 他们 写 的 都 是 一样 的 内容 都 是 一样 的 ： 不是 “ 我爱你 ” 就是 “ 你 爱 我 ” 或者 就是 “ 你 为什么 不爱 我 ？ ” 除了 这些 很 简单 的 内容 以外 不会 有 其它 的 更有意义 的 。</source>
+    <translation system="bart">但是 这些 流行歌 的 作者 都 没有 一定 的 创造力 ， 他们 写 的 都 是 一样 的 ， 内容 都 是 一样 的 ： 不是 我爱你 就是 你 爱 我 或者 就是 你 为什么 不爱 我 ， 除了 这些 很 简单 的 内容 以外 不会 有 其它 的 更有意义 的 。</translation>
+    <translation system="t5">但是 这些 流行歌 的 作者 都 没有 一定 的 创造 信 ， 他们 写 的 都 是 一样 的 内容 ： 不是 “ 我爱你 ” 就是 “ 你 爱 我 ” 或者 就是 “ 你 为什么 不爱 我 ？ ” 除了 这些 很 简单 的 内容 以外 不会 有 其它 的 更有意义 的 。</translation>
+    <translation system="s2e">但是 这些 流行歌 的 作者 都 没有 一定 的 创造力 ， 他们 写 的 都 是 一样 的 容容 ， 不是 “ 我爱你 ” 就是 “ 你 爱 我 ” 或者 就是 “ 你 为什么 不爱 我 ？ ” ， 除了 这些 很 简单 的 内容 以外 不会 有 其它 的 更有意义 的 。</translation>
+    <translation system="word">但是 这些 流行歌 的 作者 都 没有 一定 的 创造力 ， 他们 写 的 都 是 一样 的 内容 ， 都 是 一样 的 ： 不是 “ 我爱你 ” ， 就是 “ 你 爱 我 ” 或者 就是 “ 你 为什么 不爱 我 ？ ” 除了 这些 很 简单 的 内容 以外 不会 有 其它 的 更有意义 的 。</translation>
+    <translation system="char">但是 这些 流行歌 的 作者 都 没有 一定 的 创造力 ， 他们 写 的 都 是 一样 的 内容 ： 不是 “ 我爱你 ” 就是 “ 你 爱 我 ” 或者 就是 “ 你 为什么 不爱 我 ？ ” 除了 这些 很 简单 的 内容 以外 ， 不会 有 其它 的 更有意义 的 。</translation>
+    <translation system="spm">但是 这些 流行歌 的 作者 都 没有 一定 的 创造性 ， 他们 写 的 都 是 一样 的 内容 ， 不是 “ 我爱你 ” 就是 “ 你 爱 我 ” ， 或者 就是 “ 你 为什么 不爱 我 ？ ” 除了 这些 很 简单 的 内容 以外 不会 有 其它 的 更有意义 的 。</translation>
+  </seg>
+  <seg id="744" doc-id="mucgec">
+    <source>上菜 的 時候 ， 一般 先上 涼菜 ， 然后 上 热菜 。 上菜 来 以后 ， 一般 先要 等 最 重要 的 或者 年纪 最大 的 客人 开始 吃 ， 其他人 才能 跟着 吃 。 后来 ， 主人 会 鼓励 客人 们 吃 到 饱 ， 常常 会 说 ” 多吃点 ” ， ” 慢慢 吃 ” 等等 。</source>
+    <translation system="bart">上菜 的 时候 ， 一般 先 上 凉菜 ， 然后 上 热菜 ， 上菜 来 以后 ， 一般 先要 等 最 重要 的 或者 年纪 最大 的 客人 开始 吃 ， 其他人 才能 跟着 吃 ， 后来 ， 主人 会 鼓励 客人 们 吃 到 饱 ， 常常 会 说 多 吃 点 ， 慢慢 吃 等等 。</translation>
+    <translation system="t5">上菜 的 候 ， 一般 先 上菜 ， 然后 上 热菜 。 上菜 来 以后 ， 一般 先要 等 最 重要 的 或者 年纪 最大 的 客人 开始 吃 ， 其他人 才能 跟着 吃 。 后来 ， 主人 会 鼓励 客人 们 吃 到 饱 ， 常常 会 说 ” 多吃点 ” ， ” 慢慢 吃 ” 等等 。</translation>
+    <translation system="s2e">上菜 的 时候 ， 一般 先 上 凉菜 ， 然后 上 热菜 ； 上菜 来 以后 ， 一般 先要 等 最 重要 的 或者 年纪 最大 的 客人 开始 吃 ， 其他人 才能 跟着 吃 ， 后来 ， 主人 会 鼓励 客人 们 吃 到 饱 ， 常常 会 说 ” 多吃点 ” ， ” 慢慢 吃 ” 等等 。</translation>
+    <translation system="word">上菜 的 时候 ， 一般 先 上菜 ， 然后 上 热菜 ， 上菜 来 以后 ， 一般 先要 等 最 重要 的 或者 年纪 最大 的 客人 开始 吃 ， 其他人 才能 跟着 吃 ， 后来 ， 主人 会 鼓励 客人 们 吃 到 饱 ， 常常 会 说 “ 多吃点 ” ， “ 慢慢 吃 ” 等等 。</translation>
+    <translation system="char">上菜 的 时候 ， 一般 先 上 凉菜 ， 然后 上 热菜 ， 上菜 来 以后 ， 一般 先要 等 最 重要 的 或者 年纪 最大 的 客人 开始 吃 ， 其他人 才能 跟着 吃 ， 后来 ， 主人 会 鼓励 客人 们 吃 到 饱 ， 常常 会 说 “ 多吃点 ” ， “ 慢慢 吃 ” 等等 。</translation>
+    <translation system="spm">上菜 的 时候 ， 一般 先上 涼菜 ， 然后 上 热菜 ， 上菜 来 以后 ， 一般 先要 等 最 重要 的 或者 年纪 最大 的 客人 开始 吃 ， 其他人 才能 跟着 吃 ， 后来 ， 主人 会 鼓励 客人 们 吃 到 饱 ， 常常 会 说 ” 多吃点 ” ， 慢慢 吃 ” 等等 。</translation>
+  </seg>
+  <seg id="882" doc-id="mucgec">
+    <source>甚至 我 睡觉 前带 耳机 听 音乐 睡觉 。 最近 ， 在 走路 的 时候 ， 我们 很 容易 听到 流行歌曲 ， 也 可以 看到 很多 明星 的 照片 比如 ， 我们 看电视 的 时候 可以 听到 ， 也 可以 看到 流行歌曲 和 明星 ， 还有 ， 我们 去 买 东西 的 时候 在 百货店 里 可以 听到 流行歌曲 ， 这些 对 我们 说 什么 呢 流行歌曲 已经 进入 在 我们 的 生活 里 。</source>
+    <translation system="bart">甚至 我 睡觉 前带 耳机 听 音乐 睡觉 。 最近 ， 在 走路 的 时候 ， 我们 很 容易 听到 流行歌曲 ， 也 可以 看到 很多 明星 的 照片 。 比如 ， 我们 看电视 的 时候 可以 听到 ， 也 可以 看到 流行歌曲 和 明星 ， 还有 ， 我们 去 买 东西 的 时候 在 百货店 里 可以 听到 流行歌曲 ， 这些 对 我们 说 什么 呢 ？ 流行歌曲 已经 进入 在 我们 的 生活 里 。</translation>
+    <translation system="t5">甚至 我 睡觉 前带 耳机 听 音乐 睡觉 。 最近 ， 在 走路 的 时候 ， 我们 很 容易 听到 流行歌曲 ， 也 可以 看到 很多 明星 的 照片 比如 ， 我们 看电视 的 时候 可以 听到 ， 也 可以 看到 流行歌曲 和 明星 ， 还有 ， 我们 去 买 东西 的 时候 在 百货店 里 可以 听到 流行歌曲 ， 这些 对 我们 来说 是 什么 呢 ？ 流行歌曲 已经 进入 我们 的 生活 里 。</translation>
+    <translation system="s2e">甚至 我 睡觉 前带 耳机 听 音乐 睡觉 。 最近 ， 在 走路 的 时候 ， 我们 很 容易 听到 流行歌曲 ， 也 可以 看到 很多 明星 的 照片 ， 比如 ， 我们 看电视 的 时候 可以 听到 ， 也 可以 看到 流行歌曲 和 明星 ， 还有 ， 我们 去 买 东西 的 时候 在 百货店 里 可以 听到 流行歌曲 ， 这些 对 我们 来说 有 什么 呢 ？ 流行歌曲 已经 进入 我们 的 生活 里 。</translation>
+    <translation system="word">甚至 我 睡觉 前带 耳机 听 音乐 睡觉 ， 最近 ， 在 走路 的 时候 ， 我们 很 容易 听到 流行歌曲 ， 也 可以 看到 很多 明星 的 照片 。 比如 ， 我们 看电视 的 时候 可以 听到 ， 也 可以 看到 流行歌曲 和 明星 ， 还有 ， 我们 去 买 东西 的 时候 在 百货店 里 可以 听到 流行歌曲 ， 这些 对 我们 说 什么 呢 ？ 流行歌曲 已经 进入 我们 的 生活 里 了 。</translation>
+    <translation system="char">甚至 我 睡觉 前带 耳机 听 音乐 睡觉 。 最近 ， 在 走路 的 时候 ， 我们 很 容易 听到 流行歌曲 ， 也 可以 看到 很多 明星 的 照片 。 比如 ， 我们 看电视 的 时候 可以 听到 ， 也 可以 看到 流行歌曲 和 明星 ， 还有 ， 我们 去 买 东西 的 时候 在 百货店 里 可以 听到 流行歌曲 ， 这些 对 我们 来说 什么 呢 ？ 流行歌曲 已经 进入 我们 的 生活 里 。</translation>
+    <translation system="spm">甚至 我 睡觉 前带 耳机 听 音乐 睡觉 ， 最近 ， 在 走路 的 时候 ， 我们 很 容易 听到 流行歌曲 ， 也 可以 看到 很多 明星 的 照片 。 比如 ， 我们 看电视 的 时候 可以 听到 ， 也 可以 看到 流行歌曲 和 明星 ， 还有 ， 我们 去 买 东西 的 时候 在 百货店 里 可以 听到 流行歌曲 ， 这些 对 我们 说 什么 呢 ？ 流行歌曲 已经 进入 我们 的 生活 里 。</translation>
+  </seg>
+  <seg id="361" doc-id="mucgec">
+    <source>现在 世界 上 还有 很多 的 因 缺少 粮食 而 挨饿 。</source>
+    <translation system="bart+t5+s2e+word+char+spm">现在 世界 上 还有 很多 人因 缺少 粮食 而 挨饿 。</translation>
+  </seg>
+  <seg id="785" doc-id="mucgec">
+    <source>我 也 想 父母 是 孩子 的 第一任 老师 。 有 一个 孩子 刚刚 生 的 时候 ， 他 除了 只能 大声 哭 以外 ， 什么 事情 都 做 不到 。 得到 为 活下去 的 营养 也好 ， 移动 到 别的 地方 也好 ， 一定 需要 他 的 父母 帮助 他 活下去 的 。</source>
+    <translation system="bart">我 也 想 父母 是 孩子 的 第一任 老师 ， 有 一个 孩子 刚刚 生 的 时候 ， 他 除了 只能 大声 哭 以外 ， 什么 事情 都 做 不到 ， 得到 活下去 的 营养 也好 ， 移动 到 别的 地方 也好 ， 一定 需要 他 的 父母 帮助 他 活下去 。</translation>
+    <translation system="t5">我 也 想 父母 是 孩子 的 第一任 老师 。 有 一个 孩子 刚刚 生 的 时候 ， 他 除了 只能 大声 哭 以外 ， 什么 事情 都 做 不到 。 得到 为 活下去 的 营养 也好 ， 移动 到 别的 地方 也好 ， 一定 需要 他 的 父母 帮助 他 活下去 。</translation>
+    <translation system="s2e">我 也 认为 父母 是 孩子 的 第一任 老师 ， 有 一个 孩子 刚刚 生 的 时候 ， 他 除了 能 大声 哭 以外 ， 什么 事情 都 做 不到 ， 得到 活下去 的 营养 也好 ， 移动 到 别的 地方 也好 ， 一定 需要 他 的 父母 帮助 他 活下去 。</translation>
+    <translation system="word">我 也 认为 父母 是 孩子 的 第一任 老师 ， 有 一个 孩子 刚刚 生 的 时候 ， 他 除了 能 大声 哭 以外 ， 什么 事情 都 做 不到 ， 得到 为 活下去 的 营养 也好 ， 到 别的 地方 也好 ， 一定 需要 他 的 父母 帮助 他 活下去 。</translation>
+    <translation system="char">我 也 认为 父母 是 孩子 的 第一任 老师 ， 有 一个 孩子 刚刚 生活 的 时候 ， 他 除了 能 大声 哭 以外 ， 什么 事情 都 做 不到 ， 得到 为 活下去 的 营养 也好 ， 移动 到 别的 地方 也好 ， 一定 需要 他 的 父母 帮助 他 活下去 。</translation>
+    <translation system="spm">我 也 认为 父母 是 孩子 的 第一任 老师 ， 有 一个 孩子 刚刚 生 的 时候 ， 他 除了 只能 大声 哭 以外 ， 什么 事情 都 做 不到 ， 得到 为 活下去 的 营养 也好 ， 移动 到 别的 地方 也好 ， 一定 需要 他 的 父母 帮助 他 活下去 。</translation>
+  </seg>
+  <seg id="180" doc-id="mucgec">
+    <source>但是 长期 来看 ， 为 增加 农作物 的 产量 ， 乱用 化肥 和 农药 是 我们 人类 都 要 到 灭绝 之境 。</source>
+    <translation system="bart+spm">但是 长期 来看 ， 为 增加 农作物 的 产量 ， 乱用 化肥 和 农药 是 我们 人类 都 要 到 灭绝 之境 。</translation>
+    <translation system="t5">但是 长期 来看 ， 为了 增加 农作物 的 产量 ， 乱用 化肥 和 农药 是 我们 人类 都 要 到 灭绝 之境 。</translation>
+    <translation system="s2e">但是 长期 来看 ， 为 增加 农作物 的 产量 ， 乱用 化肥 和 农药 使 我们 人类 都 要 到 灭绝 之境 。</translation>
+    <translation system="word">但是 长期 来看 ， 为 增加 农作物 的 产量 ， 乱用 化肥 和 农药 我们 人类 都 要 到 灭绝 之境 。</translation>
+    <translation system="char">但是 从 长期 来看 ， 为 增加 农作物 的 产量 ， 乱用 化肥 和 农药 是 我们 人类 都 要 到 灭绝 之境 。</translation>
+  </seg>
+  <seg id="1069" doc-id="mucgec">
+    <source>早上 先 煎 鸡蛋 、 西红柿 切 成片 ， 火腿 切 成片 ， 然后 一起 它们 夹入 两片 面包 中 。</source>
+    <translation system="bart+t5+word+char+spm">早上 先 煎 鸡蛋 、 西红柿 切 成片 ， 火腿 切 成片 ， 然后 把 它们 夹入 两片 面包 中 。</translation>
+    <translation system="s2e">早上 先 把 鸡蛋 、 西红柿 切 成片 ， 火腿 切 成片 ， 然后 夹入 两片 面包 中 。</translation>
+  </seg>
+  <seg id="37" doc-id="mucgec">
+    <source>她们 生活 中 最大 的 一部分 是 听 流行歌曲 的 。</source>
+    <translation system="bart+t5+s2e+word+char+spm">她们 生活 中 最大 的 一部分 是 听 流行歌曲 。</translation>
+  </seg>
+  <seg id="597" doc-id="mucgec">
+    <source>随着 现代 经济 越来越 发展 ， 人民 的 观念 也 很大 变化 。</source>
+    <translation system="bart+t5+word">随着 现代 经济 越来越 发展 ， 人民 的 观念 也 发生 了 很大 变化 。</translation>
+    <translation system="s2e">随着 现代 经济 越来越 发达 ， 人民 的 观念 也 出 了 很大 变化 。</translation>
+    <translation system="char+spm">随着 现代 经济 越来越快 发展 ， 人民 的 观念 也 很大 变化 。</translation>
+  </seg>
+  <seg id="1076" doc-id="mucgec">
+    <source>老 女人 的 庞 的 肚子 正在 挂 落下 。 胖子 的 以下 里面 有 一个 热水 装满 的 大盆 。</source>
+    <translation system="bart+char+spm">老 女人 的 庞大 的 肚子 正在 挂 落下 ， 胖子 的 以下 里面 有 一个 热水 装满 的 大盆 。</translation>
+    <translation system="t5">老 女人 的 肚子 正在 挂 落下 。 胖子 的 下面 里面 有 一个 装满 热水 的 大盆 。</translation>
+    <translation system="s2e">老 女人 的 的 肚子 正在 挂 落下 ， 胖子 的 下 里面 有 一个 热水 的 大盆 。</translation>
+    <translation system="word">老 女人 的 庞 的 肚子 正在 挂 落下 ， 胖子 的 以下 里面 有 一个 热水 装满 的 大盆 。</translation>
+  </seg>
+  <seg id="440" doc-id="mucgec">
+    <source>这种 书 ， 我们 只能 以 略读 ， 跳读 的 方法 涉猎 了 。</source>
+    <translation system="bart+t5">这种 书 ， 我们 只能 以 略读 ， 跳读 的 方法 阅读 。</translation>
+    <translation system="s2e">这种 书 ， 我们 只能 以 略读 ， 跳读 的 方法 涉猎 了 。</translation>
+    <translation system="word">这种 书 ， 我们 只能 略读 ， 跳读 的 方法 涉猎 了 。</translation>
+    <translation system="char+spm">这种 书 ， 我们 只能 以 略读 、 跳读 的 方法 涉猎 了 。</translation>
+  </seg>
+  <seg id="500" doc-id="mucgec">
+    <source>西班牙 的 生活 有 好处 和 坏处 。 我 来讲 你们 坏处 之一 。</source>
+    <translation system="bart+word">西班牙 的 生活 有 好处 和 坏处 ， 我 来讲 你们 坏处 之一 。</translation>
+    <translation system="t5">西班牙 的 生活 有 好处 和 坏处 。 我 来讲 你们 的 坏处 之一 。</translation>
+    <translation system="s2e">西班牙 的 生活 有 好处 和 坏处 ， 对 我 来讲 是 坏处 之一 。</translation>
+    <translation system="char+spm">西班牙 的 生活 有 好处 和 坏处 ， 对 我 来讲 你们 坏处 之一 。</translation>
+  </seg>
+  <seg id="121" doc-id="mucgec">
+    <source>只要 把 花 在 绿色食品 的 钱 ， 寄给 饥饿 的 人民 的话 ， 在 地球 上 再也不会 出现 因 饥饿 而 死 的 悲惨 的 事情 ， 让 他们 找 更好 的 未来 。</source>
+    <translation system="bart">只要 把 花 在 绿色食品 上 的 钱 ， 寄给 饥饿 的 人民 的话 ， 在 地球 上 再也不会 出现 因 饥饿 而 死 的 悲惨 的 事情 ， 让 他们 找 更好 的 未来 。</translation>
+    <translation system="t5">只要 把 花 在 绿色食品 上 的 钱 ， 寄给 饥饿 的 人民 的话 ， 在 地球 上 再也不会 出现 因 饥饿 而 死 的 悲惨 的 事情 ， 让 他们 找到 更好 的 未来 。</translation>
+    <translation system="s2e">只要 把 花 在 “ 绿色食品 ” 上 的 钱 寄给 饥饿 的 人民 的话 ， 在 地球 上 再也不会 出现 因 饥饿 而 死 的 悲惨 的 事情 ， 让 他们 寻找 到 更好 的 未来 。</translation>
+    <translation system="word">只要 把 花 在 绿色食品 上 的 钱 寄给 饥饿 的 人民 的话 ， 在 地球 上 再也不会 出现 因 饥饿 而 死 的 悲惨 的 事情 ， 让 他们 找 更好 的 未来 。</translation>
+    <translation system="char">只要 把 花 在 绿色食品 上 的 钱 、 寄给 饥饿 的 人民 的话 ， 在 地球 上 再也不会 出现 因 饥饿 而 死 的 悲惨 的 事情 ， 让 他们 找 更好 的 未来 。</translation>
+    <translation system="spm">只要 把 花 在 绿色食品 的 钱 上 ， 寄给 饥饿 的 人民 的话 ， 在 地球 上 再也不会 出现 因 饥饿 而 死 的 悲惨 的 事情 ， 让 他们 找 更好 的 未来 。</translation>
+  </seg>
+  <seg id="585" doc-id="mucgec">
+    <source>我 进来 了 。 他们 让 我 坐在 椅 了 上 然后 开始 了 问 我 很多 问题 。</source>
+    <translation system="bart+s2e">我 进来 了 ， 他们 让 我 坐在 椅子 上 然后 开始 问 我 很多 问题 。</translation>
+    <translation system="t5">我 进来 了 。 他们 让 我 坐在 椅子 上 然后 开始 问 我 很多 问题 。</translation>
+    <translation system="word+spm">我 进来 了 ， 他们 让 我 坐在 椅上 ， 然后 开始 问 我 很多 问题 。</translation>
+    <translation system="char">我 进来 了 ， 他们 让 我 坐在 椅子 上 ， 然后 开始 问 我 很多 问题 。</translation>
+  </seg>
+  <seg id="394" doc-id="mucgec">
+    <source>有时候 ， 父母 的 兴趣 、 爱好 也 会 成为 孩子 们 的 嗜好 。 有 很多 伟大 的 音乐家 ， 他们 的 父亲 或 母亲 都 热爱 音乐 ， 从而 培养 他们 对 音乐 的 兴趣 。</source>
+    <translation system="bart+word+char+spm">有时候 ， 父母 的 兴趣 、 爱好 也 会 成为 孩子 们 的 嗜好 ， 有 很多 伟大 的 音乐家 ， 他们 的 父亲 或 母亲 都 热爱 音乐 ， 从而 培养 他们 对 音乐 的 兴趣 。</translation>
+    <translation system="t5">有时候 ， 父母 的 兴趣 、 爱好 也 会 成为 孩子 们 的 嗜好 。 有 很多 伟大 的 音乐家 ， 他们 的 父亲 或 母亲 都 热爱 音乐 ， 从而 培养 他们 对 音乐 的 兴趣 。</translation>
+    <translation system="s2e">有时候 ， 父母 的 兴趣 、 爱好 也 会 成为 孩子 们 的 爱好 ， 有 很多 伟大 的 音乐家 ， 他们 的 父亲 或 母亲 都 热爱 音乐 ， 从而 培养 他们 对 音乐 的 兴趣 。</translation>
+  </seg>
+  <seg id="762" doc-id="mucgec">
+    <source>我 是 个 吸烟 的 人 ， 随着 时代 的 变化 ， 吸烟者 在 什么 地方 也 不 受到 欢迎 。 最近 我 也 感觉 到 吸烟 一个 也 没有 好处 ， 为 自己 健康 应该 戒烟 。 还有 吸烟 对 公众 有害 的 是 吸烟者 该 重视 起来 。</source>
+    <translation system="bart">我 是 个 吸烟 的 人 ， 随着 时代 的 变化 ， 吸烟者 在 什么 地方 都 不 受到 欢迎 ， 最近 我 也 感觉 到 吸烟 一点 也 没有 好处 ， 为 自己 健康 应该 戒烟 ， 还有 吸烟 对 公众 有害 的 是 吸烟者 该 重视 起来 。</translation>
+    <translation system="t5">我 是 个 吸烟 的 人 ， 随着 时代 的 变化 ， 吸烟者 在 什么 地方 也 不 受到 欢迎 。 最近 我 也 感觉 到 吸烟 一点 也 没有 好处 ， 为了 自己 健康 应该 戒烟 。 还有 吸烟 对 公众 有害 的 是 吸烟者 该 重视 起来 。</translation>
+    <translation system="s2e">我 是 个 吸烟 的 人 ， 随着 时代 的 变化 ， 吸烟者 在 什么 地方 都 不 受欢迎 ， 最近 我 也 感觉 到 吸烟 一点 也 没有 好处 ， 为了 自己 健康 应该 戒烟 ， 还有 吸烟 对 公众 有害 的 吸烟者 该 重视 起来 。</translation>
+    <translation system="word+spm">我 是 个 吸烟 的 人 ， 随着 时代 的 变化 ， 吸烟者 在 什么 地方 也 不 受欢迎 ， 最近 我 也 感觉 到 吸烟 一点 也 没有 好处 ， 对 自己 健康 应该 戒烟 ， 还有 吸烟 对 公众 有害 的 是 吸烟者 该 重视 起来 。</translation>
+    <translation system="char">我 是 个 吸烟 的 人 ， 随着 时代 的 变化 ， 吸烟者 在 什么 地方 也 不 受到 欢迎 ， 最近 我 也 感觉 到 吸烟 一点 也 没有 好处 ， 对 自己 健康 应该 戒烟 ， 还有 吸烟 对 公众 有害 的 时候 是 吸烟者 该 重视 起来 。</translation>
+  </seg>
+  <seg id="282" doc-id="mucgec">
+    <source>随着 经济 的 发展 ， 中国 人 的 吸烟率 也 翻了一番 ， 已成 了 世界 早 最 多 的 “ 烟民 ” 之 国 。 对 中国 而言 ， 在 公共场所 内 的 吸烟 问题 是 不可 忽视 的 。</source>
+    <translation system="bart">随着 经济 的 发展 ， 中国 人 的 吸烟率 也 翻了一番 ， 已成 了 世界 上 最 多 的 烟民 之 国 ， 对 中国 而言 ， 在 公共场所 内 的 吸烟 问题 是 不可 忽视 的 。</translation>
+    <translation system="t5">随着 经济 的 发展 ， 中国 人 的 吸烟率 也 翻了一番 ， 已成 了 世界 上 最 多 的 “ 烟民 ” 之 国 。 对 中国 而言 ， 在 公共场所 内 的 吸烟 问题 是 不可 忽视 的 。</translation>
+    <translation system="s2e">随着 经济 的 发展 ， 中国 人 的 吸烟率 也 翻了一番 ， 中国 已成 了 世界 上 最 多 的 “ 烟民 ” 国家 ， 对 中国 而言 ， 在 公共场所 内 的 吸烟 问题 是 不可 忽视 的 。</translation>
+    <translation system="word">随着 经济 的 发展 ， 中国 人 的 吸烟率 也 翻了一番 ， 中国 已成 了 世界 上 拥有 最多 的 “ 烟民 ” 之 国 ， 对 中国 而言 ， 在 公共场所 内 的 吸烟 问题 是 不可 忽视 的 。</translation>
+    <translation system="char">随着 经济 的 发展 ， 中国 人 的 吸烟率 也 翻了一番 ， 中国 已成 了 世界 上 拥有 最 多 “ 烟民 ” 的 国家 ， 对 中国 而言 ， 在 公共场所 吸烟 问题 是 不可 忽视 的 。</translation>
+    <translation system="spm">随着 经济 的 发展 ， 中国 人 的 吸烟率 也 翻了一番 ， 中国 已成 了 世界 上 拥有 最 多 “ 烟民 ” 的 国家 ， 对 中国 而言 ， 在 公共场所 的 吸烟 问题 是 不可 忽视 的 。</translation>
+  </seg>
+  <seg id="605" doc-id="mucgec">
+    <source>我 已经 订票 飞机票 。 久后 ， 为了 我 的 职业 ， 我要 常常 旅行 。</source>
+    <translation system="bart">我 已经 订 了 飞机票 ， 以后 ， 为了 我 的 职业 ， 我要 常常 旅行 。</translation>
+    <translation system="t5">我 已经 订票 飞机票 。 久后 ， 为了 我 的 职业 ， 我要 常常 旅行 。 我 已经 订好 飞机票 了 。 久后 ， 为了 我 的 职业 ， 我要 常常 旅行 。</translation>
+    <translation system="s2e">我 已经 订 了 飞机票 了 ， 为了 我 的 职业 ， 我要 常常 去 旅行 。</translation>
+    <translation system="word+char">我 已经 订票 飞机票 ， 久后 ， 为了 我 的 职业 ， 我要 常常 旅行 。</translation>
+    <translation system="spm">我 已经 订 了 飞机票 ， 很久后 ， 为了 我 的 职业 ， 我要 常常 旅行 。</translation>
+  </seg>
+  <seg id="932" doc-id="mucgec">
+    <source>然后 每个 人要 在 和 别人 交流 的 时候 互相 影响 了 ， 其中 可以 再 学会 别的 ， 这样 过 珍惜 的 日子 。 我 认为 这样 的 “ 人际关系 ” ， 是 在生活中 很 重要 的 。 如 每个 人 得到 能 做 良好 的 人际关系 的话 ， 一定 需要 好榜样 。</source>
+    <translation system="bart">然后 每个 人要 在 和 别人 交流 的 时候 互相 影响 ， 其中 可以 再 学会 别的 ， 这样 过 珍惜 的 日子 ， 我 认为 这样 的 人际关系 是 在生活中 很 重要 的 ， 如 每个 人 得到 能 形成 良好 的 人际关系 的话 ， 一定 需要 好榜样 。</translation>
+    <translation system="t5">然后 每个 人要 在 和 别人 交流 的 时候 互相 影响 ， 其中 可以 再 学会 别的 ， 这样 过 珍惜 的 日子 。 我 认为 这样 的 “ 人际关系 ” ， 是 在生活中 很 重要 的 。 如 每个 人 得到 能 做 良好 的 人际关系 的话 ， 一定 需要 好榜样 。</translation>
+    <translation system="s2e">然后 每个 人要 在 和 别人 交流 的 时候 互相 影响 ， 从中 可以 再 学会 别的 ， 这样 过 珍惜 的 日子 。 我 认为 这样 的 “ 人际关系 ” ， 是 在生活中 很 重要 的 ， 如 每个 人 拥有 良好 的 人际关系 的话 ， 一定 需要 好榜样 。</translation>
+    <translation system="word">然后 每个 人要 在 和 别人 交流 的 时候 互相 影响 ， 其中 可以 再 学会 别的 ， 这样 过 珍惜 的 日子 ， 我 认为 这样 的 “ 人际关系 ” ， 是 在生活中 很 重要 的 ， 如果 每个 人能 得到 良好 的 人际关系 的话 ， 一定 需要 好榜样 。</translation>
+    <translation system="char">然后 每个 人要 在 和 别人 交流 的 时候 互相 影响 ， 其中 可以 再 学会 别的 ， 这样 过 珍惜 的 日子 ， 我 认为 这样 的 “ 人际关系 ” ， 在生活中 很 重要 的 ， 如 每个 人 得到 能 良好 的 人际关系 的话 ， 一定 需要 好榜样 。</translation>
+    <translation system="spm">然后 每个 人 在 和 别人 交流 的 时候 互相 影响 ， 其中 可以 再 学会 别的 ， 这样 过 珍惜 的 日子 ， 我 认为 这样 的 “ 人际关系 ” ， 是 在生活中 很 重要 的 ， 如 每个 人 得到 能 良好 的 人际关系 的话 ， 一定 需要 好榜样 。</translation>
+  </seg>
+  <seg id="695" doc-id="mucgec">
+    <source>尽量 乘坐 公共 交通工具 ， 比如 公共汽车 或 火车 ， 因为 汽车 或 飞机 会 产生 很 大量 的 废气 。</source>
+    <translation system="bart+t5+word+spm">尽量 乘坐 公共 交通工具 ， 比如 公共汽车 或 火车 ， 因为 汽车 或 飞机 会 产生 大量 的 废气 。</translation>
+    <translation system="s2e">尽量 乘坐 公共 交通工具 ， 比如 公共汽车 或 火车 ， 因为 汽车 或 飞机 会 产生 很 大量 的 废气 。</translation>
+    <translation system="char">尽量 乘坐 公共 交通工具 ， 比如 公共汽车 或 火车 ， 因为 汽车 或 飞机 会 产生 很大 的 废气 。</translation>
+  </seg>
+  <seg id="130" doc-id="mucgec">
+    <source>然后 这样 下去 以后 我 的 身体 跟 以前 大不一样 ， 吃饭 以后 经常 吸烟 ， 然后 马上 吐 起来 这个 是 初步 的 症态 。 一直 吸烟 以后 呢 吐 的 次数 越来越 多 。 还有 运动 的 时候 马上 喘 不过 气 。 这样 的 情况 遇到 以后 我 马上 不能 吸烟 。</source>
+    <translation system="bart">然后 这样 下去 以后 我 的 身体 跟 以前 大不一样 ， 吃饭 以后 经常 吸烟 ， 然后 马上 吐出来 。 这个 是 初步 的 症态 ， 一直 吸烟 以后 呢 ， 吐 的 次数 越来越 多 ， 还有 运动 的 时候 马上 喘 不过 气 ， 这样 的 情况 遇到 以后 我 马上 不能 吸烟 。</translation>
+    <translation system="t5">然后 这样 下去 以后 我 的 身体 跟 以前 大不一样 ， 吃饭 以后 经常 吸烟 ， 然后 马上 吐 起来 这个 是 初步 的 症态 。 一直 吸烟 以后 呢 吐 的 次数 越来越 多 。 还有 运动 的 时候 马上 喘 不过 气 。 这样 的 情况 遇到 以后 我 马上 不能 吸烟 。</translation>
+    <translation system="s2e">然后 这样 下去 以后 我 的 身体 跟 以前 大不一样 ， 吃饭 以后 经常 吸烟 ， 然后 马上 吐出来 ， 这个 是 初步 的 症态 ， 一直 吸烟 以后 ， 吐 的 次数 越来越 多 ， 还有 运动 的 时候 马上 喘 不过 气 ， 这样 的 情况 遇到 以后 我 马上 不能 吸烟 。</translation>
+    <translation system="word">然后 这样 下去 以后 ， 我 的 身体 跟 以前 大不一样 ， 吃饭 以后 经常 吸烟 ， 然后 马上 吐出来 ， 这个 是 初步 的 症态 ， 一直 吸烟 以后 ， 吐 的 次数 越来越 多 ， 还有 运动 的 时候 马上 喘 不过 气 ， 这样 的 情况 遇到 以后 我 马上 不能 吸烟 。</translation>
+    <translation system="char">然后 这样 下去 以后 ， 我 的 身体 跟 以前 大不一样 ， 吃饭 以后 经常 吸烟 ， 然后 马上 吐出来 ， 这个 是 初步 的 症态 ， 一直 吸烟 以后 呢 吐 的 次数 越来越 多 ， 还有 运动 的 时候 马上 喘 不过 气 ， 这样 的 情况 遇到 以后 我 马上 不能 吸烟 。</translation>
+    <translation system="spm">然后 这样 下去 以后 ， 我 的 身体 跟 以前 大不一样 ， 吃饭 以后 经常 吸烟 ， 然后 马上 吐出来 ， 这个 是 初步 的 症态 ， 一直 吸烟 ， 以后 呢 吐 的 次数 越来越 多 ， 还有 运动 的 时候 马上 喘 不过 气 ， 这样 的 情况 遇到 以后 我 马上 不能 吸烟 了 。</translation>
+  </seg>
+  <seg id="160" doc-id="mucgec">
+    <source>就 一个 人 的 生命 有关 。</source>
+    <translation system="bart+t5+word+spm">就 跟 一个 人 的 生命 有关 。</translation>
+    <translation system="s2e">和 一个 人 的 生命 有关 。</translation>
+    <translation system="char">就 与 一个 人 的 生命 有关 。</translation>
+  </seg>
+  <seg id="195" doc-id="mucgec">
+    <source>总而言之 ， 父母 的 任务 我 觉得 比 老师 的 任务 还严 。</source>
+    <translation system="bart">总而言之 ， 父母 的 任务 比 老师 的 任务 还严 。</translation>
+    <translation system="t5">总而言之 ， 父母 的 任务 比 老师 的 任务 还要 严 。</translation>
+    <translation system="s2e">总而言之 ， 父母 的 任务 我 觉得 比 老师 的 任务 还严 。</translation>
+    <translation system="word">总而言之 ， 我 觉得 父母 的 任务 比 老师 的 任务 还严 。</translation>
+    <translation system="char">总而言之 ， 父母 的 任务 我 觉得 比 老师 的 任务 都 严 。</translation>
+    <translation system="spm">总而言之 ， 父母 的 任务 我 觉得 比 老师 的 任务 还重 。</translation>
+  </seg>
+  <seg id="179" doc-id="mucgec">
+    <source>现在 的 医学 也 发现 ， 多 吸烟 的 人 都 会 可能 生 起 癌症 来 而且 各种 不 可医好 的 病类 。 所以 现在 各国 世界 都 不 准许 个人 随意 吸烟 ， 而 影响 了 其他人 的 身体健康 。</source>
+    <translation system="bart">现在 的 医学 也 发现 ， 多 吸烟 的 人 都 会 可能 得 癌症 ， 而且 各种 不 可医好 的 病类 ， 所以 现在 各国 都 不 准许 个人 随意 吸烟 ， 而 影响 了 其他人 的 身体健康 。</translation>
+    <translation system="t5">现在 的 医学 也 发现 ， 多 吸烟 的 人 都 可能 会生 起 癌症 ， 而且 各种 不 可医好 的 病类 。 所以 现在 各国 世界 都 不 准许 个人 随意 吸烟 ， 而 影响 了 其他人 的 身体健康 。</translation>
+    <translation system="s2e">现在 的 医学 也 发现 ， 多 吸烟 的 人 都 会 可能 得 癌症 以及 各种 不 可医好 的 病 ， 所以 现在 各国 都 不 准许 个人 随意 吸烟 ， 而 影响 了 其他人 的 身体健康 。</translation>
+    <translation system="word+char+spm">现在 的 医学 也 发现 ， 多 吸烟 的 人 都 会 可能 得 癌症 以及 各种 不 可医好 的 病类 ， 所以 现在 各国 世界 都 不 准许 个人 随意 吸烟 ， 而 影响 了 其他人 的 身体健康 。</translation>
+  </seg>
+  <seg id="880" doc-id="mucgec">
+    <source>调查 显示 ， 在 女校 或 男校 同性恋者 的 巴仙率 比 男女 混合 学校 的 高出 许多 。</source>
+    <translation system="bart+s2e+word+char+spm">调查 显示 ， 在 女校 或 男校 同性恋者 的 发生率 比 男女 混合 学校 的 高出 许多 。</translation>
+    <translation system="t5">调查 显示 ， 在 女校 或 男校 同性恋者 的 巴仙率 比 男女 混合 学校 的 高 许多 。</translation>
+  </seg>
+  <seg id="760" doc-id="mucgec">
+    <source>张华 来自 大 地主 家庭 。 可是 因为 对 农业 没有 什么 感兴趣 ， 她 的 土地 荒芜 了 。 所以 他 决定 了 ， 跟 一个 朋友 去 都市 为 交易 丝绸 。 这个 张华 的 妻子 在 村里 ， 耐心 地 等待 着 他 的 回归 。 他 应该 是 在 秋天 返回 家 。</source>
+    <translation system="bart">张华 来自 大 地主 家庭 ， 可是 因为 对 农业 没有 什么 感兴趣 ， 她 的 土地 荒芜 了 ， 所以 他 决定 了 ， 跟 一个 朋友 去 都市 交易 丝绸 ， 这个 张华 的 妻子 在 村里 ， 耐心 地 等待 着 他 的 回归 ， 他 应该 是 在 秋天 返回 家 。</translation>
+    <translation system="t5">张华 来自 大 地主 家庭 。 可是 因为 对 农业 没有 什么 兴趣 ， 她 的 土地 荒芜 了 。 所以 他 决定 跟 一个 朋友 去 都市 为 交易 丝绸 。 这个 张华 的 妻子 在 村里 ， 耐心 地 等待 着 他 的 回归 。 他 应该 是 在 秋天 返回 家 。</translation>
+    <translation system="s2e">张华 来自 大 地主 家庭 ， 可是 因为 对 农业 没有 什么 感兴趣 ， 她 的 土地 荒芜 了 ， 所以 他 决定 ， 跟 一个 朋友 去 都市 交易 丝绸 ， 这 张华 的 妻子 在 村里 ， 耐心 地 等待 着 他 的 回归 ， 他 应该 是 在 秋天 返回 家 。</translation>
+    <translation system="word">张华 来自 大 地主 家庭 ， 可是 因为 对 农业 没有 什么 感兴趣 ， 她 的 土地 荒芜 了 ， 所以 他 决定 跟 一个 朋友 去 都市 为 交易 丝绸 ， 这个 张华 的 妻子 在 村里 ， 耐心 地 等待 着 他 的 回归 ， 他 应该 是 在 秋天 返回 家 。</translation>
+    <translation system="char">张华 来自 大 地主 家庭 ， 可是 因为 对 农业 没有 什么 感兴趣 ， 她 的 土地 荒芜 了 ， 所以 他 决定 了 ， 跟 一个 朋友 去 都市 做 交易 丝绸 ， 这个 张华 的 妻子 在 村里 ， 耐心 地 等待 着 他 的 回归 ， 他 应该 是 在 秋天 返回 家 。</translation>
+    <translation system="spm">张华 来自 大 地主 家庭 ， 可是 因为 对 农业 没有 什么 兴趣 ， 她 的 土地 荒芜 了 ， 所以 他 决定 了 ， 跟 一个 朋友 去 都市 为 交易 丝绸 ， 这个 张华 的 妻子 在 村里 ， 耐心 地 等待 着 他 回归 ， 他 应该 是 在 秋天 返回 家 。</translation>
+  </seg>
+  <seg id="150" doc-id="mucgec">
+    <source>我们 大家 都 知道 男生 与 女生 在 思想 和 身态 发展 方面 都 有 一定 的 差别 。 女生 往往 在 身态 上 和 思想 上 都 比 男生 来得 早熟 。</source>
+    <translation system="bart+word+spm">我们 大家 都 知道 男生 与 女生 在 思想 和 身体 发展 方面 都 有 一定 的 差别 ， 女生 往往 在 身体 上 和 思想 上 都 比 男生 来得 早熟 。</translation>
+    <translation system="t5">我们 大家 都 知道 男生 与 女生 在 思想 和 身态 发展 方面 都 有 一定 的 差别 ， 女生 往往 在 身态 上 和 思想 上 都 比 男生 来得 早熟 。</translation>
+    <translation system="s2e+char">我们 大家 都 知道 男生 与 女生 在 思想 和 身体 发展 方面 都 有 一定 的 差别 ， 女生 往往 在 身体 上 和 思想 上 都 比 男生 早熟 。</translation>
+  </seg>
+  <seg id="886" doc-id="mucgec">
+    <source>虽然 我 曾经 从 没有 看 卡通片 ， 我 现在 常常 在 脑里 看 卡通片 。</source>
+    <translation system="bart+s2e+char">虽然 我 从 没有 看过 卡通片 ， 但 我 现在 常常 在 脑海 里 看 卡通片 。</translation>
+    <translation system="t5">虽然 我 从 没有 看过 卡通片 ， 但 我 现在 常常 在 脑子里 看 卡通片 。</translation>
+    <translation system="word">虽然 我 曾经 从 没有 看过 卡通片 ， 但是 我 现在 常常 在 脑子里 看 卡通片 。</translation>
+    <translation system="spm">虽然 我 曾经 从 没有 看过 卡通片 ， 但是 我 现在 常常 在 脑海 里 看 卡通片 。</translation>
+  </seg>
+  <seg id="1094" doc-id="mucgec">
+    <source>所以 人们 现在 最 关心 的 是 对 自己 的 健康 。</source>
+    <translation system="bart+t5+s2e+word+char+spm">所以 人们 现在 最 关心 的 是 自己 的 健康 。</translation>
+  </seg>
+  <seg id="617" doc-id="mucgec">
+    <source>面临 她 的 死亡 后 ， 我 真的 不 知道 干 怎么 才 好 。 我 每天 想 她 。</source>
+    <translation system="bart+word">面临 她 的 死亡 后 ， 我 真的 不 知道 干 怎么 才 好 ， 我 每天 想 她 。</translation>
+    <translation system="t5">面临 她 的 死亡 后 ， 我 真的 不 知道 该 怎么办 才 好 。 我 每天 都 在 想 她 。</translation>
+    <translation system="s2e">面临 她 的 死亡 后 ， 我 真的 不 知道 该 怎么 才 好 ， 我 每天 想 她 。</translation>
+    <translation system="char">面临 她 的 死亡 后 ， 我 真的 不 知道 干什么 才 好 ， 我 每天 想 她 。</translation>
+    <translation system="spm">面临 她 的 死亡 后 ， 我 真的 不 知道 怎么办 才 好 ， 我 每天 想 她 。</translation>
+  </seg>
+  <seg id="967" doc-id="mucgec">
+    <source>现在 世界 各国 对 吸烟 为 严厉 的 措施 。</source>
+    <translation system="bart+t5">现在 世界 各国 对 吸烟 采取 严厉 的 措施 。</translation>
+    <translation system="s2e">现在 世界 各国 对 吸烟 采 严厉 的 措施 。</translation>
+    <translation system="word">现在 世界 各国 都 对 吸烟 采取 严厉 的 措施 。</translation>
+    <translation system="char+spm">现在 世界 各国 都 对 吸烟 采取 了 严厉 的 措施 。</translation>
+  </seg>
+  <seg id="26" doc-id="mucgec">
+    <source>我 也 来 介绍 一下 儿 我 的 家 吧 。 我家 有 四口 人 。</source>
+    <translation system="bart+s2e+word+char+spm">我 也 来 介绍 一下 我 的 家 吧 ， 我家 有 四口 人 。</translation>
+    <translation system="t5">我 也 来 介绍 一下 我 的 家 吧 。 我家 有 四口 人 。</translation>
+  </seg>
+  <seg id="320" doc-id="mucgec">
+    <source>吸烟 是 只 允许 成年人 的 行为 ， 因此 我 认为 不管 多 伤害 自己 的 身体 也 本人 觉得 无所谓 ， 那 这 一个 问题 是 别人 无话可说 了 。</source>
+    <translation system="bart">吸烟 是 只 允许 成年人 的 行为 ， 因此 我 认为 不管 多 伤害 自己 的 身体 ， 本人 觉得 无所谓 ， 那 这 一个 问题 是 别人 无话可说 了 。</translation>
+    <translation system="t5">吸烟 是 只 允许 成年人 的 行为 ， 因此 我 认为 不管 多 伤害 自己 的 身体 本人 也 觉得 无所谓 ， 那 这 一个 问题 是 别人 无话可说 了 。</translation>
+    <translation system="s2e">吸烟 是 成年人 的 行为 ， 因此 我 认为 不管 多 伤害 自己 的 身体 都 觉得 无所谓 ， 那 这个 问题 是 别人 无话可说 了 。</translation>
+    <translation system="word">吸烟 是 只 允许 成年人 的 行为 ， 因此 我 认为 不管 多 伤害 自己 的 身体 也 本人 觉得 无所谓 ， 那 这个 问题 是 别人 无话可说 了 。</translation>
+    <translation system="char">吸烟 只 允许 成年人 的 行为 ， 因此 我 认为 不管 多 伤害 自己 的 身体 也 本人 觉得 无所谓 ， 那 这 一个 问题 别人 无话可说 了 。</translation>
+    <translation system="spm">吸烟 是 只 允许 成年人 的 行为 ， 因此 我 认为 不管 多 伤害 自己 的 身体 ， 也 本人 觉得 无所谓 ， 那 这 一个 问题 是 别人 无话可说 了 。</translation>
+  </seg>
+  <seg id="270" doc-id="mucgec">
+    <source>下课后 我 琢磨 了 半天 ， 决心 了 重新 开始 学习 汉语 ！</source>
+    <translation system="bart+t5+s2e+word+char+spm">下课后 我 琢磨 了 半天 ， 决心 重新 开始 学习 汉语 ！</translation>
+  </seg>
+  <seg id="102" doc-id="mucgec">
+    <source>不要 只顾 自己 的 身体 而 要 尽管 多 生产 绿色食品 。 也 不是 反对 绿色食品 的 。</source>
+    <translation system="bart+s2e+word">不要 只顾 自己 的 身体 而 要 尽量 多 生产 绿色食品 ， 也 不是 反对 绿色食品 的 。</translation>
+    <translation system="t5">不要 只顾 自己 的 身体 而 要 尽管 多 生产 绿色食品 ， 也 不是 反对 绿色食品 的 。</translation>
+    <translation system="char+spm">不要 只顾 自己 的 身体 而 要 尽量 多 生产 绿色食品 ， 也 不是 反对 绿色食品 。</translation>
+  </seg>
+  <seg id="17" doc-id="mucgec">
+    <source>凭着 多年 在 工作 上 的 经营 与 管理 经验 ， 我 有 办法 让 公司 在 营业 成本 上 减少 开支 。 另一方面 在 管理 公司 方面 能 让 公司 运作 不 受 顺畅 ， 在 调解 公司 人事 纠纷 上 也 有 一定 的 办法 。 在 我 的 领导 下 ， 我 相信 能为 公司 在短期内 见到 好 的 改变 ， 长期 内能 为 公司 取得 可观 的 利润 。 因此 ， 我 相信 自己 能 胜任 贵 公司 的 经理 职位 ， 希望 贵 公司 能 给予 我 发挥 自己 特长 之处 的 一个 机会 。</source>
+    <translation system="bart">凭着 多年 在 工作 上 的 经营 与 管理 经验 ， 我 有 办法 让 公司 在 营业 成本 上 减少 开支 ； 另一方面 在 管理 公司 方面 能 让 公司 运作 不 受 阻碍 ， 在 调解 公司 人事 纠纷 上 也 有 一定 的 办法 ， 在 我 的 领导 下 ， 我 相信 能 使 公司 在短期内 得到 好 的 改变 ， 长期 内能 为 公司 取得 可观 的 利润 ， 因此 ， 我 相信 自己 能 胜任 贵 公司 的 经理 职位 ， 希望 贵 公司 能 给予 我 发挥 自己 特长 之处 的 一个 机会 。</translation>
+    <translation system="t5">凭着 多年 在 工作 上 的 经营 与 管理 经验 ， 我 有 办法 让 公司 在 营业 成本 上 减少 开支 ， 另一方面 在 管理 公司 方面 能 让 公司 运作 不 受 顺畅 ， 在 调解 公司 人事 纠纷 上 也 有 一定 的 办法 。 在 我 的 领导 下 ， 我 相信 能为 公司 在短期内 见到 好 的 改变 ， 长期 内能 为 公司 取得 可观 的 利润 ， 因此 ， 我 相信 自己 能 胜任 贵 公司 的 经理 职位 ， 希望 贵 公司 能 给予 我 发挥 自己 特长 之处 的 机会 。</translation>
+    <translation system="s2e">凭着 多年 在 工作 上 的 经营 与 管理 经验 ， 我 有 办法 让 公司 在 营业 成本 上 减少 开支 ； 另一方面 ， 在 管理 公司 方面 会 让 公司 运作 不 顺畅 ， 在 调解 公司 人事 纠纷 上 也 有 一定 的 办法 ； 在 我 的 领导 下 ， 我 相信 能为 公司 在短期内 带来 好 的 改变 ， 长期 内能 为 公司 取得 可观 的 利润 ， 因此 ， 我 相信 自己 能 胜任 贵 公司 的 经理 职位 ， 希望 贵 公司 能 给予 我 发挥 自己 特长 之处 的 一个 机会 。</translation>
+    <translation system="word+spm">凭着 多年 在 工作 上 的 经营 与 管理 经验 ， 我 有 办法 让 公司 在 营业 成本 上 减少 开支 ， 另一方面 在 管理 公司 方面 能 让 公司 运作 不 受 顺畅 ， 在 调解 公司 人事 纠纷 上 也 有 一定 的 办法 ， 在 我 的 领导 下 ， 我 相信 能为 公司 在短期内 见到 好 的 改变 ， 长期 内能 为 公司 取得 可观 的 利润 ， 因此 ， 我 相信 自己 能 胜任 贵 公司 的 经理 职位 ， 希望 贵 公司 能 给予 我 发挥 自己 特长 之处 的 一个 机会 。</translation>
+    <translation system="char">凭着 多年 在 工作 上 的 经营 与 管理 经验 ， 我 有 办法 让 公司 在 营业 成本 上 减少 开支 。 另一方面 在 管理 公司 方面 能 让 公司 运作 不 受 顺畅 ， 在 调解 公司 人事 纠纷 上 也 有 一定 的 办法 。 在 我 的 领导 下 ， 我 相信 能为 公司 在短期内 见到 好 的 改变 ， 长期 内能 为 公司 取得 可观 的 利润 。 因此 ， 我 相信 自己 能 胜任 贵 公司 的 经理 职位 ， 希望 贵 公司 能 给予 我 发挥 自己 特长 之处 的 一个 机会 。</translation>
+  </seg>
+  <seg id="424" doc-id="mucgec">
+    <source>这样 的 阅读 才能 提高 我们 在 工作 、 事业 的 要求 提高 我们 的 素质 ， 才能 使 工作 的 事业 有效 的 进行 。 吸取 书中 的 精华 、 知识 经验 投入 我们 的 实践 生活 中 、 事业 中 。</source>
+    <translation system="bart">这样 的 阅读 才能 满足 我们 对 工作 、 事业 的 要求 ， 提高 我们 的 素质 ， 才能 使 工作 的 事业 有效 地 进行 ， 吸取 书中 的 精华 、 知识 经验 投入 我们 的 实践 生活 中 、 事业 中 。</translation>
+    <translation system="t5">这样 的 阅读 才能 提高 我们 在 工作 、 事业 的 要求 提高 我们 的 素质 ， 才能 使 工作 的 事业 有效 的 进行 ， 吸取 书中 的 精华 、 知识 经验 投入 我们 的 实践 生活 中 、 事业 中 。</translation>
+    <translation system="s2e">这样 的 阅读 才能 满足 我们 在 工作 、 事业 上 的 需求 ， 提高 我们 的 素质 ， 才能 使 工作 和 事业 有效 地 发展 ， 吸取 书中 的 精华 、 知识 经验 ， 投入 我们 的 实践 生活 中 、 事业 中 。</translation>
+    <translation system="word">这样 的 阅读 才能 满足 我们 在 工作 、 事业 中 的 要求 ， 提高 我们 的 素质 ， 才能 使 工作 的 事业 有效 地 进行 ， 吸取 书中 的 精华 、 知识 经验 投入 我们 的 实践 生活 中 、 事业 中 。</translation>
+    <translation system="char">这样 的 阅读 才能 满足 我们 在 工作 、 事业 的 要求 ， 提高 我们 的 素质 ， 才能 使 工作 的 事业 有效 地 进行 ， 吸取 书中 的 精华 、 知识 经验 ， 投入 我们 的 实践 生活 中 、 事业 中 。</translation>
+    <translation system="spm">这样 的 阅读 才能 满足 我们 在 工作 、 事业 中 的 要求 ， 提高 我们 的 素质 ， 才能 使 事业 有效 地 发展 ， 吸取 书中 的 精华 、 知识 经验 ， 以便 投入 我们 的 实践 生活 中 、 事业 中 。</translation>
+  </seg>
+  <seg id="830" doc-id="mucgec">
+    <source>不必 考虑 的 问间 是 。 还有 他们 的 主要 关心 是 怎么 可以 能 保护 身体 、 环境 等等 。 再说 他们 对于 绿色 环境 ， 绿色食品 研究 研究 。</source>
+    <translation system="bart">不必 考虑 的 问题 是 ， 还有 他们 的 主要 关心 是 怎么 可以 保护 身体 、 环境 等等 ， 再说 他们 对于 绿色 环境 、 绿色食品 研究 研究 。</translation>
+    <translation system="t5">不必 考虑 的 问题 是 。 还有 他们 的 主要 关心 是 怎么 可以 能 保护 身体 、 环境 等等 。 再说 他们 对于 绿色 环境 ， 绿色食品 研究 研究 。</translation>
+    <translation system="s2e">不必 考虑 的 问题 是 他们 的 主要 关心 是 怎么 保护 身体 、 环境 等等 ， 再说 他们 对于 绿色 环境 、 绿色食品 研究 研究 。</translation>
+    <translation system="word">不必 考虑 的 问题 是 ， 还有 他们 的 主要 关心 是 怎么 可以 保护 身体 、 环境 等等 ， 再说 他们 对于 绿色 环境 ， 绿色食品 研究 。</translation>
+    <translation system="char">不必 考虑 的 问题 是 ： 还有 他们 的 主要 关心 是 怎么 可以 保护 身体 、 环境 等等 ， 再说 他们 对 绿色 环境 ， 绿色食品 研究 研究 。</translation>
+    <translation system="spm">不必 考虑 的 问题 ， 还有 他们 的 主要 关心 是 怎么 能 保护 身体 、 环境 等等 ， 再说 他们 对于 绿色 环境 ， 绿色食品 研究 研究 。</translation>
+  </seg>
+  <seg id="564" doc-id="mucgec">
+    <source>如果 要 把 日语 教给 人家 的话 ， 不管 职业 的 或 义工 的 ， 需要 把 日语 客观 的 分析 而 说明 的 能力 。</source>
+    <translation system="bart+s2e">如果 要 把 日语 教给 人家 的话 ， 不管 职业 的 或 义工 的 ， 都 需要 把 日语 客观 地 分析 和 说明 的 能力 。</translation>
+    <translation system="t5">如果 要 把 日语 教给 别人 的话 ， 不管 职业 的 或 义工 的 ， 都 需要 把 日语 客观 的 分析 而 说明 的 能力 。</translation>
+    <translation system="word">如果 要 把 日语 教给 人家 的话 ， 不管 职业 的 还是 义工 ， 都 需要 把 日语 客观 的 分析 和 说明 的 能力 。</translation>
+    <translation system="char">如果 要 把 日语 教给 人家 的话 ， 不管 职业 的 或 义工 的 ， 都 需要 把 日语 客观 的 分析 和 说明 的 能力 。</translation>
+    <translation system="spm">如果 要 把 日语 教给 人家 的话 ， 不管 职业 的 或 义工 的 ， 需要 把 日语 客观 的 分析 和 说明 的 能力 。</translation>
+  </seg>
+  <seg id="398" doc-id="mucgec">
+    <source>为了 让 孩子 能够 上 大学 ， 他们 辛苦 地 工作 ， 年复一年 ， 把 身体 都 捱 垮 了 ， 丈夫 得 了 心脏 ， 妻子 得 了 风湿 关节炎 瘫 在 床上 。</source>
+    <translation system="bart+s2e+char+spm">为了 让 孩子 能够 上 大学 ， 他们 辛苦 地 工作 ， 年复一年 ， 把 身体 都 捱 垮 了 ， 丈夫 得 了 心脏病 ， 妻子 得 了 风湿 关节炎 瘫 在 床上 。</translation>
+    <translation system="t5">为了 让 孩子 能够 上 大学 ， 他们 辛苦 地 工作 ， 年复一年 ， 把 身体 都 垮 了 ， 丈夫 得 了 心脏病 ， 妻子 得 了 风湿 关节炎 ， 瘫 在 床上 。</translation>
+    <translation system="word">为了 让 孩子 能够 上 大学 ， 他们 辛苦 地 工作 ， 年复一年 ， 把 身体 都 [ UNK ] 垮 了 ， 丈夫 得 了 心脏病 ， 妻子 得 了 风湿 关节炎 瘫 在 床上 。</translation>
+  </seg>
+  <seg id="813" doc-id="mucgec">
+    <source>这个 事实 说 如果 没有 地方 可以 吸 的 ， 就 不 吸烟 的 真理 。 吸烟 是 有 百害 没有 一利 的 东西 ， 对 身体 绝对 不好 ， 但 依存性 相当 高 。 一 开始 吸烟 就 不能 容易 地 戒烟 。</source>
+    <translation system="bart">这个 事实 说明 如果 没有 地方 可以 吸 的话 就 不 吸烟 的 真理 ， 吸烟 是 有 百害 没有 一利 的 东西 ， 对 身体 绝对 不好 ， 但 依赖性 相当 高 ， 一 开始 吸烟 就 不能 容易 地 戒烟 。</translation>
+    <translation system="t5">这个 事实 说 如果 没有 地方 可以 吸 的 ， 就 不 吸烟 的 真理 。 吸烟 是 有 百害 没有 一利 的 东西 ， 对 身体 绝对 不好 ， 但 依存性 相当 高 。 一 开始 吸烟 就 不能 容易 地 戒烟 。</translation>
+    <translation system="s2e">这个 事实 说明 如果 没有 地方 可以 吸烟 ， 就 不 吸烟 的 真理 ， 吸烟 是 有 百害 没有 一利 的 行为 ， 对 身体 绝对 不好 ， 但 依存性 相当 高 ， 一 开始 吸烟 就 不能 容易 地 戒烟 。</translation>
+    <translation system="word">这个 事实 说明 如果 没有 地方 可以 吸烟 ， 就 不 吸烟 的 真理 ， 吸烟 是 有 百害 没有 一利 的 东西 ， 对 身体 绝对 不好 ， 但 它 的 依赖性 相当 高 ， 一 开始 吸烟 就 不 容易 戒烟 。</translation>
+    <translation system="char">这个 事实 说明 如果 没有 地方 可以 吸烟 ， 就 不 吸烟 的 真理 ， 吸烟 是 有 百害 没有 一利 的 东西 ， 对 身体 绝对 不好 ， 但 依赖性 相当 高 ， 一 开始 吸烟 就 不 容易 戒烟 。</translation>
+    <translation system="spm">这个 事实 说 如果 没有 地方 可以 吸烟 ， 就 不 吸烟 的 真理 ， 吸烟 是 有 百害 没有 一利 的 东西 ， 对 身体 绝对 不好 ， 但 依存性 相当 高 ， 一 开始 吸烟 就 不 容易 戒烟 。</translation>
+  </seg>
+  <seg id="860" doc-id="mucgec">
+    <source>所以 我 一直 对 母亲 说 “ 你 想 那么 多 也 没有 用 ， 你 改一改 性格 吧 ” 但 她 一直 也 没改 了 。</source>
+    <translation system="bart">所以 我 一直 对 母亲 说 你 想 那么 多 也 没有 用 ， 你 改一改 性格 吧 ， 但 她 一直 也 没改 。</translation>
+    <translation system="t5">所以 我 一直 对 母亲 说 “ 你 想 那么 多 也 没有 用 ， 你 改一改 性格 吧 ” 但 她 一直 没改 。</translation>
+    <translation system="s2e+char">所以 我 一直 对 母亲 说 “ 你 想 那么 多 也 没有 用 ， 你 改一改 性格 吧 ” ， 但 她 一直 也 没改 。</translation>
+    <translation system="word">所以 我 一直 对 母亲 说 ： “ 你 想 那么 多 也 没有 用 ， 你 改一改 性格 吧 ！ ” 但 她 一直 也 没改 。</translation>
+    <translation system="spm">所以 我 一直 对 母亲 说 ： “ 你 想 那么 多 也 没有 用 ， 你 改一改 性格 吧 ” ， 但 她 一直 也 没改 。</translation>
+  </seg>
+  <seg id="700" doc-id="mucgec">
+    <source>刚刚 看 了 一下 题目 ， 心里 禁不出 笑 了 出来 ， 我 仔细 地 思考 ， 难道 吸烟 不 影响 身体 的 哪里 呢 ？ 尤其 是 肺 ， 其次 是 嗓子 ， 皮肤 ， 骨 ， 儿童 发育 ， 算 我 是 一个 久 年 的 吸烟 狂 的 经验 来看 ， 自从 我 吸烟 之后 ， 没有 一天 是 活力 十足 的 。</source>
+    <translation system="bart">刚刚 看 了 一下 题目 ， 心里 禁不出 笑 了 出来 ， 我 仔细 地 思考 ， 难道 吸烟 不 影响 身体 的 哪里 呢 ？ 尤其 是 肺 ， 其次 是 嗓子 ， 皮肤 ， 骨头 ， 儿童 发育 ， 以 我 是 一个 多年 的 吸烟 狂 的 经验 来看 ， 自从 我 吸烟 之后 ， 没有 一天 是 活力 十足 的 。</translation>
+    <translation system="t5">刚刚 看 了 一下 题目 ， 心里 禁不出 笑 了 出来 ， 我 仔细 地 思考 ， 难道 吸烟 不 影响 身体 的 哪里 呢 ？ 尤其 是 肺 ， 其次 是 嗓子 ， 皮肤 ， 骨 ， 儿童 发育 ， 算 我 是 一个 久 年 的 吸烟 狂 的 经验 来看 ， 自从 我 吸烟 之后 ， 没有 一天 是 活力 十足 的 。</translation>
+    <translation system="s2e">刚刚 看 了 一下 题目 ， 心里 禁不出 笑 了 出来 ， 我 仔细 地 思考 ， 难道 吸烟 不 影响 身体 的 哪里 呢 ， 尤其 是 肺 ， 其次 是 嗓子 、 皮肤 、 骨头 、 儿童 发育 ， 以 我 是 一个 多年 的 吸烟 狂 的 经验 来看 ， 自从 我 吸烟 之后 ， 没有 一天 是 活力 十足 的 。</translation>
+    <translation system="word">刚刚 看 了 一下 题目 ， 心里 禁不出 笑 了 出来 ， 我 仔细 地 思考 ， 难道 吸烟 不 影响 身体 的 哪里 呢 ， 尤其 是 肺 ， 其次 是 嗓子 ， 皮肤 ， 骨头 ， 儿童 发育 ， 以 我 是 一个 多年 的 吸烟 狂 的 经验 来看 ， 自从 我 吸烟 之后 ， 没有 一天 是 活力 十足 的 。</translation>
+    <translation system="char">刚刚 看 了 一下 题目 ， 心里 禁不出 笑 了 出来 ， 我 仔细 地 思考 ， 难道 吸烟 不 影响 身体 的 哪里 呢 ， 尤其 是 肺 ， 其次 是 嗓子 ， 皮肤 ， 骨 ， 儿童 发育 ， 算 我 是 一个 久 年 的 吸烟 狂 的 经验 来看 ， 自从 我 吸烟 之后 ， 没有 一天 是 活力 十足 的 。</translation>
+    <translation system="spm">刚刚 看 了 一下 题目 ， 心里 禁不出 笑 了 出来 ， 我 仔细 地 思考 ， 难道 吸烟 不 影响 身体 的 哪里 呢 ， 尤其 是 肺 ， 其次 是 嗓子 ， 皮肤 ， 骨 ， 儿童 发育 ， 算 我 是 一个 多年 的 吸烟 狂 的 经验 来看 ， 自从 我 吸烟 之后 ， 没有 一天 是 活力 十足 的 。</translation>
+  </seg>
+  <seg id="472" doc-id="mucgec">
+    <source>本人 正在 学习 法语 ， 预测 下个月 就 能 完成 课程 。</source>
+    <translation system="bart">本人 正在 学习 法语 ， 预计 下个月 就 能 完成 课程 。</translation>
+    <translation system="t5+s2e+word+char+spm">本人 正在 学习 法语 ， 预测 下个月 就 能 完成 课程 。</translation>
+  </seg>
+  <seg id="631" doc-id="mucgec">
+    <source>虽然 树 下 不过 天气 已经 35 度 ， 收拾 行李 后 我 和 我 爱人 已经 浑身 出汗 了 。</source>
+    <translation system="bart+word+char+spm">虽然 树 下 不过 天气 已经 35 度 了 ， 收拾 行李 后 我 和 我 爱人 已经 浑身 出汗 了 。</translation>
+    <translation system="t5">虽然 树 下 不过 天气 已经 35 度 ， 收拾 行李 后 我 和 我 爱人 已经 浑身 出汗 了 。 虽然 树 下 ， 不过 天气 已经 35 度 ， 收拾 行李 后 我 和 我 爱人 已经 浑身 出汗 了 。</translation>
+    <translation system="s2e">虽然 树 下 不过 天气 已经 35 度 ， 收拾 行李 后 我 和 我 爱人 已经 浑身 出汗 了 。</translation>
+  </seg>
+  <seg id="183" doc-id="mucgec">
+    <source>因为 在 每 一个 孩子 的 成长 阶段 ， 父母 是 培养 孩子 的 主异 人 ， 大多数 的 时间 都 与 父母 生活 在 一起 ， 从 幼儿 时期 到 成年 之前 时时刻刻 都 离不开 父母 ， 在 学习 他们 的 一举一动 ， 这 都 对 孩子 今后 的 思想 、 性格 和 爱好 等 也 起 着 正 负面 的 影响 。</source>
+    <translation system="bart+word">因为 在 每 一个 孩子 的 成长 阶段 ， 父母 是 培养 孩子 的 主要 的 人 ， 大多数 的 时间 都 与 父母 生活 在 一起 ， 从 幼儿 时期 到 成年 之前 时时刻刻 都 离不开 父母 ， 在 学习 他们 的 一举一动 ， 这 都 对 孩子 今后 的 思想 、 性格 和 爱好 等 起 着 正 、 负面 的 影响 。</translation>
+    <translation system="t5">因为 在 每 一个 孩子 的 成长 阶段 ， 父母 是 培养 孩子 的 主异 人 ， 大多数 的 时间 都 与 父母 生活 在 一起 ， 从 幼儿 时期 到 成年 之前 时时刻刻 都 离不开 父母 ， 在 学习 他们 的 一举一动 ， 这 对 孩子 今后 的 思想 、 性格 和 爱好 等 也 起 着 正 负面 的 影响 。</translation>
+    <translation system="s2e">因为 在 每 一个 孩子 的 成长 阶段 ， 父母 是 培养 孩子 的 主要 人 ， 孩子 大多数 的 时间 都 与 父母 生活 在 一起 ， 从 幼儿 时期 到 成年 之前 时时刻刻 都 离不开 父母 ， 在 学习 他们 的 一举一动 ， 这 都 对 孩子 今后 的 思想 、 性格 和 爱好 等 都 起 着 正 、 负面 的 影响 。</translation>
+    <translation system="char">因为 在 每 一个 孩子 的 成长 阶段 ， 父母 是 培养 孩子 的 主要 的 人 ， 孩子 大多数 的 时间 都 与 父母 生活 在 一起 ， 从 幼儿 时期 到 成年 之前 时时刻刻 都 离不开 父母 ， 在 学习 他们 的 一举一动 ， 这 都 对 孩子 今后 的 思想 、 性格 和 爱好 等 起 着 正 、 负面 的 影响 。</translation>
+    <translation system="spm">因为 在 每 一个 孩子 的 成长 阶段 ， 父母 是 培养 孩子 的 主异 人 ， 大多数 的 时间 都 与 父母 生活 在 一起 ， 从 幼儿 时期 到 成年 之前 时时刻刻 都 离不开 父母 ， 在 学习 他们 的 一举一动 ， 这 都 对 孩子 今后 的 思想 、 性格 和 爱好 等 起 着 正 、 负面 的 影响 。</translation>
+  </seg>
+  <seg id="444" doc-id="mucgec">
+    <source>我 认为 管理 企业 及 员工 的 关键 达到 有 和睦 和 纪律 的 合作 环境 。</source>
+    <translation system="bart+s2e+word+char+spm">我 认为 管理 企业 及 员工 的 关键在于 有 和睦 和 纪律 的 合作 环境 。</translation>
+    <translation system="t5">我 认为 管理 企业 及 员工 的 关键 是 达到 有 和睦 和 纪律 的 合作 环境 。</translation>
+  </seg>
+  <seg id="226" doc-id="mucgec">
+    <source>这 是因为 烟里 不好 的 东西 进入 到 头脑 ， 这样的话 会 引起 健康 的 。</source>
+    <translation system="bart">这 是因为 烟里 不好 的 东西 进入 到 头脑 ， 这样的话 会 影响 健康 的 。</translation>
+    <translation system="t5">这 是因为 烟里 不好 的 东西 进入 到 头脑 ， 这样的话 会 引起 健康 问题 。</translation>
+    <translation system="s2e">这 是因为 烟里 有 不好 的 东西 进入 到 头脑 ， 这样的话 会 影响 健康 。</translation>
+    <translation system="word">这 是因为 烟里 不好 的 东西 进入 到 头脑 ， 这样的话 会 引起 健康 。</translation>
+    <translation system="char">这 是因为 烟里 有 不好 的 东西 进入 到 头脑 ， 这样的话 会 引起 健康 的 。</translation>
+    <translation system="spm">这 是因为 烟里 不好 的 东西 进入 到 头脑 里 ， 这样的话 会 引起 健康 的 。</translation>
+  </seg>
+  <seg id="499" doc-id="mucgec">
+    <source>好 职业 难 发现 。 有 很多 人 认为 的 一般 高学历 我们 有 一个 体面 职业 。 这个 句子 不 真的 ， 因为 有 很多 越来越 失业 的 人 一般 对 高学历 都 有 。 令天 有人 很多年 上学 。</source>
+    <translation system="bart+spm">好 职业 难 发现 ， 有 很多 人 认为 的 一般 高学历 我们 有 一个 体面 职业 ， 这个 句子 不 真的 ， 因为 有 很多 越来越 失业 的 人 一般 对 高学历 都 有 ， 令天 有人 很多年 上学 。</translation>
+    <translation system="t5">好 职业 难 发现 。 有 很多 人 认为 的 一般 高学历 我们 有 一个 体面 职业 。 这个 句子 不 真的 ， 因为 有 很多 越来越 失业 的 人 一般 对 高学历 都 有 。 令天 有人 很多年 上学 。</translation>
+    <translation system="s2e">好 职业 很难 发现 ， 有 很多 人 认为 一般 高学历 我们 有 一个 体面 职业 ， 这个 句子 不是 真的 ， 因为 有 很多 越来越 失业 的 人 一般 高学历 每天 有 很多年 。</translation>
+    <translation system="word+char">好 职业 难 发现 ， 有 很多 人 认为 一般 高学历 我们 有 一个 体面 职业 ， 这个 句子 不 真的 ， 因为 有 很多 越来越 失业 的 人 一般 对 高学历 都 有 ， 令天 有人 很多年 上学 。</translation>
+  </seg>
+  <seg id="302" doc-id="mucgec">
+    <source>职业 的 选择 很 重要 ， 要 接照 自己 的 人生 计划 ， 生活 的 目标 或 本身 对 某些 事情 的 爱好 ， 能力 来下 決定 将来 要 走 的 路 。 但是 ， 问题 是 这样 ： 什么 是 好 职业 ？</source>
+    <translation system="bart">职业 的 选择 很 重要 ， 要 根据 自己 的 人生 计划 、 生活 的 目标 或 本身 对 某些 事情 的 爱好 、 能力 来 下 决定 将来 要 走 的 路 ， 但是 ， 问题 是 这样 ： 什么 是 好 职业 ？</translation>
+    <translation system="t5">职业 的 选择 很 重要 ， 要 接照 自己 的 人生 计划 ， 生活 的 目标 或 本身 对 某些 事情 的 爱好 ， 能力 来 决定 将来 要 走 的 路 。 但是 ， 问题 是 这样 ： 什么 是 好 职业 ？</translation>
+    <translation system="s2e">职业 的 选择 很 重要 ， 要 按照 自己 的 人生 计划 、 生活 的 目标 或 本身 对 某些 事情 的 爱好 、 能力 来 决定 将来 要 走 的 路 ， 但是 ， 问题 是 这样 ： 什么 是 好 职业 ？</translation>
+    <translation system="word">职业 的 选择 很 重要 ， 要 按照 自己 的 人生 计划 ， 生活 的 目标 或 本身 对 某些 事情 的 爱好 、 能力 来 下 决定 将来 要 走 的 路 ， 但是 ， 问题 是 这样 ： 什么 是 好 职业 ？</translation>
+    <translation system="char">职业 的 选择 很 重要 ， 要 接照 自己 的 人生 计划 ， 生活 的 目标 或 本身 对 某些 事情 的 爱好 ， 能力 来 下 决定 将来 要 走 的 路 ， 但是 ， 问题 是 这样 ： 什么 是 好 职业 ？</translation>
+    <translation system="spm">职业 的 选择 很 重要 ， 要 接照 自己 的 人生 计划 、 生活 的 目标 或 本身 对 某些 事情 的 爱好 、 能力 来 下 决定 将来 要 走 的 路 ， 但是 ， 问题 是 这样 ： 什么 是 好 职业 ？</translation>
+  </seg>
+  <seg id="787" doc-id="mucgec">
+    <source>无论 哪个 年代 、 哪个 地方 ， 都 由 音乐 来 陪 着 生活 。</source>
+    <translation system="bart+spm">无论 哪个 年代 、 哪个 地方 ， 都 由 音乐 来 陪 着 生活 。</translation>
+    <translation system="t5">无论 哪个 年代 、 哪个 地方 ， 都 有 音乐 陪 着 我们 的 生活 。</translation>
+    <translation system="s2e+word+char">无论 哪个 年代 、 哪个 地方 ， 都 有 音乐 来 陪 着 生活 。</translation>
+  </seg>
+  <seg id="29" doc-id="mucgec">
+    <source>若 说 要 把 她们 关 起来 ， 二十四 小时 根本 没 接触 到 一个 男人 的话 ， 她们 会少 了 很多 知识 ， 也 会 追不上 不断 改变 的 社会 ， 让 她们 落 在 别的 国家 的 后头 。 还有 ， 如果说 一名 女士 要 和 另外 一间 公司 谈 生意 ， 而 对方 的 公司 派出 一名 男士 ， 那么 那位 女士 不是 会 感到 非常 地 紧张 ， 一句 话 都 说不出 ？ 若 这件 事件 真的 发生 的话 ， 那么 那名 女士 的 公司 就 会谈 不到 很多 生意 吗 ？</source>
+    <translation system="bart+t5">若 说 要 把 她们 关 起来 ， 二十四 小时 根本 没 接触 到 一个 男人 的话 ， 她们 会少 了 很多 知识 ， 也 会 追不上 不断 改变 的 社会 ， 让 她们 落 在 别的 国家 的 后头 。 还有 ， 如果说 一名 女士 要 和 另外 一间 公司 谈 生意 ， 而 对方 的 公司 派出 一名 男士 ， 那么 那位 女士 不是 会 感到 非常 地 紧张 ， 一句 话 都 说不出 ？ 若 这件 事件 真的 发生 的话 ， 那么 那名 女士 的 公司 就 会谈 不到 很多 生意 吗 ？</translation>
+    <translation system="s2e">若 说 要 把 她们 关 起来 ， 二十四 小时 根本 没 接触 到 一个 男人 的话 ， 她们 会少 了 很多 知识 ， 也 会 追不上 不断 改变 的 社会 ， 让 她们 落 在 别的 国家 的 后头 。 还有 ， 如果说 一名 女士 要 和 另外 一家 公司 谈 生意 ， 而 对方 的 公司 派出 一名 男士 ， 那么 那位 女士 不是 会 感到 非常 地 紧张 ， 一句 话 都 说不出 ？ 若 这件 事件 真的 发生 的话 ， 那么 那名 女士 的 公司 就 会谈 不到 很多 生意 吗 ？</translation>
+    <translation system="word">若 说 要 把 她们 关 起来 ， 二十四 小时 根本 没 接触 到 一个 男人 的话 ， 她们 会少 了 很多 知识 ， 也 会 追不上 不断 改变 的 社会 ， 让 她们 落 在 别的 国家 的 后头 ， 还有 ， 如果说 一名 女士 要 和 另外 一间 公司 谈 生意 ， 而 对方 的 公司 派出 一名 男士 ， 那么 那位 女士 不是 会 感到 非常 地 紧张 ， 一句 话 都 说不出 ； 若 这件 事件 真的 发生 的话 ， 那么 那名 女士 的 公司 就 会谈 不到 很多 生意 吗 ？</translation>
+    <translation system="char">若 说 要 把 她们 关 起来 ， 二十四 小时 根本 接触 不到 一个 男人 的话 ， 她们 会少 了 很多 知识 ， 也 会 追不上 不断 改变 的 社会 ， 让 她们 落 在 别的 国家 的 后头 ； 还有 ， 如果说 一名 女士 要 和 另外 一个 公司 谈 生意 ， 而 对方 的 公司 派出 一名 男士 ， 那么 那位 女士 不是 会 感到 非常 地 紧张 ， 一句 话 都 说不出 ， 若 这件 事情 真的 发生 的话 ， 那么 那么 那名 女士 的 公司 就 会谈 不到 很多 生意 吗 ？</translation>
+    <translation system="spm">若 说 要 把 她们 关 起来 ， 二十四 小时 根本 没 接触 到 一个 男人 的话 ， 她们 会少 了 很多 知识 ， 也 会 追不上 不断 改变 的 社会 ， 让 她们 落 在 别的 国家 的 后头 ， 还有 ， 如果说 一名 女士 要 和 另外 一个 公司 谈 生意 ， 而 对方 的 公司 派出 一名 男士 ， 那么 那位 女士 不是 会 感到 非常 地 紧张 ， 一句 话 都 说不出 ， 若 这件 事 真的 发生 的话 ， 那么 那名 女士 的 公司 就 会谈 不到 很多 生意 吗 ？</translation>
+  </seg>
+  <seg id="1091" doc-id="mucgec">
+    <source>在 我 母亲 的 影响 下 我 得到 了 良好 的 成长 。</source>
+    <translation system="bart+s2e+char">在 我 母亲 的 影响 下 我 得到 了 良好 的 成长 。</translation>
+    <translation system="t5">在 我 母亲 的 影响 下 我 得到 了 良好 的 成长 。 在 我 母亲 的 影响 下 ， 我 得到 了 良好 的 成长 。</translation>
+    <translation system="word+spm">在 我 母亲 的 影响 下 ， 我 得到 了 良好 的 成长 。</translation>
+  </seg>
+  <seg id="39" doc-id="mucgec">
+    <source>最近 注意 点 吸烟 的 人 越来越 多 了 ， 大家 都 是 这样 的 文化 思想 要求 高等 生活 水平 的 。 在 公共场所 规定 再 多 严厉 要 的话 ， 必须 做 为了 青少年 和 所有人 的 健康 ， 我 希望 一定 好 生活 的 改变 的 环境 。</source>
+    <translation system="bart">最近 注意 吸烟 的 人 越来越 多 了 ， 大家 都 是 这样 的 文化 思想 要求 高 生活 水平 的 ， 在 公共场所 规定 再 多 严厉 要求 的话 ， 必须 做 。 为了 青少年 和 所有人 的 健康 ， 我 希望 一定 有 好 的 生活 的 改变 的 环境 。</translation>
+    <translation system="t5">最近 注意 点 吸烟 的 人 越来越 多 了 ， 大家 都 是 这样 的 文化 思想 要求 高等 生活 水平 的 。 在 公共场所 规定 再 多 严厉 要 的话 ， 必须 为了 青少年 和 所有人 的 健康 ， 我 希望 一定 要 有 好 的 生活 改变 的 环境 。</translation>
+    <translation system="s2e">最近 注意 吸烟 的 人 越来越 多 了 ， 大家 都 有 这样 的 文化 思想 ， 要求 高级 生活 水平 的 ， 在 公共场所 规定 再 多 严厉 的话 ， 必 为了 青少年 和 所有人 的 健康 ， 我 希望 有 一个 好 的 生活 环境 。</translation>
+    <translation system="word">最近 注意 吸烟 的 人 越来越 多 了 ， 大家 都 是 这样 的 文化 思想 要求 高等 生活 水平 的 ， 在 公共场所 规定 更 多 严厉 措施 的话 ， 必须 创造 为了 青少年 和 所有人 的 健康 ， 我 希望 一定 好 生活 的 改变 的 环境 。</translation>
+    <translation system="char">最近 注意 吸烟 问题 的 人 越来越 多 了 ， 大家 都 有 这样 的 文化 思想 要求 高 生活 水平 的 ， 在 公共场所 规定 更 多 严厉 的话 ， 必须 有 为了 青少年 和 所有人 的 健康 ， 我 希望 一定 好 生活 的 改变 的 环境 。</translation>
+    <translation system="spm">最近 注意 吸烟 问题 的 人 越来越 多 了 ， 大家 都 有 这样 的 要求 高 生活 水平 的 ， 在 公共场所 规定 再 多 严厉 措施 的话 ， 必须 做 为了 青少年 和 所有人 的 健康 ， 我 希望 一个 好 的 生活 的 改变 的 环境 。</translation>
+  </seg>
+  <seg id="994" doc-id="mucgec">
+    <source>所以 父母 是 不但 对 孩子 第一任 老师 ， 而且 给 孩子 最大 影响 ， 形成 人格 、 道德观念 的 最 重要 的 人 。</source>
+    <translation system="bart">所以 父母 是 不但 孩子 第一任 老师 ， 而且 给 孩子 最大 影响 ， 是 形成 人格 、 道德观念 的 最 重要 的 人 。</translation>
+    <translation system="t5">所以 父母 不 但是 孩子 第一任 老师 ， 而且 是 给 孩子 最大 影响 ， 形成 人格 、 道德观念 的 最 重要 的 人 。</translation>
+    <translation system="s2e">所以 父母 是 不但 孩子 是 第一任 老师 ， 而且 给 孩子 最大 影响 ， 是 形成 人格 、 道德观念 的 最 重要 的 人 。</translation>
+    <translation system="word">所以 父母 是 不但 孩子 第一任 老师 ， 而且 给 孩子 最大 影响 ， 是 对 孩子 形成 人格 、 道德观念 的 最 重要 的 人 。</translation>
+    <translation system="char+spm">所以 父母 是 不但 孩子 第一任 老师 ， 而且 给 孩子 最大 影响 ， 是 对 孩子 形成 人格 、 道德观念 最 重要 的 人 。</translation>
+  </seg>
+  <seg id="402" doc-id="mucgec">
+    <source>所以 每 一天 ， 每个 日 很多 人因 在 饥饿 当中 死 了 。 有时 有些 别的 国家 送 食品 ， 人们 争先恐后 要 着 。 可是 有些 农村 地区 却 受 不到 食品 ， 所以 他们 拨 在 地上 的 绿色 草 ， 把 草 在 水里 煮 ， 然后 就 吃 。</source>
+    <translation system="bart">所以 每 一天 ， 每天 很多 人因 在 饥饿 当中 死 了 ， 有时 有些 别的 国家 送 食品 ， 人们 争先恐后 要 ， 可是 有些 农村 地区 却 得不到 食品 ， 所以 他们 拨 在 地上 的 绿色 草 ， 把 草 在 水里 煮 ， 然后 就 吃 。</translation>
+    <translation system="t5">所以 每 一天 ， 每天 很多 人因 在 饥饿 当中 死 了 。 有时 有些 别的 国家 送 食品 ， 人们 争先恐后 要 着 。 可是 有些 农村 地区 却 得不到 食品 ， 所以 他们 拨 在 地上 的 绿色 草 ， 把 草 在 水里 煮 ， 然后 就 吃 。</translation>
+    <translation system="s2e">所以 每天 很多 人 因为 饥饿 当中 死 了 ， 有时 有些 别的 国家 送 食品 ， 人们 争先恐后 要 吃 ， 可是 有些 农村 地区 却 收不到 食品 ， 所以 他们 拨 在 地上 的 绿色 草 ， 把 草 在 水里 煮 ， 然后 就 吃 。</translation>
+    <translation system="word+char">所以 每 一天 ， 每天 很多 人因 在 饥饿 当中 死 了 ， 有时 有些 别的 国家 送 食品 ， 人们 争先恐后 要 着 ， 可是 有些 农村 地区 却 受 不到 食品 ， 所以 他们 拨 在 地上 的 绿色 草 ， 把 草 在 水里 煮 ， 然后 就 吃 。</translation>
+    <translation system="spm">所以 每 一天 ， 每天 很多 人因 在 饥饿 当中 死 了 ， 有时 有些 别的 国家 送 食品 ， 人们 争先恐后 要 着 ， 可是 有些 农村 地区 却 得不到 食品 ， 所以 他们 拨 在 地上 的 绿色 草 ， 把 草 在 水里 煮 ， 然后 就 吃 。</translation>
+  </seg>
+  <seg id="224" doc-id="mucgec">
+    <source>从 父母 受到 教育 的 同时 ， 孩子 们 也 不知不觉 地 跟着 父母 的 思想观念 去 思考 ， 观察 父母 的 行为 举止 而 同样 也 那样 做 。</source>
+    <translation system="bart+word+char">从 父母 那儿 受到 教育 的 同时 ， 孩子 们 也 不知不觉 地 跟着 父母 的 思想观念 去 思考 ， 观察 父母 的 行为 举止 而 同样 也 那样 做 。</translation>
+    <translation system="t5">从 父母 受到 教育 的 同时 ， 孩子 们 也 不知不觉 地 跟着 父母 的 思想观念 去 思考 ， 观察 父母 的 行为 举止 而 同样 也 那样 做 。</translation>
+    <translation system="s2e">从 父母 那 受到 教育 的 同时 ， 孩子 们 也 不知不觉 地 跟着 父母 的 思想观念 去 思考 ， 观察 父母 的 行为 举止 ， 同样 也 那样 做 。</translation>
+    <translation system="spm">从 父母 受到 教育 的 同时 ， 孩子 们 也 不知不觉 地 跟着 父母 的 思想观念 去 思考 、 观察 父母 的 行为 举止 而 同样 也 那样 做 。</translation>
+  </seg>
+  <seg id="789" doc-id="mucgec">
+    <source>孩子 首先 向 父母 学习 应该 怎么 做 人际关系 、 应该 怎么 学习 等等 。</source>
+    <translation system="bart+t5+word">孩子 首先 向 父母 学习 应该 怎么 处理 人际关系 、 应该 怎么 学习 等等 。</translation>
+    <translation system="s2e+spm">孩子 首先 向 父母 学习 应该 怎么 做 人际关系 、 应该 怎么 学习 等等 。</translation>
+    <translation system="char">孩子 首先 向 父母 学习 应该 怎么 做 人际关系 ， 应该 怎么 学习 等等 。</translation>
+  </seg>
+  <seg id="523" doc-id="mucgec">
+    <source>同学 们 和 朋友 们 知道 我病 了 ， 有些 来 在 宿舍 看 我 。</source>
+    <translation system="bart+t5+word+spm">同学 们 和 朋友 们 知道 我病 了 ， 有些 人来 宿舍 看 我 。</translation>
+    <translation system="s2e">同学 们 和 朋友 们 知道 我病 了 ， 有些 来 在 宿舍 看 我 。</translation>
+    <translation system="char">同学 们 和 朋友 们 都 知道 我病 了 ， 有些 来 在 宿舍 看 我 。</translation>
+  </seg>
+  <seg id="284" doc-id="mucgec">
+    <source>” 这 就是 社会 上 基本 原则 。 这样一来 ， 整个 世界 会 一起 提高 社会 生活 素质 。</source>
+    <translation system="bart">这 就是 社会 的 基本 原则 ， 这样一来 ， 整个 世界 会 一起 提高 社会 生活 素质 。</translation>
+    <translation system="t5">” 这 就是 社会 上 的 基本 原则 。 这样一来 ， 整个 世界 会 一起 提高 社会 生活 素质 。</translation>
+    <translation system="s2e">” 这 就是 社会 的 基本 原则 ， 这样一来 ， 整个 世界 会 一起 提高 社会 素质 。</translation>
+    <translation system="word">” 这 就是 社会 上 基本 原则 ， 这样一来 ， 整个 世界 会 一起 提高 社会 生活 素质 。</translation>
+    <translation system="char">” 这 就是 社会 上 的 基本 原则 ， 这样一来 ， 整个 世界 会 一起 提高 社会 生活 质量 。</translation>
+    <translation system="spm">” 这 就是 社会 上 基本 原则 ， 这样一来 ， 整个 世界 会 一起 提高 社会 生活 质量 。</translation>
+  </seg>
+  <seg id="196" doc-id="mucgec">
+    <source>如果 你们 去 旅行 的 目的 就是 想 放松 几天 ， 那 我 建议 你们 去 一个 比较 美丽 的 地方 ， 自然 的 风景 ， 那里 有山有水 ， 有 瀑布 和 树林 。</source>
+    <translation system="bart">如果 你们 去 旅行 的 目的 就是 想 放松 几天 ， 那 我 建议 你们 去 一个 比较 美丽 的 地方 ， 有 自然 的 风景 ， 那里 有山有水 ， 有 瀑布 和 树林 。</translation>
+    <translation system="t5+word">如果 你们 去 旅行 的 目的 就是 想 放松 几天 ， 那 我 建议 你们 去 一个 比较 美丽 的 地方 ， 那里 有山有水 ， 有 瀑布 和 树林 。</translation>
+    <translation system="s2e">如果 你们 去 旅行 的 目的 就是 想 放松 几天 ， 那 我 建议 你们 去 一个 比较 美丽 的 自然风景 ， 那里 有山有水 ， 有 瀑布 和 树林 。</translation>
+    <translation system="char">如果 你们 去 旅行 的 目的 就是 想 放松 几天 ， 那 我 建议 你们 去 一个 比较 美丽 的 地方 ， 自然 的 风景 ， 那里 有山有水 ， 瀑布 和 树林 。</translation>
+    <translation system="spm">如果 你们 去 旅行 的 目的 就是 想 放松 几天 ， 那 我 建议 你们 去 一个 比较 美丽 的 地方 ， 自然 的 风景 ， 那里 有山有水 ， 有 瀑布 和 树林 。</translation>
+  </seg>
+  <seg id="705" doc-id="mucgec">
+    <source>有些 年轻人 也 学着 抽烟 ， 他们 认为 会 抽烟 才 成为 男子汉 。</source>
+    <translation system="bart+s2e+word">有些 年轻人 也 学着 抽烟 ， 他们 认为 会 抽烟 才能 成为 男子汉 。</translation>
+    <translation system="t5">有些 年轻人 也 学着 抽烟 ， 他们 认为 会 抽烟 才 是 男子汉 。</translation>
+    <translation system="char">有些 年轻人 也 学着 抽烟 ， 他们 认为 会 抽烟 才 会 成为 男子汉 。</translation>
+    <translation system="spm">有些 年轻人 也 学着 抽烟 ， 他们 认为 会 抽烟 再 成为 男子汉 。</translation>
+  </seg>
+  <seg id="396" doc-id="mucgec">
+    <source>其次 ， 吸烟 给 周围 人比 自己 更 深刻 的 影响 。</source>
+    <translation system="bart+t5">其次 ， 吸烟 给 周围 人 带来 比 自己 更 深刻 的 影响 。</translation>
+    <translation system="s2e">其次 ， 吸烟 给 周围 人带 比 自己 更 深刻 的 影响 。</translation>
+    <translation system="word">其次 ， 吸烟 给 周围 的 人 比 自己 产生 更 深刻 的 影响 。</translation>
+    <translation system="char">其次 ， 吸烟 给 周围 的 人 带来 比 自己 更 深刻 的 影响 。</translation>
+    <translation system="spm">其次 ， 吸烟 给 周围 人比 自己 更 深刻 的 影响 。</translation>
+  </seg>
+  <seg id="311" doc-id="mucgec">
+    <source>他前 90 年 住 在 慕尼黑 。</source>
+    <translation system="bart">他 在 90 年前 住 在 慕尼黑 。</translation>
+    <translation system="t5">他 90 年前 住 在 慕尼黑 。</translation>
+    <translation system="s2e">他 90 年 住 在 慕尼黑 。</translation>
+    <translation system="word+spm">他前 90 年 住 在 慕尼黑 。</translation>
+    <translation system="char">他 在 慕尼黑 住 了 90 年 。</translation>
+  </seg>
+  <seg id="181" doc-id="mucgec">
+    <source>是因为 这句 话 是 大家 认同 的 大道理 ， 可是 我 是 被 外婆 长大 的 ， 所以 对 这句 话 有些 陌生 的 感觉 。</source>
+    <translation system="bart">是因为 这句 话 是 大家 认同 的 大道理 ， 可是 我 是 被 外婆 养大 的 ， 所以 对 这句 话 有些 陌生 的 感觉 。</translation>
+    <translation system="t5">因为 这句 话 是 大家 认同 的 大道理 ， 可是 我 是 被 外婆 养大 的 ， 所以 对 这句 话 有些 陌生 的 感觉 。</translation>
+    <translation system="s2e+word">是因为 这句 话 是 大家 都 认同 的 大道理 ， 可是 我 是 被 外婆 带大 的 ， 所以 对 这句 话 有些 陌生 的 感觉 。</translation>
+    <translation system="char+spm">是因为 这句 话 是 大家 认同 的 大道理 ， 可是 我 是 被 外婆 带大 的 ， 所以 对 这句 话 有些 陌生 的 感觉 。</translation>
+  </seg>
+  <seg id="310" doc-id="mucgec">
+    <source>如果 我 浪费 水 ， 我 的 父母 告诉 我 。 在家 ， 为了 不 浪费 电力 ， 我们 只 看电视 每天 一个 小时 。 这 可以 帮助 我们 节约 电力 。 我 认为 每个 人 都 应该 做 同样 的 。 人 都 会 明白 ， 这是 他们 的 责任 ， 不 浪费资源 。 另 一个 问题 是 污染 ， 因为 它 破坏 环境 。 为了 养活 污染 ， 我们 应该 减少 使用 汽车 。 污染 有害 动物 ， 植物 和 人 。</source>
+    <translation system="bart">如果 我 浪费 水 ， 我 的 父母 告诉 我 在家 ， 为了 不 浪费 电力 ， 我们 只 看电视 每天 一个 小时 ， 这 可以 帮助 我们 节约 电力 ， 我 认为 每个 人 都 应该 做 同样 的 事 ， 人 都 会 明白 ， 这是 他们 的 责任 ， 不 浪费资源 ； 另 一个 问题 是 污染 ， 因为 它 破坏 环境 ， 为了 减少 污染 ， 我们 应该 减少 使用 汽车 ， 污染 有害 动物 、 植物 和 人 。</translation>
+    <translation system="t5">如果 我 浪费 水 ， 我 的 父母 告诉 我 。 在家 ， 为了 不 浪费 电力 ， 我们 只 看电视 每天 一个 小时 。 这 可以 帮助 我们 节约 电力 。 我 认为 每个 人 都 应该 做 同样 的 。 人 都 会 明白 ， 这是 他们 的 责任 ， 不 浪费资源 。 另 一个 问题 是 污染 ， 因为 它 破坏 环境 。 为了 养活 污染 ， 我们 应该 减少 使用 汽车 。 污染 有害 动物 ， 植物 和 人 。</translation>
+    <translation system="s2e">如果 我 浪费 水 ， 我 的 父母 告诉 我 ： 在家 ， 为了 不 浪费 电力 ， 我们 每每 看电视 一个 小时 ， 这 可以 帮助 我们 节约 电力 。 我 认为 每个 人 都 应该 做 同样 的 事 ， 人 都 会 明白 ， 这是 他们 的 责任 ， 不 浪费资源 ； 另 一个 问题 是 污染 ， 因为 它 破坏 环境 。 为了 保护 污染 ， 我们 应该 减少 使用 汽车 ， 污染 有害 动物 ， 植物 和 人 。</translation>
+    <translation system="word">如果 我 浪费 水 ， 我 的 父母 告诉 我 ： 在家 ， 为了 不 浪费 电力 ， 我们 只 看电视 每天 一个 小时 ， 这 可以 帮助 我们 节约 电力 ， 我 认为 每个 人 都 应该 做 同样 的 事情 ： 人 都 会 明白 ， 这是 他们 的 责任 ， 不 浪费资源 ， 另 一个 问题 是 污染 ， 因为 它 破坏 环境 ， 为了 养活 污染 ， 我们 应该 减少 使用 汽车 ， 污染 动物 ， 植物 和 人 。</translation>
+    <translation system="char">如果 我 浪费 水 ， 我 的 父母 告诉 我 ： 在家 ， 为了 不 浪费 电力 ， 我们 只 看电视 ， 每天 一个 小时 ， 这 可以 帮助 我们 节约 电力 ， 我 认为 每个 人 都 应该 做 同样 的 事情 ， 人 都 会 明白 ， 这是 他们 的 责任 ， 不 浪费资源 ， 另 一个 问题 是 污染 ， 因为 它 破坏 环境 ， 为了 养活 污染 ， 我们 应该 减少 使用 汽车 ， 污染 有害 动物 ， 植物 和 人 。</translation>
+    <translation system="spm">如果 我 浪费 水 ， 我 的 父母 告诉 我 ： “ 在家 ， 为了 不 浪费 电力 ， 我们 只 看电视 每天 一个 小时 ， 这 可以 帮助 我们 节约 电力 ， 我 认为 每个 人 都 应该 做 同样 的 事情 ， 人 都 会 明白 ， 这是 他们 的 责任 ， 不 浪费资源 ； 另 一个 问题 是 污染 ， 因为 它 破坏 环境 ， 为了 养活 污染 ， 我们 应该 减少 使用 汽车 ， 污染 有害 动物 ， 植物 和 人 。</translation>
+  </seg>
+  <seg id="211" doc-id="mucgec">
+    <source>喜欢 一个 东西 的话 应该 有 程度 。</source>
+    <translation system="bart">喜欢 一个 东西 的话 应该 要 有 程度 。</translation>
+    <translation system="t5">喜欢 一个 东西 的话 应该 有 程度 。 喜欢 一个 东西 的话 应该 有 程度 。</translation>
+    <translation system="s2e">喜欢 一个 东西 的话 应该 有 程度 。</translation>
+    <translation system="word+char+spm">喜欢 一个 东西 的话 应该 有 限度 。</translation>
+  </seg>
+  <seg id="840" doc-id="mucgec">
+    <source>为什么 有 那么 悲观 的 看法 吧 ？</source>
+    <translation system="bart+t5+char">为什么 有 那么 悲观 的 看法 呢 ？</translation>
+    <translation system="s2e">为什么 我会 有 那么 悲观 的 想法 呢 ？</translation>
+    <translation system="word+spm">为什么 会 有 那么 悲观 的 看法 呢 ？</translation>
+  </seg>
+  <seg id="906" doc-id="mucgec">
+    <source>这 一致 感 可以 产业 同 质感 。</source>
+    <translation system="bart">这 一致 感 可以 形成 产业 同 质感 。</translation>
+    <translation system="t5">这 一致 感 可以 产同 质感 。</translation>
+    <translation system="s2e">这 一致 感 可以 产生 同 质感 。</translation>
+    <translation system="word+spm">这 一致 感 可以 使 产业 同 质感 。</translation>
+    <translation system="char">这 一致 感 可以 产业 同 质感 。</translation>
+  </seg>
+  <seg id="554" doc-id="mucgec">
+    <source>有时候 听 悲哀 的 流行歌曲 ， 听 着 听 着 哭 起来 的 事情 也 比较 多 。 我 也 知道 这样 的 歌词 跟 我 一点儿 也 没有 关系 。</source>
+    <translation system="bart+s2e+word+char+spm">有时候 听 悲哀 的 流行歌曲 ， 听 着 听 着 哭 起来 的 事情 也 比较 多 ， 我 也 知道 这样 的 歌词 跟 我 一点儿 也 没有 关系 。</translation>
+    <translation system="t5">有时候 听 悲哀 的 流行歌曲 ， 听 着 听 着 哭 起来 的 事情 也 比较 多 。 我 也 知道 这样 的 歌词 跟 我 一点儿 也 没有 关系 。</translation>
+  </seg>
+  <seg id="696" doc-id="mucgec">
+    <source>现在 这个 世界 上 的 大 问题 中 一个 就是 挨饿 的 人民 问题 。 我 认为 吃 “ 绿色食品 ” 也好 ， 但是 首先 不 挨饿 的 情况 下 吃 “ 绿色食品 ” 是 最好 的 办法 。 我们 也 都 知道 这个 地球 上 无数 的 孩子 们 在 挨饿 而 死 。</source>
+    <translation system="bart">现在 这个 世界 上 的 大 问题 中 一个 就是 挨饿 的 人民 问题 ， 我 认为 吃 绿色食品 也好 ， 但是 首先 不 挨饿 的 情况 下 吃 绿色食品 是 最好 的 办法 ， 我们 也 都 知道 这个 地球 上 无数 的 孩子 们 在 挨饿 而 死 。</translation>
+    <translation system="t5">现在 这个 世界 上 的 大 问题 中 一个 就是 挨饿 的 人民 问题 。 我 认为 吃 “ 绿色食品 ” 也好 ， 但是 在 不 挨饿 的 情况 下 吃 “ 绿色食品 ” 是 最好 的 办法 。 我们 也 都 知道 这个 地球 上 无数 的 孩子 们 在 挨饿 而 死 。</translation>
+    <translation system="s2e">现在 这个 世界 上 的 大 问题 一个 就是 挨饿 的 人 的 问题 ， 我 认为 吃 “ 绿色食品 ” 也好 ， 但是 首先 在 不 挨饿 的 情况 下 吃 “ 绿色食品 ” 是 最好 的 办法 ， 我们 也 都 知道 这个 地球 上 无数 的 孩子 在 因 挨饿 而 死 。</translation>
+    <translation system="word">现在 这个 世界 上 的 大 问题 中 一个 就是 挨饿 的 人民 问题 ， 我 认为 吃 “ 绿色食品 ” 也好 ， 但是 在 首先 不 挨饿 的 情况 下 吃 “ 绿色食品 ” 是 最好 的 办法 ， 我们 也 都 知道 这个 地球 上 无数 的 孩子 们 在 挨饿 而 死 。</translation>
+    <translation system="char">现在 这个 世界 上 的 大 问题 中 , 一个 就是 挨饿 的 人民 问题 。 我 认为 吃 “ 绿色食品 ” 也好 ， 但是 首先 不 挨饿 的 情况 下 吃 “ 绿色食品 ” 是 最好 的 办法 ， 我们 也 都 知道 这个 地球 上 无数 的 孩子 们 在 挨饿 而 死 。</translation>
+    <translation system="spm">现在 这个 世界 上 的 大 问题 中 , 一个 就是 挨饿 的 人民 问题 ， 我 认为 吃 “ 绿色食品 ” 也好 ， 但是 首先 不 挨饿 的 情况 下 吃 “ 绿色食品 ” 是 最好 的 办法 ， 我们 也 都 知道 这个 地球 上 无数 的 孩子 们 在 挨饿 而 死 。</translation>
+  </seg>
+  <seg id="587" doc-id="mucgec">
+    <source>世界 各国 的 卫生部门 的 统计 表明 吸烟 引起 各种 癌症 以及 肺病 等 呼吸器官 的 疾病 。 除此之外 ， 一个 人 的 吸烟 引起 其 周围 的 的 第二次 吸烟 。 不仅 是 吸烟 的 那个 人外 ， 还会 给 周围 的 人 的 个人 健康 带来 不好 的 影响 。</source>
+    <translation system="bart">世界 各国 的 卫生部门 的 统计 表明 吸烟 引起 各种 癌症 以及 肺病 等 呼吸器官 的 疾病 ， 除此之外 ， 一个 人 吸烟 引起 其 周围 的 人 的 第二次 吸烟 ， 不仅 是 吸烟 的 那个 人外 ， 还会 给 周围 的 人 的 个人 健康 带来 不好 的 影响 。</translation>
+    <translation system="t5">世界 各国 的 卫生部门 的 统计 表明 吸烟 引起 各种 癌症 以及 肺病 等 呼吸器官 的 疾病 。 除此之外 ， 一个 人 吸烟 引起 其 周围 的 的 第二次 吸烟 。 不仅 是 吸烟 的 那个 人外 ， 还会 给 周围 的 人 的 个人 健康 带来 不好 的 影响 。</translation>
+    <translation system="s2e">世界 各国 的 卫生部门 的 统计 表明 吸烟 会 引起 各种 癌症 以及 肺病 等 呼吸器官 的 疾病 ， 除此之外 ， 一个 人 吸烟 会 引起 其 周围 的 人 的 第二次 吸烟 ， 不仅 除了 吸烟 的 那个 人 ， 还会 给 周围 的 人 的 个人 健康 带来 不好 的 影响 。</translation>
+    <translation system="word">世界 各国 的 卫生部门 的 统计 表明 吸烟 引起 各种 癌症 以及 肺病 等 呼吸器官 的 疾病 ， 除此之外 ， 一个 人 吸烟 会 引起 其 周围 的 第二次 吸烟 ， 不仅 是 吸烟 的 那个 人 ， 还会 给 周围 的 人 的 个人 健康 带来 不好 的 影响 。</translation>
+    <translation system="char">世界 各国 的 卫生部门 的 统计 表明 吸烟 会 引起 各种 癌症 以及 肺病 等 呼吸器官 的 疾病 ， 除此之外 ， 一个 人 吸烟 引起 其 周围 的 人 的 第二次 吸烟 ， 不仅 给 吸烟 的 那个 人外 ， 还会 给 周围 的 人 的 个人 健康 带来 不好 的 影响 。</translation>
+    <translation system="spm">世界 各国 的 卫生部门 的 统计 表明 吸烟 会 引起 各种 癌症 以及 肺病 等 呼吸器官 的 疾病 ， 除此之外 ， 一个 人 吸烟 会 引起 其 周围 的 第二次 吸烟 ， 不仅 是 给 吸烟 的 那个 人外 ， 还会 给 周围 的 人 的 健康 带来 不好 的 影响 。</translation>
+  </seg>
+  <seg id="38" doc-id="mucgec">
+    <source>我 在 学校 上课时 ， 看到 有些 老师 学生 烟不离 手 ， 在 谈话 时 也 抽 着 烟 。</source>
+    <translation system="bart+word+char+spm">我 在 学校 上课时 ， 看到 有些 老师 学生 烟不离 手 ， 在 谈话 时 也 抽 着 烟 。</translation>
+    <translation system="t5">我 在 学校 上课时 ， 看到 有些 老师 和 学生 抽烟 不离手 ， 在 谈话 时 也 抽 着 烟 。</translation>
+    <translation system="s2e">我 在 学校 上课时 ， 看到 有些 老师 学生 烟不离 手 ， 在 说话 时 也 抽烟 。</translation>
+  </seg>
+  <seg id="517" doc-id="mucgec">
+    <source>有 这样 的 教育 ， 我们 对 健康 和 环境 的 看法 也 就 变化 。</source>
+    <translation system="bart+t5+word">有 这样 的 教育 ， 我们 对 健康 和 环境 的 看法 也 就 会 变化 。</translation>
+    <translation system="s2e">有 了 这样 的 教育 ， 我们 对 健康 和 环境 的 看法 也 就 会 变化 。</translation>
+    <translation system="char+spm">有 这样 的 教育 ， 我们 对 健康 和 环境 的 看法 也 就 变化 了 。</translation>
+  </seg>
+  <seg id="215" doc-id="mucgec">
+    <source>同时 ， 给 青年人 养成 良好习惯 也 需要 很 长时间 。</source>
+    <translation system="bart">同时 ， 青年人 养成 良好习惯 也 需要 很 长时间 。</translation>
+    <translation system="t5">同时 ， 给 青年人 养成 良好 的 习惯 也 需要 很 长时间 。</translation>
+    <translation system="s2e">同时 ， 青年人 养成 良好 的 习惯 也 需要 很长 的 时间 。</translation>
+    <translation system="word+spm">同时 ， 让 青年人 养成 良好习惯 也 需要 很 长时间 。</translation>
+    <translation system="char">同时 ， 给 青年人 养成 良好习惯 也 需要 很 长时间 。</translation>
+  </seg>
+  <seg id="598" doc-id="mucgec">
+    <source>比如 愚公 很 冒昧 ， 因为 他 要 移山 ， 这是 非常 难 。</source>
+    <translation system="bart+s2e+char+spm">比如 愚公 很 冒昧 ， 因为 他 要 移山 ， 这 非常 难 。</translation>
+    <translation system="t5+word">比如 愚公 很 冒昧 ， 因为 他 要 移山 ， 这是 非常 难 的 。</translation>
+  </seg>
+  <seg id="545" doc-id="mucgec">
+    <source>我 老公 今年 出 差不多 ， 所以 可以 参观 了 孩子 的 运动会 什么 等 。</source>
+    <translation system="bart+t5+word+spm">我 老公 今年 出 差不多 ， 所以 可以 参观 孩子 的 运动会 什么 的 。</translation>
+    <translation system="s2e">我 老公 今年 出 差不多 ， 所以 可以 参加 孩子 的 运动会 。</translation>
+    <translation system="char">我 老公 今年 出 差不多 ， 所以 可以 参加 孩子 的 运动会 等等 。</translation>
+  </seg>
+  <seg id="1105" doc-id="mucgec">
+    <source>由 上述 的 理由 ， 吸烟 对 公众 利益 的 影响 也 有 很大 的 问题 ， 特别 是 公众 密集 的 地方 比如说 火车 上 、 汽车 上 等等 的话 影响 更大 。 所以 我 觉得 在 公共 地方 禁止 抽烟 是 肯定 的 ， 将来 这样 的 情况 肯定 越来越 多 。 因为 大部分 的 人民 都 喜望 没有 人 吸烟 的 环境 。</source>
+    <translation system="bart">由于 上述 的 理由 ， 吸烟 对 公众 利益 的 影响 也 有 很大 ， 特别 是 公众 密集 的 地方 ， 比如说 火车 上 、 汽车 上 等等 的话 影响 更大 ， 所以 我 觉得 在 公共 地方 禁止 抽烟 是 肯定 的 ， 将来 这样 的 情况 肯定 越来越 多 ， 因为 大部分 的 人民 都 喜欢 没有 人 吸烟 的 环境 。</translation>
+    <translation system="t5">由于 上述 的 理由 ， 吸烟 对 公众 利益 的 影响 也 有 很大 的 问题 ， 特别 是 公众 密集 的 地方 比如说 火车 上 、 汽车 上 等等 的话 影响 更大 。 所以 我 觉得 在 公共 地方 禁止 抽烟 是 肯定 的 ， 将来 这样 的 情况 肯定 越来越 多 。 因为 大部分 的 人民 都 希望 没有 人 吸烟 的 环境 。</translation>
+    <translation system="s2e">由于 上述 的 理由 ， 吸烟 对 公众 利益 的 影响 也 很大 ， 特别 是 公众 密集 的 地方 比如说 火车 上 、 汽车 上 等等 的话 影响 更大 ， 所以 我 觉得 在 公共 地方 禁止 抽烟 是 肯定 的 ， 将来 这样 的 情况 肯定 越来越 多 ， 因为 大部分 的 人民 都 喜欢 没有 人 吸烟 的 环境 。</translation>
+    <translation system="word">根据上述 的 理由 ， 吸烟 对 公众 利益 的 影响 也 有 很大 ， 特别 是 公众 密集 的 地方 ， 比如说 火车 上 、 汽车 上 等等 的话 影响 更大 ， 所以 我 觉得 在 公共 地方 禁止 抽烟 是 肯定 的 ， 将来 这样 的 情况 肯定 越来越 多 ， 因为 大部分 的 人民 都 希望 没有 人 吸烟 的 环境 。</translation>
+    <translation system="char">除了 上述 的 理由 ， 吸烟 对 公众 利益 的 影响 也 有 很大 ， 特别 是 公众 密集 的 地方 ， 比如说 火车 上 、 汽车 上 等等 吸烟 的话 影响 更大 ， 所以 我 觉得 在 公共 地方 禁止 抽烟 是 肯定 的 ， 将来 这样 的 情况 肯定 越来越 多 ， 因为 大部分 的 人民 都 希望 没有 人 吸烟 。</translation>
+    <translation system="spm">除了 上述 的 理由 ， 吸烟 对 公众 利益 的 影响 也 有 很大 ， 特别 是 公众 密集 的 地方 ， 比如说 在 火车 上 、 汽车 上 等等 吸烟 的话 影响 更大 ， 所以 我 觉得 在 公共 地方 禁止 抽烟 是 肯定 的 ， 将来 这样 的 情况 肯定 越来越 多 ， 因为 大部分 的 人民 都 喜欢 没有 人 吸烟 的 环境 。</translation>
+  </seg>
+  <seg id="461" doc-id="mucgec">
+    <source>突然 一条 十分 耀眼 的 红色 的 光亮 快速 地横 了 天空 ， 又 消失 了 在 高 空中 。 这时 我 还 没 意识 发生 了 什么 事 。</source>
+    <translation system="bart">突然 一道 十分 耀眼 的 红色 的 光亮 快速 地 横过 了 天空 ， 又 消失 在 高 空中 ， 这时 我 还 没 意识 发生 了 什么 事 。</translation>
+    <translation system="t5">突然 一条 十分 耀眼 的 红色 的 光亮 快速 地横 了 天空 ， 又 消失 在 空中 ， 这时 我 还 没 意识 到 发生 了 什么 事 。</translation>
+    <translation system="s2e+spm">突然 一条 十分 耀眼 的 红色 的 光亮 快速 地横 了 天空 ， 又 消失 了 在 高 空中 ， 这时 我 还 没 意识 到 发生 了 什么 事 。</translation>
+    <translation system="word">突然 一条 十分 耀眼 的 红色 光亮 快速 地横 了 天空 ， 又 消失 了 在 高 空中 ， 这时 我 还 没 意识 发生 了 什么 事 。</translation>
+    <translation system="char">突然 一条 十分 耀眼 的 红色 的 光亮 快速 地横 了 天空 ， 又 消失 了 在 高 空中 ， 这时 我 还 没 意识 发生 了 什么 事 。</translation>
+  </seg>
+  <seg id="927" doc-id="mucgec">
+    <source>我 没有 吸烟 的 习惯 ， 所以 我 对 吸烟者 有 反感 。</source>
+    <translation system="bart+t5+s2e+word+char+spm">我 没有 吸烟 的 习惯 ， 所以 我 对 吸烟者 很 反感 。</translation>
+  </seg>
+  <seg id="984" doc-id="mucgec">
+    <source>但 如果 父母 没有 好好 地教 孩子 ， 没有 告诉 他们 辨别是非 ， 什么 应该 做 ， 什么 不 应该 做 ， 在 社会 怎么 做人 。 可想而知 ， 他们 长大 以后 会 遇到 很多 的 麻烦 ， 甚至 不 适应 生活 的 ， 造成 不 甚 后果 。</source>
+    <translation system="bart+s2e+word+char+spm">但 如果 父母 没有 好好 地教 孩子 ， 没有 告诉 他们 辨别是非 ， 什么 应该 做 ， 什么 不 应该 做 ， 在 社会 上 怎么 做人 ， 可想而知 ， 他们 长大 以后 会 遇到 很多 的 麻烦 ， 甚至 不 适应 生活 ， 造成 不良后果 。</translation>
+    <translation system="t5">但 如果 父母 没有 好好 地教 孩子 ， 没有 告诉 他们 辨别是非 ， 什么 应该 做 ， 什么 不 应该 做 ， 在 社会 怎么 做人 ， 可想而知 ， 他们 长大 以后 会 遇到 很多 的 麻烦 ， 甚至 不 适应 生活 的 ， 造成 不 甚 后果 。</translation>
+  </seg>
+  <seg id="493" doc-id="mucgec">
+    <source>我 上 的 大学 是 女子 大学 ， 想到 那时 的 环境 ， 好像 容易 形成 有些 过于 偏见 的 、 不知 现实 的 女人 的 。 当然 当时 我 选择 上 那个 大学 的 时候 没有 这种 想法 ， 只是 凭 它 的 印象 好下 决定 的 。 不过 一旦 开始 上学 了 以后 ， 我 就 感到 许多 不 自然 。</source>
+    <translation system="bart">我 上 的 大学 是 女子 大学 ， 想到 那时 的 环境 ， 好像 容易 形成 有些 过于 偏见 的 、 不知 现实 的 女人 ， 当然 当时 我 选择 上 那个 大学 的 时候 没有 这种 想法 ， 只是 凭 对 它 的 印象 好下 决定 的 ， 不过 一旦 开始 上学 了 以后 ， 我 就 感到 许多 不 自然 。</translation>
+    <translation system="t5">我 上 的 大学 是 女子 大学 ， 想到 那时 的 环境 ， 好像 容易 形成 有些 过于 偏见 的 、 不知 现实 的 女人 的 。 当然 当时 我 选择 上 那个 大学 的 时候 没有 这种 想法 ， 只是 凭 它 的 印象 好下 决定 的 。 不过 一旦 开始 上学 了 以后 ， 我 就 感到 许多 不 自然 。</translation>
+    <translation system="s2e">我 上 的 大学 是 女子 大学 ， 想到 那时 的 环境 ， 好像 容易 成 有些 过于 偏见 的 、 不知 现实 的 女人 ， 当然 当时 我 选择 上 那个 大学 的 时候 没有 这种 想法 ， 只是 凭 对 它 的 印象 好 决定 的 ， 不过 一旦 开始 上学 以后 ， 我 就 感到 许多 不 自然 。</translation>
+    <translation system="word">我 上 的 大学 是 女子 大学 ， 想到 那时 的 环境 ， 好像 容易 形成 有些 过于 偏见 的 、 不知 现实 的 女人 ， 当然 当时 我 选择 上 那个 大学 的 时候 没有 这种 想法 ， 只是 凭 它 的 印象 好下 决定 的 ， 不过 一旦 开始 上学 了 以后 ， 我 就 感到 许多 不 自然 。</translation>
+    <translation system="char">我 上 的 大学 是 女子 大学 ， 想到 那时 的 环境 ， 好像 容易 形成 一些 过于 偏见 的 、 不知 现实 的 女人 的 ， 当然 当时 我 选择 上 那个 大学 的 时候 没有 这种 想法 ， 只是 凭 对 它 的 印象 决定 的 ， 不过 一旦 开始 上学 了 以后 ， 我 就 感到 许多 不 自然 。</translation>
+    <translation system="spm">我 上 的 大学 是 女子 大学 ， 想到 那时 的 环境 ， 好像 容易 造就 一些 过于 偏见 的 、 不知 现实 的 女人 ， 当然 当时 我 选择 上 那个 大学 的 时候 没有 这种 想法 ， 只是 凭 它 的 影响 决定 的 ， 不过 一旦 开始 上学 了 以后 ， 我 就 感到 许多 不 自然 。</translation>
+  </seg>
+  <seg id="859" doc-id="mucgec">
+    <source>宇治 原 先生 本人 也 挺 有意思 ， 这 本书 没有 发生 特别 的 事情 ， 没 写 恋爱 故事 什么 的 。</source>
+    <translation system="bart+t5+word">宇治 原 先生 本人 也 挺 有意思 ， 这 本书 没有 发生 特别 的 事情 ， 也 没 写 恋爱 故事 什么 的 。</translation>
+    <translation system="s2e">宇治 原 先生 本人 也 挺 有意思 ， 这 本书 没有 发生 特别 的 事情 ， 没 写 恋爱 故事 什么 的 。</translation>
+    <translation system="char+spm">宇治 原 先生 本人 也 挺 有意思 的 ， 这 本书 没有 发生 特别 的 事情 ， 没 写 恋爱 故事 什么 的 。</translation>
+  </seg>
+  <seg id="133" doc-id="mucgec">
+    <source>“ 艺术家 ” 词 常常 听 起来 否定 的 东西 。 如果 要 我们 把 自己 看成 艺术家 ， 大家 会 惴惴不安 ， 因为 他们 觉得 艺术家 前途渺茫 ， 把 法则 也 不管 。 根据 这件 实事 ， 人们 说 ： “ 每个 人 都 是 艺术家 ” 为 对 艺术家 很 刻薄 。</source>
+    <translation system="bart">艺术家 这个 词 常常 听 起来 是 否定 的 东西 ， 如果 要 我们 把 自己 看成 艺术家 ， 大家 会 惴惴不安 ， 因为 他们 觉得 艺术家 前途渺茫 ， 连 法则 也 不管 ， 根据 这件 实事 ， 人们 说 ： 每个 人 都 是 艺术家 对 艺术家 很 刻薄 。</translation>
+    <translation system="t5">“ 艺术家 ” 词 常常 听 起来 是 否定 的 东西 。 如果 要 我们 把 自己 看成 艺术家 ， 大家 会 不安 ， 因为 他们 觉得 艺术家 前途渺茫 ， 把 法则 也 不管 。 根据 这件 事实 ， 人们 说 ： “ 每个 人 都 是 艺术家 ” ， 因为 对 艺术家 很 刻薄 。</translation>
+    <translation system="s2e">“ 艺术家 ” 词 常常 听 起来 是 否定 的 东西 ， 如果 要 我们 把 自己 看成 艺术家 ， 大家 会 惴惴不安 ， 因为 他们 觉得 艺术家 前途渺茫 ， 把 法则 也 不管 。 事实上 ， 人们 说 ： “ 每个 人 都 是 艺术家 ” 对 艺术家 很 刻薄 。</translation>
+    <translation system="word">“ 艺术家 ” 词 常常 听 起来 否定 的 东西 ， 如果 要 我们 把 自己 看成 艺术家 ， 大家 会 [ UNK ] [ UNK ] 不安 ， 因为 他们 觉得 艺术家 前途渺茫 ， 把 法则 也 不管 ， 根据 这件 事实 ， 人们 说 ： “ 每个 人 都 是 艺术家 ” ， 对 艺术家 很 刻薄 。</translation>
+    <translation system="char">“ 艺术家 ” 词 常常 听 起来 否定 的 东西 ， 如果 要 我们 把 自己 看成 艺术家 ， 大家 会 感到 不安 ， 因为 他们 觉得 艺术家 前途渺茫 ， 把 法则 也 不管 ， 根据 这件 事 ， 人们 说 ： “ 每个 人 都 是 艺术家 。 ” 为了 艺术家 很 刻薄 。</translation>
+    <translation system="spm">“ 艺术家 ” 词 常常 听 起来 否定 的 东西 ， 如果 要 我们 把 自己 看成 艺术家 ， 大家 会 张贴 不安 ， 因为 他们 觉得 艺术家 前途渺茫 ， 把 法则 也 不管 。 根据 这件 事实 ， 人们 说 ： “ 每个 人 都 是 艺术家 ” 为 对 艺术家 很 刻薄 。</translation>
+  </seg>
+  <seg id="594" doc-id="mucgec">
+    <source>在 这个 全世界 人口 中 ， 一半 以上 的 人 吸烟 ， 所以 很多 人 病死 。</source>
+    <translation system="bart+s2e+char">在 全世界 人口 中 ， 一半 以上 的 人 吸烟 ， 所以 很多 人 病死 。</translation>
+    <translation system="t5">在 全世界 人口 中 ， 一半 以上 的 人 吸烟 ， 所以 很多 人死于 吸烟 。</translation>
+    <translation system="word">在 全世界 人口 中 ， 一半 以上 的 人 吸烟 ， 所以 很多 人 病死 了 。</translation>
+    <translation system="spm">在 这个 全世界 人口 中 ， 一半 以上 的 人 吸烟 ， 所以 很多 人 病死 。</translation>
+  </seg>
+  <seg id="894" doc-id="yaclc">
+    <source>好 几次 试试 了 ， 不过 每次 这样 。</source>
+    <translation system="bart+char">好 几次 试 了 ， 不过 每次 都 是 这样 。</translation>
+    <translation system="t5">好 几次 试 了 ， 不过 每次 都 这样 。</translation>
+    <translation system="s2e">好 几次 ， 不过 每次 都 这样 。</translation>
+    <translation system="word">好 几次 都 试了试 ， 不过 每次 都 这样 。</translation>
+    <translation system="spm">试 了 好 几次 ， 不过 每次 都 这样 。</translation>
+  </seg>
+  <seg id="598" doc-id="yaclc">
+    <source>如此 这个 名字 含有 “ phone ” ， 当然 可以 打电话 和 接电话 。</source>
+    <translation system="bart">因此 这个 名字 含有 phone ， 当然 可以 打电话 和 接电话 。</translation>
+    <translation system="t5+s2e">如此 这个 名字 含有 “ phone ” ， 当然 可以 打电话 和 接电话 。</translation>
+    <translation system="word+char+spm">这个 名字 含有 “ phone ” ， 当然 可以 打电话 和 接电话 。</translation>
+  </seg>
+  <seg id="1188" doc-id="yaclc">
+    <source>我 的 第一 汉语 / 中文 日记 ！</source>
+    <translation system="bart+t5+s2e+word+char+spm">我 的 第一篇 汉语 / 中文 日记 ！</translation>
+  </seg>
+  <seg id="219" doc-id="yaclc">
+    <source>想尽 了 一切办法 都 哪里 谈得上 见 好 ， 他 的 病势 日益 更坏 了 。</source>
+    <translation system="bart">想尽 了 一切办法 都 哪里 谈得上 见 好 ， 他 的 病势 日益 加重 了 。</translation>
+    <translation system="t5">想尽 了 一切办法 都 谈得上 好 ， 他 的 病势 日益 恶化 了 。</translation>
+    <translation system="s2e">想尽 了 一切办法 都 谈得上 好 ， 他 的 病势 日益 更坏 了 。</translation>
+    <translation system="word">想尽 了 一切办法 都 哪里 谈得上 见 好 ， 他 的 病情 日益 恶化 了 。</translation>
+    <translation system="char">想尽 了 一切办法 都 哪里 谈得上 见 好 ， 他 的 病情 日益 变坏 了 。</translation>
+    <translation system="spm">想尽 了 一切办法 都 哪里 谈得上 见 好 ， 他 的 病势 日益 变坏 了 。</translation>
+  </seg>
+  <seg id="1509" doc-id="yaclc">
+    <source>我 真的 不太 明白 为什么 她 不停 这种 不好 的 习惯 。</source>
+    <translation system="bart+char">我 真的 不太 明白 为什么 她 不 改掉 这种 不好 的 习惯 。</translation>
+    <translation system="t5+word">我 真的 不太 明白 为什么 她 不停 地 养成 这种 不好 的 习惯 。</translation>
+    <translation system="s2e">我 真的 不太 明白 为什么 她 不 保持 这种 不好 的 习惯 。</translation>
+    <translation system="spm">我 真的 不太 明白 为什么 她 不停 地 这种 不好 的 习惯 。</translation>
+  </seg>
+  <seg id="220" doc-id="yaclc">
+    <source>我 看过 完成 之前 的 ， 今天 期待 看 完成 的 样子 。</source>
+    <translation system="bart">我 看过 完成 之前 的 ， 今天 很 期待 看 完成 的 样子 。</translation>
+    <translation system="t5">我 看过 完成 之前 的 ， 今天 期待 看 完成 的 样子 。 我 看过 完成 之前 的 ， 今天 期待 看 完成 的 样子 。</translation>
+    <translation system="s2e">我 看过 完成 之前 的 ， 今天 期待 看 完成 的 样子 。</translation>
+    <translation system="word">我 看 完 之前 的 ， 今天 期待 看 完 的 样子 。</translation>
+    <translation system="char">我 看过 完成 之前 的 ， 期待 今天 看 完成 的 样子 。</translation>
+    <translation system="spm">我 看过 完成 之前 ， 今天 期待 看 完成 的 样子 。</translation>
+  </seg>
+  <seg id="1330" doc-id="yaclc">
+    <source>如果 有 从来 没有 试过 的 决心 的话 ， 我们 心底 轻松 的 可以 做 试一试 到 12 月 31 日 。</source>
+    <translation system="bart">如果 有 从来 没有 试过 的 决心 的话 ， 我们 心里 轻松 的 可以 试一试 到 12 月 31 日 。</translation>
+    <translation system="t5">如果 有 从来 没有 试过 的 决心 的话 ， 我们 心底 轻松 的 可以 试一试 到 12 月 31 日 。 如果 有 从来 没有 试过 的 决心 的话 ， 我们 心底 轻松 的 可以 试一试 到 12 月 31 日 。</translation>
+    <translation system="s2e">如果 有 从来 没有 试过 的 决心 的话 ， 我们 可以 试一试 到 12 月 31 日 。</translation>
+    <translation system="word">如果 有 从来 没有 试过 的 决心 的话 ， 我们 心底 轻松 地 可以 试一试 到 12 月 31 日 。</translation>
+    <translation system="char">如果 有 从来 没有 试过 的 决心 的话 ， 我们 心底 可以 轻松 的 做 试一试 ， 直到 12 月 31 日 。</translation>
+    <translation system="spm">如果 有 从来 没有 试过 的 决心 的话 ， 我们 心底 轻松 地 可以 做 试一试 到 12 月 31 日 。</translation>
+  </seg>
+  <seg id="1786" doc-id="yaclc">
+    <source>在 那里 桌子 上 有 电脑 ， 客人 好像 可以 自由 地 使用 的 样子 。</source>
+    <translation system="bart+t5+word+char+spm">在 那里 桌子 上 有 电脑 ， 客人 好像 可以 自由 地 使用 。</translation>
+    <translation system="s2e">那里 桌子 上 有 电脑 ， 客人 好像 可以 自由 地 使用 的 样子 。</translation>
+  </seg>
+  <seg id="1808" doc-id="yaclc">
+    <source>书有 好消息 可是 一点 索然 .</source>
+    <translation system="bart">书里 有 好消息 可是 有 一点 索然 .</translation>
+    <translation system="t5+word+spm">书有 好消息 可是 有 一点 索然 .</translation>
+    <translation system="s2e">书里 有 好消息 可是 一点 索然 .</translation>
+    <translation system="char">书有 好消息 可是 一点 不 明白 .</translation>
+  </seg>
+  <seg id="398" doc-id="yaclc">
+    <source>生病 ， 辣 的 事儿 ， 等等 。</source>
+    <translation system="bart">生病 ， 吃 辣 的 事儿 ， 等等 。</translation>
+    <translation system="t5+s2e+word">生病 ， 辣 的 事儿 ， 等等 。</translation>
+    <translation system="char">生病 ， 有辣 的 事儿 ， 等等 。</translation>
+    <translation system="spm">生病 、 辣 的 事儿 等等 。</translation>
+  </seg>
+  <seg id="1377" doc-id="yaclc">
+    <source>这是 打工 所以 我 另外 都 学生 ， 二十几岁 或者 十八岁 。</source>
+    <translation system="bart">这是 打工 ， 所以 我 另外 都 是 学生 ， 二十几岁 或者 十八岁 。</translation>
+    <translation system="t5">这是 打工 所以 我 另外 都 是 学生 ， 二十几岁 或者 十八岁 。</translation>
+    <translation system="s2e">这是 打工 所以 我 都 是 学生 ， 二十几岁 或者 十八岁 。</translation>
+    <translation system="word">这是 打工 ， 所以 我 其他 都 是 学生 ， 二十几岁 或者 十八岁 。</translation>
+    <translation system="char">这是 打工 所以 我 另外 一个 学生 ， 二十几岁 或者 十八岁 。</translation>
+    <translation system="spm">这是 打工 所以 我 的 其他 学生 ， 二十几岁 或者 十八岁 。</translation>
+  </seg>
+  <seg id="1393" doc-id="yaclc">
+    <source>那 ， 可以 发现 下次 课题 。</source>
+    <translation system="bart">那么 ， 可以 发现 下次 的 课题 。</translation>
+    <translation system="t5+s2e+word">那 ， 可以 发现 下次 的 课题 。</translation>
+    <translation system="char">那 ， 就 可以 发现 下次 课题 。</translation>
+    <translation system="spm">那 ， 可以 发现 下 一个 课题 。</translation>
+  </seg>
+  <seg id="1066" doc-id="yaclc">
+    <source>我 感到 那个 东西 还 可以 使用 ， 扔掉 的 时候 ， 我 的 心 比较 疼 。</source>
+    <translation system="bart+s2e+word+char">我 觉得 那个 东西 还 可以 使用 ， 扔掉 的 时候 ， 我 的 心 比较 疼 。</translation>
+    <translation system="t5">我 感到 那个 东西 还 可以 使用 ， 扔掉 的 时候 ， 我 的 心 比较 疼 。 我 觉得 那个 东西 还 可以 使用 ， 扔掉 的 时候 ， 我 的 心 比较 疼 。</translation>
+    <translation system="spm">我 感到 那个 东西 还 可以 使用 ， 扔掉 的 时候 ， 我 的 心 比较 疼 。</translation>
+  </seg>
+  <seg id="1362" doc-id="yaclc">
+    <source>几天 后 学生 还 没 道歉 所以 校长 决定 如果 学生 不能 道歉 学生 不得不 停课 ( suspension ) 。</source>
+    <translation system="bart">几天 后 学生 还 没 道歉 ， 所以 校长 决定 如果 学生 不能 道歉 学生 就 不得不 停课 ( suspension ) 。</translation>
+    <translation system="t5">几天 后 学生 还 没 道歉 所以 校长 决定 如果 学生 不能 道歉 学生 不得不 停课 ( suspension ) 。 几天 后 学生 还 没 道歉 ， 所以 校长 决定 如果 学生 不能 道歉 ， 学生 不得不 停课 。</translation>
+    <translation system="s2e+char">几天 后 学生 还 没 道歉 ， 所以 校长 决定 如果 学生 不能 道歉 学生 不得不 停课 ( suspension ) 。</translation>
+    <translation system="word">几天 后 学生 还 没 道歉 ， 所以 校长 决定 如果 学生 不能 道歉 ， 学生 不得不 停课 ( su ## sp ## ens ) 。</translation>
+    <translation system="spm">几天 后 学生 还 没 道歉 ， 所以 校长 决定 如果 学生 不能 向 学生 道歉 ， 学生 就 不得不 停课 ( layley</translation>
+  </seg>
+  <seg id="1549" doc-id="yaclc">
+    <source>我 的 这样 的 性格 ， 长大 之后 也 一直 没有 变化 ， 可是 不知 为何 ， 这个 网站 的 日记 持续 下去 ， 真 不可思议 呢 。</source>
+    <translation system="bart">我 的 这样 的 性格 ， 长大 之后 也 一直 没有 变化 ， 可是 不知 为何 ， 这个 网站 的 日记 一直 持续 下去 ， 真 不可思议 呢 。</translation>
+    <translation system="t5">我 的 这样 的 性格 ， 长大 之后 也 一直 没有 变化 ， 可是 不知 为何 ， 这个 网站 的 日记 持续 下去 ， 真 不可思议 呢 。</translation>
+    <translation system="s2e+word">我 这样 的 性格 ， 长大 之后 也 一直 没有 变化 ， 可是 不知 为何 ， 这个 网站 的 日记 持续 下去 ， 真 不可思议 呢 。</translation>
+    <translation system="char">我 这样 的 性格 ， 长大 之后 也 一直 没有 变化 ， 可是 不知 为何 ， 这个 网站 的 日记 还 在 持续 下去 ， 真 不可思议 呢 。</translation>
+    <translation system="spm">我 的 这样 的 性格 ， 长大 之后 也 一直 没有 变化 ， 可是 不知 为何 ， 这个 网站 的 日记 持续 下去 ， 真 不可思议 。</translation>
+  </seg>
+  <seg id="618" doc-id="yaclc">
+    <source>大家 好 ～ 这 是 我 第一篇 文章 在 这边 … …</source>
+    <translation system="bart">大家 好 ～ 这 是 我 在 这边 写 的 第一篇 文章</translation>
+    <translation system="t5">大家 好 这 是 我 在 这边 写 的 第一篇 文章 … …</translation>
+    <translation system="s2e">大家 好 ， 这 是 我 的 第一篇 文章 ！</translation>
+    <translation system="word">大家 好 [ UNK ] 这 是 我 在 这里 第一篇 文章 … …</translation>
+    <translation system="char">大家 好 ～ 这 是 我 第一篇 在 这边 的 文章 … …</translation>
+    <translation system="spm">大家 好 ～ 这 是 我 在 这边 的 第一篇 文章 … …</translation>
+  </seg>
+  <seg id="1550" doc-id="yaclc">
+    <source>但是 今天 我犯 了 巨大 的 错误 ， 则 从 学校 没带 我 的 宝贝儿 - 电子词典 。</source>
+    <translation system="bart">但是 今天 我犯 了 巨大 的 错误 ， 就 是从 学校 没带 我 的 宝贝儿 - 电子词典 。</translation>
+    <translation system="t5+s2e+spm">但是 今天 我犯 了 巨大 的 错误 ， 从 学校 没带 我 的 宝贝儿 - 电子词典 。</translation>
+    <translation system="word">但是 今天 我犯 了 巨大 的 错误 ， 学校 则 没带 我 的 宝贝儿 - 电子词典 。</translation>
+    <translation system="char">但是 今天 我犯 了 一个 巨大 的 错误 ， 从 学校 没带 我 的 宝贝儿 - 电子词典 。</translation>
+  </seg>
+  <seg id="1624" doc-id="yaclc">
+    <source>因为 我 去 了 旅游 ， 朋友 给 我 他 的 照相机 ， 另 一个 接给 我 学习 书 。</source>
+    <translation system="bart+word">因为 我 去 旅游 了 ， 朋友 给 了 我 他 的 照相机 ， 另 一个 接给 我 学习 书 。</translation>
+    <translation system="t5">因为 我 去 旅游 ， 朋友 给 我 他 的 照相机 ， 另 一个 接给 我 学习 书 。 因为 我 去 旅游 了 ， 朋友 给 我 他 的 照相机 ， 另 一个 接给 我 学习 书 。</translation>
+    <translation system="s2e">因为 我 去 旅游 ， 朋友 给 我 他 的 照相机 ， 另 一个 接给 我 学习 书 。</translation>
+    <translation system="char">因为 我 去 旅游 了 ， 朋友 给 了 我 他 的 照相机 ， 另 一个 给 我 学习 书 。</translation>
+    <translation system="spm">因为 我 去 旅游 了 ， 朋友 给 我 他 的 照相机 ， 另 一个 接给 我 学习 书 。</translation>
+  </seg>
+  <seg id="699" doc-id="yaclc">
+    <source>爸爸 一看 挂历 ， 再 沉默 得 一 点头 了 。</source>
+    <translation system="bart">爸爸 一看 挂历 ， 又 沉默 地点 了 点头 。</translation>
+    <translation system="t5">爸爸 一看 挂历 ， 沉默 得 一 点头 。</translation>
+    <translation system="s2e">爸爸 一看 挂历 ， 沉默 一 点头 。</translation>
+    <translation system="word">爸爸 一看 挂历 ， 就 沉默 得 一 点头 了 。</translation>
+    <translation system="char">爸爸 一看 挂历 ， 又 沉默 得 一 点头 了 。</translation>
+    <translation system="spm">爸爸 一看 挂历 ， 又 沉默 了 一 点头 。</translation>
+  </seg>
+  <seg id="1754" doc-id="yaclc">
+    <source>我 孩子 的 时候 ， 每天 在 电视 里 看 那本书 的 动画片 。</source>
+    <translation system="bart+t5+spm">我 还是 孩子 的 时候 ， 每天 在 电视 里 看 那本书 的 动画片 。</translation>
+    <translation system="s2e+word+char">我 小 的 时候 ， 每天 在 电视 里 看 那本书 的 动画片 。</translation>
+  </seg>
+  <seg id="172" doc-id="yaclc">
+    <source>上班 的 时候 ， 我 看 了 一个 燕子 。</source>
+    <translation system="bart+t5+s2e+word+char">上班 的 时候 ， 我 看到 了 一只 燕子 。</translation>
+    <translation system="spm">上班 的 时候 ， 我 看见 了 一个 燕子 。</translation>
+  </seg>
+  <seg id="1397" doc-id="yaclc">
+    <source>我 不想 遇见 她 ， 所以 ， 我 每次 利用 有 3 台 电梯 的 地方 但 这次 去 了 有 2 台 电梯 的 地方 。</source>
+    <translation system="bart">我 不想 遇见 她 ， 所以 ， 我 每次 都 利用 有 3 台 电梯 的 地方 ， 但 这次 去 了 有 2 台 电梯 的 地方 。</translation>
+    <translation system="t5">我 不想 遇见 她 ， 所以 ， 我 每次 都 去 有 3 台 电梯 的 地方 但 这次 去 了 有 2 台 电梯 的 地方 。</translation>
+    <translation system="s2e">我 不想 遇见 她 ， 所以 ， 我 每次 都 都 去 有 3 台 电梯 的 地方 ， 但 这次 去 了 有 2 台 电梯 的 地方 。</translation>
+    <translation system="word">我 不想 遇见 她 ， 所以 ， 我 每次 利用 有 3 台 电梯 的 地方 但 这次 去 了 有 2 台 电梯 的 地方 。</translation>
+    <translation system="char">我 不想 遇见 她 ， 所以 ， 我 每次 都 要 坐 3 台 电梯 ， 但 这次 去 了 有 2 台 电梯 的 地方 。</translation>
+    <translation system="spm">我 不想 遇见 她 ， 所以 ， 我 每次 利用 有 3 台 电梯 的 地方 ， 但 这次 去 了 有 2 台 电梯 的 地方 。</translation>
+  </seg>
+  <seg id="202" doc-id="yaclc">
+    <source>然后 ， 在 日本 固定 了 “ 情人节 ” 是 “ 巧克力 ” 。</source>
+    <translation system="bart">然后 ， 在 日本 固定 了 情人节 和 巧克力 。</translation>
+    <translation system="t5+s2e">然后 ， 在 日本 固定 了 “ 情人节 ” 是 “ 巧克力 ” 。</translation>
+    <translation system="word">然后 ， 在 日本 “ 情人节 ” 是 “ 巧克力 ” 。</translation>
+    <translation system="char">然后 ， 在 日本 固定 了 “ 情人节 ” ， 是 “ 巧克力 ” 。</translation>
+    <translation system="spm">然后 ， 在 日本 固定 了 “ 情人节 ” 即 “ 巧克力 ” 。</translation>
+  </seg>
+  <seg id="1005" doc-id="yaclc">
+    <source>他 果然 一瞬间把 它 一口 吃掉 ， 不过 我 已经 到 客厅 走 了 ， 看不见 他 都 吃 完 了 。</source>
+    <translation system="bart">他 果然 一瞬间把 它 一口 吃掉 了 ， 不过 我 已经 走 到 客厅 了 ， 看不见 他 都 吃 完 了 。</translation>
+    <translation system="t5">他 果然 一瞬间把 它 一口 吃掉 ， 不过 我 已经 到 客厅 走 了 ， 看不见 他 都 吃 完 了 。 他 果然 一瞬间把 它 一口 吃掉 ， 不过 我 已经 到 客厅 走 了 ， 看不见 他 都 吃 完 了 。</translation>
+    <translation system="s2e">他 果然 一瞬间把 它 一口 吃掉 ， 不过 我 已经 到 客厅 了 ， 看不见 他 都 吃 完 了 。</translation>
+    <translation system="word+spm">他 果然 一瞬间把 它 一口 吃掉 ， 不过 我 已经 到 客厅 走 了 ， 看不见 他 都 吃 完 了 。</translation>
+    <translation system="char">他 果然 一瞬间把 它 一口 吃掉 ， 不过 我 已经 走 到 客厅 了 ， 看不见 他 都 吃 完 了 。</translation>
+  </seg>
+  <seg id="972" doc-id="yaclc">
+    <source>我 回答 ； 我 很 喜欢 中文 ， 当然 我要 继续 学习 中文 。</source>
+    <translation system="bart+word+char">我 回答 ； 我 很 喜欢 中文 ， 当然 我 也 要 继续 学习 中文 。</translation>
+    <translation system="t5+spm">我 回答 ： “ 我 很 喜欢 中文 ， 当然 我要 继续 学习 中文 。 ”</translation>
+    <translation system="s2e">我 回答 ： 我 很 喜欢 中文 ， 当然 我要 继续 学习 中文 。</translation>
+  </seg>
+  <seg id="494" doc-id="yaclc">
+    <source>它 是 ， 我 在 木柴 堆里 找到 可用 的 橡木 木头 ， 然后 连接 着 木板 片来 制成 的 。</source>
+    <translation system="bart">它 是 ， 我 在 木柴 堆里 找到 可用 的 橡木 木头 ， 然后 连接 着 木板 片 制成 的 。</translation>
+    <translation system="t5">它 是 ， 我 在 木柴 堆里 找到 可用 的 橡木 木头 ， 然后 连接 着 木板 片来 制成 的 。</translation>
+    <translation system="s2e+spm">它 是 我 在 木柴 堆里 找到 可用 的 橡木 木头 ， 然后 连接 着 木板 片来 制成 的 。</translation>
+    <translation system="word">它 是 我 在 木柴 堆里 找到 可用 的 [ UNK ] 木 ， 然后 连接 着 木板 片来 制成 的 。</translation>
+    <translation system="char">它 是 我 在 木柴 堆里 找到 可用 的 橡木 木头 ， 然后 连接 着 木板 片来 制作 的 。</translation>
+  </seg>
+  <seg id="603" doc-id="yaclc">
+    <source>体育 是 点名 了 以后 去 小卖部 ， 然后 跟 朋友 可以 讲话 的 上课 。</source>
+    <translation system="bart">体育 是 点名 了 以后 去 小卖部 ， 然后 跟 朋友 讲话 的 上课 。</translation>
+    <translation system="t5">体育 是 点名 了 以后 去 小卖部 ， 然后 跟 朋友 可以 交流 的 上课 。</translation>
+    <translation system="s2e">体育 是 点名 了 以后 去 小卖部 ， 然后 跟 朋友 讲话 上课 。</translation>
+    <translation system="word">体育 点名 了 以后 去 小卖部 ， 然后 跟 朋友 可以 讲话 的 上课 。</translation>
+    <translation system="char">体育 是 点名 以后 去 小卖部 ， 然后 跟 朋友 可以 讲话 的 上课 。</translation>
+    <translation system="spm">体育 是 点名 了 以后 去 小卖部 ， 然后 跟 朋友 聊聊 。</translation>
+  </seg>
+  <seg id="941" doc-id="yaclc">
+    <source>因为 这次 旅行 的 时候 和 辛苦 了 所以 下次 旅行 以前 我们 要 准备 完善 。</source>
+    <translation system="bart">因为 这次 旅行 很 辛苦 ， 所以 下次 旅行 以前 我们 要 准备 完善 。</translation>
+    <translation system="t5">因为 这次 旅行 的 时候 很 辛苦 ， 所以 下次 旅行 以前 我们 要 准备 完善 。</translation>
+    <translation system="s2e">因为 这次 旅行 很 辛苦 ， 所以 下次 旅行 之前 我们 要 准备 。</translation>
+    <translation system="word">因为 这次 旅行 很 辛苦 ， 所以 下次 旅行 以前 我们 要 准备 好 。</translation>
+    <translation system="char+spm">因为 这次 旅行 的 时候 很 辛苦 ， 所以 下次 旅行 之前 我们 要 准备 完善 。</translation>
+  </seg>
+  <seg id="35" doc-id="yaclc">
+    <source>我 看 窗户 ， 路 看起来 不通 。</source>
+    <translation system="bart+word+char">我 看着 窗户 ， 路 看起来 不通 。</translation>
+    <translation system="t5">我 看 窗户 ， 路 看起来 不通 。 我 看 窗户 ， 路 看起来 不通 。</translation>
+    <translation system="s2e">我 看 窗户 ， 路 看起来 不通 。</translation>
+    <translation system="spm">我 看 向 窗户 ， 路 看起来 不通 。</translation>
+  </seg>
+  <seg id="185" doc-id="yaclc">
+    <source>我 回来 了 工作 的 时候 ， 电视 和 镜子 落下 坏 了 。</source>
+    <translation system="bart+word">我 回来 工作 的 时候 ， 电视 和 镜子 摔坏 了 。</translation>
+    <translation system="t5">我 回来 工作 的 时候 ， 电视 和 镜子 掉 了 。</translation>
+    <translation system="s2e+char+spm">我 回来 工作 的 时候 ， 电视 和 镜子 坏 了 。</translation>
+  </seg>
+  <seg id="1035" doc-id="yaclc">
+    <source>我 家族 每天 愉快 的 兴趣 是 感到 生活 价值 我越 老越 精神 了 。</source>
+    <translation system="bart">我家 人 每天 愉快 的 兴趣 是 感到 生活 价值 我越 老越 精神 了 。</translation>
+    <translation system="t5">我 家族 每天 愉快 的 兴趣 是 感到 生活 价值 ， 我越 老越 精神 了 。</translation>
+    <translation system="s2e">我家 每天 愉快 的 兴趣 是 感到 生活 价值 我越 老越 精神 了 。</translation>
+    <translation system="word">我 家族 每天 愉快 的 兴趣 是 感到 生活 价值 我 越来越 精神 了 。</translation>
+    <translation system="char">我 家族 每天 愉快 的 兴趣 是 感到 生活 价值 越 老 我 越 精神 了 。</translation>
+    <translation system="spm">我家 人 每天 愉快 的 兴趣 是 感到 生活 价值 我越 老越 有 精神 了 。</translation>
+  </seg>
+  <seg id="989" doc-id="yaclc">
+    <source>我们 吃 到 晩 上 ９ 点半 、 就 回家 了 。</source>
+    <translation system="bart">我们 吃 到 晩 上 ９ 点半 ， 就 回家 了 。</translation>
+    <translation system="t5">我们 吃 到 晩 上点 半 就 回家 了 。</translation>
+    <translation system="s2e+char">我们 吃 到 晩 上 ９ 点半 就 回家 了 。</translation>
+    <translation system="word">我们 吃 到 晩 上 [ UNK ] 点半 就 回家 了 。</translation>
+    <translation system="spm">我们 到 晩 上 ９ 点半 就 回家 了 。</translation>
+  </seg>
+  <seg id="1586" doc-id="yaclc">
+    <source>我 希望 在 中国 能 做 新 经验 ， 会回 意大利 的 时候 还 能 有 好 记忆 。</source>
+    <translation system="bart+t5">我 希望 在 中国 能 积累 新 经验 ， 回 意大利 的 时候 还 能 有 好 记忆 。</translation>
+    <translation system="s2e">我 希望 在 中国 能 获新 经验 ， 回 意大利 的 时候 还 能 有 好 回忆 。</translation>
+    <translation system="word">我 希望 在 中国 能 积累 新 的 经验 ， 回 意大利 的 时候 还 能 有 好 记忆 。</translation>
+    <translation system="char">我 希望 在 中国 能 获得 新 经验 ， 回 意大利 的 时候 还 能 有 美好 的 回忆 。</translation>
+    <translation system="spm">我 希望 在 中国 能 有 新 的 体验 ， 回 意大利 的 时候 还 能 有 好 记忆 。</translation>
+  </seg>
+  <seg id="1421" doc-id="yaclc">
+    <source>比 好看 的 食物 起来 ， 对 身体 好 的 食物 自己 开始 喜欢 吃 。</source>
+    <translation system="bart+s2e+char">比起 好看 的 食物 ， 对 身体 好 的 食物 自己 开始 喜欢 吃 。</translation>
+    <translation system="t5">比 好看 的 食物 ， 对 身体 好 的 食物 自己 开始 喜欢 吃 。 比 好看 的 食物 ， 对 身体 好 的 食物 自己 开始 喜欢 吃 。</translation>
+    <translation system="word">比起 好看 的 食物 起来 ， 对 身体 好 的 食物 自己 开始 喜欢 吃 。</translation>
+    <translation system="spm">比 好看 的 食物 好 起来 ， 对 身体 好 的 食物 自己 开始 喜欢 吃 。</translation>
+  </seg>
+  <seg id="496" doc-id="yaclc">
+    <source>我 感觉 , 我 的 北京 留学 是 非常 过去 的 事情 .</source>
+    <translation system="bart+t5+s2e+word+char+spm">我 感觉 , 我 在 北京 留学 是 非常 过去 的 事情 .</translation>
+  </seg>
+  <seg id="1733" doc-id="yaclc">
+    <source>过 了 两个 星期 后 ， 再 开学 。</source>
+    <translation system="bart+t5+word+char+spm">过 了 两个 星期 后 ， 又 开学 了 。</translation>
+    <translation system="s2e">过 了 两个 星期 后 ， 我 又 开学 了 。</translation>
+  </seg>
+  <seg id="521" doc-id="yaclc">
+    <source>现在 我 有 三台 的 电脑 ， 还有 三台 中 一台 我 爸爸 使用 。</source>
+    <translation system="bart">现在 我 有 三台 电脑 ， 还有 三台 中 的 一台 我 爸爸 使用 。</translation>
+    <translation system="t5">现在 我 有 三台 电脑 ， 还有 三台 中 一台 是 我 爸爸 使用 的 。</translation>
+    <translation system="s2e">现在 我 有 三台 电脑 ， 有 三台 ， 一台 由 我 爸爸 使用 。</translation>
+    <translation system="word+spm">现在 我 有 三台 电脑 ， 还有 三台 中 一台 我 爸爸 使用 。</translation>
+    <translation system="char">现在 我 有 三台 电脑 ， 还有 三台 中 的 一台 我 爸爸 在 使用 。</translation>
+  </seg>
+  <seg id="1431" doc-id="yaclc">
+    <source>因为 没想到 他 背下来 我 弱小 的 博客 。</source>
+    <translation system="bart">因为 没想到 他 把 我 弱小 的 博客 背下来 。</translation>
+    <translation system="t5">因为 没想到 他 背下来 我 弱小 的 博客 。 因为 没想到 他 背下来 我 弱小 的 博客 。</translation>
+    <translation system="s2e">因为 没想到 他 背下来 我 弱小 的 博客 。</translation>
+    <translation system="word">因为 没想到 他 背下来 了 我 弱小 的 博客 。</translation>
+    <translation system="char">因为 没想到 他 背下来 了 我 这样 弱小 的 博客 。</translation>
+    <translation system="spm">因为 没想到 他 背下来 我 的 弱小 的 博客 。</translation>
+  </seg>
+  <seg id="1270" doc-id="yaclc">
+    <source>表面 上 各自 创造 将来 的 工作 ， 梦 等等 ， 可是 这位 教授 以为 将来 是 我们 一人 做 的 东西 。</source>
+    <translation system="bart">表面 上 各自 创造 将来 的 工作 、 梦 等等 ， 可是 这位 教授 以为 将来 是 我们 一人 做 的 事情 。</translation>
+    <translation system="t5">表面 上 各自 创造 将来 的 工作 ， 梦 等等 ， 可是 这位 教授 以为 将来 是 我们 一人 做 的 。 表面 上 各自 创造 将来 的 工作 ， 梦 等等 ， 可是 这位 教授 以为 将来 是 我们 一人 做 的 。</translation>
+    <translation system="s2e">表面 上 各自 创造 将来 的 工作 ， 梦 等等 ， 可是 这位 教授 以为 将来 是 我们 一人 做 的 东西 。</translation>
+    <translation system="word+spm">表面 上 各自 创造 将来 的 工作 、 梦 等等 ， 可是 这位 教授 以为 将来 是 我们 一人 做 的 东西 。</translation>
+    <translation system="char">表面 上 各自 创造 将来 的 工作 、 梦 等等 ， 可是 这位 教授 认为 将来 是 我们 一人 做 的 东西 。</translation>
+  </seg>
+  <seg id="470" doc-id="yaclc">
+    <source>我用 扫帚 扫 道路 的话 ， 黄叶 满满 很大 的 塑料袋 里 。</source>
+    <translation system="bart">我用 扫帚 扫 道路 的话 ， 黄叶 会落 满 在 很大 的 塑料袋 里 。</translation>
+    <translation system="t5+spm">我用 扫帚 扫 道路 的话 ， 黄叶 满是 很大 的 塑料袋 里 。</translation>
+    <translation system="s2e">我用 扫帚 扫 道路 的话 ， 黄叶 满满 很大 的 塑料袋 里 。</translation>
+    <translation system="word">我用 扫帚 扫 道路 的话 ， 黄叶 里 满满 很大 的 塑料袋 里 。</translation>
+    <translation system="char">我用 扫帚 扫 道路 的话 ， 黄叶 满满 很大 的 塑料袋 。</translation>
+  </seg>
+  <seg id="1703" doc-id="yaclc">
+    <source>今天 很 便宜 ， 我 去 看 了 ＜ 2012 ＞ 。</source>
+    <translation system="bart">今天 很 便宜 ， 所以 我 去 看 了 ＜ 2012 ＞ 。</translation>
+    <translation system="t5">今天 很 便宜 ， 我 去 看 了 2012 。 今天 很 便宜 ， 我 去 看 了 2012 。</translation>
+    <translation system="s2e+spm">今天 很 便宜 ， 我 去 看 了 ＜ 2012 ＞ 。</translation>
+    <translation system="word">今天 很 便宜 ， 我 去 看 了 2012 [ UNK ] 。</translation>
+    <translation system="char">今天 很 便宜 ， 我 去 看 ＜ 2012 ＞ 。</translation>
+  </seg>
+  <seg id="1484" doc-id="yaclc">
+    <source>所以 我们 去 乐天 利 ( 这 是 卖 汉堡包 。 ）</source>
+    <translation system="bart">所以 我们 去 了 乐天 利 ( 这 是 卖 汉堡包 。 ）</translation>
+    <translation system="t5">所以 我们 去 了 乐天 利 。</translation>
+    <translation system="s2e">所以 我们 去 了 乐天 利 ( 这 是 卖 汉堡包 的 。 ）</translation>
+    <translation system="word">所以 我们 去 乐天 利 ( 这是 汉堡包 。</translation>
+    <translation system="char">所以 我们 去 乐天 利 ( 这 是 卖 汉堡包 。 ）</translation>
+    <translation system="spm">所以 我们 去 乐天 利 ( 这 是 卖 汉堡包 ） 。</translation>
+  </seg>
+  <seg id="1398" doc-id="yaclc">
+    <source>最近 我 脑海 里 有 一个 越来越 确定 的 想法 ， 就是 现在 的 我 是 一个 我 所有 过去 的 结果 了 。</source>
+    <translation system="bart">最近 我 脑海 里 有 一个 越来越 确定 的 想法 ， 就是 现在 的 我 是 一个 我 所有 过去 的 结果 。</translation>
+    <translation system="t5">最近 我 脑海 里 有 一个 越来越 确定 的 想法 ， 就是 现在 的 我 是 一个 我 所有 过去 的 结果 了 。 最近 我 脑海 里 有 一个 越来越 确定 的 想法 ， 就是 现在 的 我 是 一个 我 所有 过去 的 结果 。</translation>
+    <translation system="s2e">最近 我 脑海 里 有 一个 越来越 确定 的 想法 ， 就是 现在 的 我 是 我 过去 的 结果 。</translation>
+    <translation system="word">最近 我 脑海 里 有 一个 越来越 明确 的 想法 ， 就是 现在 的 我 是 一个 我 过去 的 结果 了 。</translation>
+    <translation system="char">最近 我 脑海 里 有 一个 越来越 明确 的 想法 ， 就是 现在 的 我 是 一个 我 所有 过去 的 结果 了 。</translation>
+    <translation system="spm">最近 我 脑海 里 有 一个 越来越 确定 的 想法 ， 就是 现在 的 我 是 一个 过去 所有 的 结果 了 。</translation>
+  </seg>
+  <seg id="1312" doc-id="yaclc">
+    <source>我要 尽可能 不是 因为 我 的 父母 告诉 我 “ 要是 你 现在 尽可能 ， 你 后来 有 容易 的 生活 。 ”</source>
+    <translation system="bart">我要 尽可能 不是 因为 我 的 父母 告诉 我 要是 你 现在 尽可能 ， 你 以后 有 容易 的 生活 。</translation>
+    <translation system="t5+char+spm">我要 尽可能 不是 因为 我 的 父母 告诉 我 “ 要是 你 现在 尽可能 ， 你 以后 有 容易 的 生活 ” 。</translation>
+    <translation system="s2e">我 尽可能 不是 因为 我 的 父母 告诉 我 “ 要是 你 现在 能 ， 你 以后 有 容易 的 生活 。</translation>
+    <translation system="word">我要 尽可能 不要 因为 我 的 父母 告诉 我 “ 要是 你 现在 尽可能 ， 你 以后 有 容易 的 生活 ” 。</translation>
+  </seg>
+  <seg id="85" doc-id="yaclc">
+    <source>我 希望 我 有 一天 听懂 我 听 的 中国 歌 。</source>
+    <translation system="bart">我 希望 有 一天 能 听懂 我 听 的 中国 歌 。</translation>
+    <translation system="t5">我 希望 我 有 一天 能 听懂 我 听 的 中国 歌 。</translation>
+    <translation system="s2e">我 希望 有 一天 我能 听懂 我 的 中文 歌 。</translation>
+    <translation system="word+spm">我 希望 有 一天 我能 听懂 我 听 的 中国 歌 。</translation>
+    <translation system="char">我 希望 有 一天 我能 听懂 我 听 的 中文 歌 。</translation>
+  </seg>
+  <seg id="26" doc-id="yaclc">
+    <source>明天 我要 具体 地 制定 这个 学期 的 学习 计划 ， 背 单字 ， 学习 生化学 ， 吃 跟 学姐 雪花 冰 ， 约定 跟 Ading ,</source>
+    <translation system="bart">明天 我要 具体 地 制定 这个 学期 的 学习 计划 ， 背单词 ， 学习 生化学 ， 吃 跟 学姐 雪花 冰 ， 约定 跟 ding "</translation>
+    <translation system="t5">明天 我要 具体 地 制定 这个 学期 的 学习 计划 ， 背 单字 ， 学习 生化学 ， 跟 学姐 一起 吃 雪花 冰 ， 约定 跟 ading ,</translation>
+    <translation system="s2e">明天 我要 具体 地 制定 这个 学期 的 学习 计划 ， 背单词 ， 学习 生化学 ， 跟 学姐 雪花 冰 ， 约定 跟 Ading ,</translation>
+    <translation system="word">明天 我要 具体 地 制定 这个 学期 的 学习 计划 ， 背单词 ， 学习 生化学 ， 吃 跟 学姐 雪花 冰 ， 约 好 跟 [ UNK ] [ UNK ] 。</translation>
+    <translation system="char">明天 我要 具体 地 制定 这个 学期 的 学习 计划 ， 背单词 ， 学习 生化学 ， 吃 跟 学姐 雪花 冰 ， 约定 跟踪 ding ,</translation>
+    <translation system="spm">明天 我要 具体 地 制定 这个 学期 的 学习 计划 ， 背单词 ， 学习 生化学 ， 吃 跟 学姐 雪花 冰 ， 约 好 跟 妈妈 一起 吃 。</translation>
+  </seg>
+  <seg id="1725" doc-id="yaclc">
+    <source>第 7 天 的 早上 ， 就是 要 下葬 的 前一天 ， 他 依旧 去 放在 棺材 的 房间 ， 居然 发现 棺材 里 的 ‘ 遗体 ’ 没有 了 。</source>
+    <translation system="bart">第 7 天 的 早上 ， 就是 要 下葬 的 前一天 ， 他 依旧 去 放 棺材 的 房间 ， 居然 发现 棺材 里 的 遗体 没有 了 。</translation>
+    <translation system="t5">第 7 天 的 早上 ， 就是 要 下葬 的 前一天 ， 他 依旧 去 放在 棺材 的 房间 ， 居然 发现 棺材 里 的 ‘ 遗体 ’ 不见 了 。</translation>
+    <translation system="s2e">第 7 天 的 早上 ， 就是 要 下葬 的 前一天 ， 他 依旧 去 放在 棺材 的 房间 ， 居然 发现 棺材 里 的 ‘ 遗体 ’ 没有 了 。</translation>
+    <translation system="word">第二天 早上 ， 就是 要 下葬 的 前一天 ， 他 依旧 去 放在 棺材 的 房间 ， 居然 发现 棺材 里 的 ‘ 遗体 ’ 没有 了 。</translation>
+    <translation system="char">第 7 天 的 早上 ， 就是 要 下葬 的 前一天 ， 他 依旧 去 放 棺材 的 房间 ， 居然 发现 棺材 里 的 ‘ 遗体 ’ 没有 了 。</translation>
+    <translation system="spm">第 7 天 的 早上 ， 就是 要 在 下葬 的 前一天 ， 他 依旧 去 放在 棺材 的 房间 ， 居然 发现 棺材 里 的 ‘ 遗体 ’ 没有 了 。</translation>
+  </seg>
+  <seg id="1405" doc-id="yaclc">
+    <source>因为 我加 两个 新 的 电脑 , 共计 五个 电脑 , 如果 一个 电脑 失灵 了 的话 , 我 不要 在意 。</source>
+    <translation system="bart+s2e">因为 我加 了 两个 新 的 电脑 , 共计 五个 电脑 , 如果 一个 电脑 失灵 了 的话 , 我 不会 在意 。</translation>
+    <translation system="t5+word">因为 我加 了 两个 新 的 电脑 , 共计 五个 电脑 , 如果 一个 电脑 失灵 了 的话 , 我 不要 在意 。</translation>
+    <translation system="char">因为 我加 两台 新 的 电脑 , 共计 五台 电脑 , 如果 一台 电脑 失灵 了 的话 , 我 不用 在意 。</translation>
+    <translation system="spm">因为 我加 两个 新 的 电脑 , 共计 五个 电脑 , 如果 一个 电脑 失灵 了 的话 , 我 不 需要 在意 。</translation>
+  </seg>
+  <seg id="871" doc-id="yaclc">
+    <source>那 是从 我 住 的 东京 ３ ５ ０ 公里 的 大城市 。</source>
+    <translation system="bart+s2e">那 是 离 我 住 的 东京 ３ ５ ０ 公里 的 大城市 。</translation>
+    <translation system="t5">那 是从 我 住 的 东京 公里 的 大城市 。 那 是 我 住 的 东京 公里 的 大城市 。</translation>
+    <translation system="word">那 是 我 住 的 东京 [ UNK ] [ UNK ] [ UNK ] 公里 的 大城市 。</translation>
+    <translation system="char">那 是 我 住 的 东京 ３ ５ ０ 公里 的 大城市 。</translation>
+    <translation system="spm">那 是 我 住 的 东京 的 东京 大 公里 大城市 。</translation>
+  </seg>
+  <seg id="135" doc-id="yaclc">
+    <source>我 做事 比较 用功 嘛 ， 不 愿意 做出 平庸 的 效果 ， 总怕 给 朋友 和 父母 玩时 他们 会 笑 我 呀 ， 所以 要 加大 努力 。</source>
+    <translation system="bart+char">我 做事 比较 用功 嘛 ， 不 愿意 做出 平庸 的 效果 ， 总怕 跟 朋友 和 父母 玩时 他们 会 笑 我 呀 ， 所以 要 加大 努力 。</translation>
+    <translation system="t5">我 做事 比较 用功 嘛 ， 不 愿意 做出 平庸 的 效果 ， 总怕 给 朋友 和 父母 玩时 他们 会 笑 我 呀 ， 所以 要 加大 努力 。 我 做事 比较 用功 嘛 ， 不 愿意 做出 平庸 的 效果 ， 总怕 给 朋友 和 父母 玩时 他们 会 笑 我 呀 ， 所以 要 加大 努力 。</translation>
+    <translation system="s2e">我 做事 比较 用功 嘛 ， 不 愿意 做出 平庸 的 效果 ， 总怕 和 朋友 和 父母 玩时 他们 会 笑 我 呀 ， 所以 要 加大 努力 。</translation>
+    <translation system="word">我 做事 比较 用功 嘛 ， 不 愿意 做出 平常 的 效果 ， 总怕 跟 朋友 和 父母 玩时 他们 会 笑 我 呀 ， 所以 要 加大 努力 。</translation>
+    <translation system="spm">我 做事 比较 用功 嘛 ， 不 愿意 做出 平庸 的 效果 ， 总怕 给 朋友 和 父母 玩时 他们 会 笑 我 呀 ， 所以 要 加大 努力 。</translation>
+  </seg>
+  <seg id="1628" doc-id="yaclc">
+    <source>去年 10 月 上旬 ， 我 去 了 这家 医院 在 外科 请 医生 看看 病 我 的 症状 。</source>
+    <translation system="bart">去年 10 月 上旬 ， 我 去 了 这家 医院 ， 在 外科 请 医生 看 我 的 症状 。</translation>
+    <translation system="t5+spm">去年 10 月 上旬 ， 我 去 了 这家 医院 ， 在 外科 请 医生 看看 我 的 症状 。</translation>
+    <translation system="s2e+char">去年 10 月 上旬 ， 我 去 了 这家 医院 在 外科 请 医生 看看 我 的 症状 。</translation>
+    <translation system="word">去年 10 月 上旬 ， 我 去 了 这家 医院 ， 在 外科 请 医生 看看 我 的 病 。</translation>
+  </seg>
+  <seg id="1608" doc-id="yaclc">
+    <source>头发 有点儿 少 ， 所以 他 好像 寒酸 的 家伙 的 。</source>
+    <translation system="bart">头发 有点儿 少 ， 所以 他 好像 个 寒酸 的 家伙 。</translation>
+    <translation system="t5+word+char">头发 有点儿 少 ， 所以 他 好像 是 个 寒酸 的 家伙 。</translation>
+    <translation system="s2e+spm">头发 有点儿 少 ， 所以 他 好像 寒酸 的 家伙 。</translation>
+  </seg>
+  <seg id="564" doc-id="yaclc">
+    <source>把 脸 向下 的话 ， 脸 的 肌肉 也 往 下去 ， 往前 看笑 着 等 脸 运动 使用 肌肉 的话 ， 就 老不起 。</source>
+    <translation system="bart+word">把 脸 向下 的话 ， 脸 的 肌肉 也 会 往 下去 ， 往前 看笑 着 等 脸 运动 使用 肌肉 的话 ， 就 老不起 。</translation>
+    <translation system="t5">把 脸 向下 的话 ， 脸 的 肌肉 也 往 下去 ， 往前 看笑 着 等 脸 运动 使用 肌肉 的话 ， 就 老不起 。 把 脸 向下 的话 ， 脸 的 肌肉 也 往 下去 ， 往前 看笑 着 等 脸 运动 使用 肌肉 的话 ， 就 老不起 。</translation>
+    <translation system="s2e">把 脸 向下 的话 ， 脸 的 肌肉 也 往 下去 ， 往前 看笑 着 等 脸 运动 使用 肌肉 的话 ， 就 老不起 。</translation>
+    <translation system="char">把 脸 向下 的话 ， 脸 的 肌肉 也 往 下去 ， 往前 看笑 着 等 脸 运动 使用 肌肉 的话 ， 就会 老不起 。</translation>
+    <translation system="spm">把 脸 向下 的话 ， 脸部 的 肌肉 也 往 下去 ， 往前 看笑 着 等 脸 运动 使用 肌肉 的话 ， 就 老不起 。</translation>
+  </seg>
+  <seg id="856" doc-id="yaclc">
+    <source>到底 我 去年 去 玉渊潭公园 看 樱花 了 。</source>
+    <translation system="bart+word+char+spm">最后 我 去年 去 玉渊潭公园 看 樱花 了 。</translation>
+    <translation system="t5">我 去年 去 玉渊潭公园 看 樱花 了 。</translation>
+    <translation system="s2e">我 去年 去 玉渊潭公园 看 樱花 。</translation>
+  </seg>
+  <seg id="1609" doc-id="yaclc">
+    <source>2007 年 我 在 学习 汉语 的 时候 ， 老师 对 我们 常常 说 过 ， “ 你们 现在 想不到 ， 可是 你们 在 中国 生活 的 时间 很 短 很 短 ， 比如 你们 能 活着 70 岁 你们 呆 在 中国 的 时间 最长 3 ， 4 年 。</source>
+    <translation system="bart">2007 年 我 在 学习 汉语 的 时候 ， 老师 对 我们 常常 说 ： 你们 现在 想不到 ， 可是 你们 在 中国 生活 的 时间 很 短 很 短 ， 比如 你们 能活 到 70 岁 ， 你们 呆 在 中国 的 时间 最长 3 ， 4 年 。</translation>
+    <translation system="t5">2007 年 我 在 学习 汉语 的 时候 ， 老师 常常 对 我们 说 ， “ 你们 现在 想不到 ， 可是 你们 在 中国 生活 的 时间 很 短 很 短 ， 比如 你们 能活 70 岁 ， 你们 呆 在 中国 的 时间 最长 3 ， 4 年 。</translation>
+    <translation system="s2e">2007 年 我 在 学习 汉语 的 时候 ， 老师 对 我们 常常 说 ： “ 你们 现在 想不到 ， 可是 你们 在 中国 生活 的 时间 很 短 很 短 ， 比如 你们 能活 到 70 岁 ， 你们 呆 在 中国 的 时间 最长 3 、 4 年 。</translation>
+    <translation system="word">2007 年 我 在 学习 汉语 的 时候 ， 老师 对 我们 常常 说 ： “ 你们 现在 想不到 ， 可是 你们 在 中国 生活 的 时间 很 短 很 短 ， 比如 你们 能 活着 70 岁 ， 你们 呆 在 中国 的 时间 最长 3 ， 4 年 。</translation>
+    <translation system="char">2007 年 我 在 学习 汉语 的 时候 ， 老师 对 我们 常常 说 ， “ 你们 现在 想不到 ， 可是 你们 在 中国 生活 的 时间 很 短 很 短 ， 比如 你们 能 活着 70 岁 ， 你们 呆 在 中国 的 时间 最长 3 ， 4 年 。</translation>
+    <translation system="spm">1940 年 我 在 学习 汉语 的 时候 ， 老师 对 我们 常常 说 ， “ 你们 现在 想不到 ， 可是 你们 在 中国 生活 的 时间 很 短 很 短 ， 比如 你们 能 活着 70 岁 ， 你们 呆 在 中国 的 时间 最长 3 、 4 年 。</translation>
+  </seg>
+  <seg id="1463" doc-id="yaclc">
+    <source>对不起 , 我 写 开始 的 时候 我 打算 告诉 我 自己 的 近况 , 可是 现在 这是 归总 自己 的 看法 的 entry !</source>
+    <translation system="bart">对不起 , 开始 写 的 时候 我 打算 告诉 我 自己 的 近况 , 可是 现在 这是 归总 自己 的 看法 的 entry !</translation>
+    <translation system="t5">对不起 , 我 写 开始 的 时候 我 打算 告诉 我 自己 的 近况 , 可是 现在 这是 归总 自己 的 看法 的 entry ! 对不起 , 我 写 开始 的 时候 我 打算 告诉 我 自己 的 近况 , 可是 现在 这是 归总 自己 的 看法 的 entry !</translation>
+    <translation system="s2e">对不起 , 我 开始 的 时候 我 打算 告诉 我 自己 的 近况 , 可是 现在 这是 归总 自己 的 看法 的 entry !</translation>
+    <translation system="word">对不起 , 我 写 开始 的 时候 我 打算 告诉 我 自己 的 近况 , 可是 现在 这是 归总 自己 的 看法 !</translation>
+    <translation system="char">对不起 , 我 写 开始 的 时候 我 打算 告诉 自己 的 近况 , 可是 现在 这是 归总 自己 的 看法 的 entry !</translation>
+    <translation system="spm">对不起 , 我 写 开始 的 时候 我 打算 告诉 大家 我 自己 的 近况 , 可是 现在 这是 归总 自己 的 看法 的 en - 80 !</translation>
+  </seg>
+  <seg id="1795" doc-id="yaclc">
+    <source>但是 那 件 衣服 很多 ， 不能 放入 衣柜 里 ， 所以 我 需要 决定 今年夏天 穿 的 衣服 。</source>
+    <translation system="bart">但是 那 件 衣服 很多 ， 不能 放入 衣柜 里 ， 所以 我 需要 决定 今年夏天 要 穿 的 衣服 。</translation>
+    <translation system="t5">但是 那 件 衣服 很多 ， 不能 放入 衣柜 里 ， 所以 我 需要 决定 今年夏天 穿 的 衣服 。 但是 那 件 衣服 很多 ， 不能 放入 衣柜 里 ， 所以 我 需要 决定 今年夏天 穿 的 衣服 。</translation>
+    <translation system="s2e+spm">但是 那 件 衣服 很多 ， 不能 放入 衣柜 里 ， 所以 我 需要 决定 今年夏天 穿 的 衣服 。</translation>
+    <translation system="word">但是 那 件 衣服 很多 ， 不能 放进 衣柜 里 ， 所以 我 需要 决定 今年夏天 穿 的 衣服 。</translation>
+    <translation system="char">但是 那 件 衣服 很多 ， 不能 放入 衣柜 里 ， 所以 我 决定 今年夏天 穿 的 衣服 。</translation>
+  </seg>
+  <seg id="664" doc-id="yaclc">
+    <source>我 深刻 的 思考 中 , 我 不 知道 继续 工作 。</source>
+    <translation system="bart+spm">在 我 深刻 的 思考 中 , 我 不 知道 继续 工作 。</translation>
+    <translation system="t5">我 深刻 的 思考 中 , 我 不 知道 该 继续 工作 。</translation>
+    <translation system="s2e">我 深刻 的 思考 中 , 我 不 知道 继续 工作 。</translation>
+    <translation system="word">在 我 深刻 的 思考 中 , 我 不 知道 能 不能 继续 工作 。</translation>
+    <translation system="char">我 在 深刻 的 思考 中 , 我 不 知道 继续 工作 。</translation>
+  </seg>
+  <seg id="1726" doc-id="yaclc">
+    <source>以后 ， 想 和 我 的 朋友 聚晤 。</source>
+    <translation system="bart+char">以后 ， 想 和 我 的 朋友 聚会 。</translation>
+    <translation system="t5">以后 ， 想 和 我 的 朋友 聚聚 。</translation>
+    <translation system="s2e">以后 ， 我 想 和 我 的 朋友 聚晤 。</translation>
+    <translation system="word">以后 ， 想 和 我 的 朋友 聚晤 。</translation>
+    <translation system="spm">之后 ， 想 和 我 的 朋友 聚晤 。</translation>
+  </seg>
+  <seg id="410" doc-id="yaclc">
+    <source>因为 我 只能 吃 生鱼片 吃 得 很少 。</source>
+    <translation system="bart">因为 我 只能 吃 很少 的 生鱼片 。</translation>
+    <translation system="t5+char">因为 我 只能 吃 生鱼片 ， 所以 吃 得 很少 。</translation>
+    <translation system="s2e">因为 我 只能 吃 生鱼片 。</translation>
+    <translation system="word+spm">因为 我 只 吃 生鱼片 吃 得 很少 。</translation>
+  </seg>
+  <seg id="854" doc-id="yaclc">
+    <source>他 对 我 累 地 说 ” 在 公司 时候 很 无聊 ， 认真 地 想要 下班 ”</source>
+    <translation system="bart">他 对 我 说 在 公司 的 时候 很 无聊 ， 认真 地 想要 下班</translation>
+    <translation system="t5">他 对 我 说 ” 在 公司 时候 很 无聊 ， 认真 地 想要 下班 ”</translation>
+    <translation system="s2e+word+spm">他 对 我 累 地 说 ” 在 公司 的 时候 很 无聊 ， 认真 地 想要 下班 ”</translation>
+    <translation system="char">他 对 我 累 得 说 ” 在 公司 时候 很 无聊 ， 认真 地 想要 下班 。</translation>
+  </seg>
+  <seg id="1604" doc-id="yaclc">
+    <source>这个 软件 使用 Windows7 / Vista / XP （ 32bit 位版 ） 或者 MacOSX10.5 以上 。</source>
+    <translation system="bart">这个 软件 使用 indows7 / ista / （ 32bit 位版 ） 或者 ac10.5 以上 。</translation>
+    <translation system="t5">这个 软件 使用 windows7 、 vista 、 xp 或者 macosx10.5 以上 。</translation>
+    <translation system="s2e">这个 软件 使用 Windows7 / Vista / XP （ 32bit 位版 ） 或者 MacOSX10.5 以上 。</translation>
+    <translation system="word">这个 软件 的 使用 用品 [ UNK ] 使用 [ UNK ] [ UNK ] / [ UNK ] [ UNK ] （ 32 [ UNK ] 位版 ） 或者 ma c# # os ## x [ UNK ] [ UNK ] 5 以上 。</translation>
+    <translation system="char">这个 软件 的 使用率 是 indows7 / 瑙 ista / 瑙 （ 32bit 位版 ） 或者 瑙 aczz10.5 以上 。</translation>
+    <translation system="spm">这个 软件 使用 了 （ 32 ） 第 10.5 个 软件 。</translation>
+  </seg>
+  <seg id="164" doc-id="yaclc">
+    <source>他 推荐 了 一家 台湾 菜 餐厅 说龙 都 酒楼 、 在 我 的 宾馆 附近 。</source>
+    <translation system="bart">他 推荐 了 一家 台湾 菜 餐厅 ， 说龙 都 酒楼 在 我 的 宾馆 附近 。</translation>
+    <translation system="t5">他 推荐 了 一家 台湾 菜 餐厅 ， 叫龙 都 酒楼 、 在 我 的 宾馆 附近 。</translation>
+    <translation system="s2e">他 推荐 了 一家 台湾 菜 餐厅 龙 都 酒楼 ， 在 我 的 宾馆 附近 。</translation>
+    <translation system="word+spm">他 推荐 了 一家 台湾 菜 餐厅 ， 说龙 都 酒楼 ， 在 我 的 宾馆 附近 。</translation>
+    <translation system="char">他 推荐 了 一家 台湾 菜 餐厅 说龙 都 酒楼 在 我 的 宾馆 附近 。</translation>
+  </seg>
+  <seg id="271" doc-id="yaclc">
+    <source>别的 角色 都 看起来 又 大 又 强 ， 他 却 有 最 严重 的 责任 ， 他 心里 看不见 的 强 总是 让 他 做 得到 。</source>
+    <translation system="bart+word">别的 角色 看起来 又 大 又 强 ， 他 却 有 最 严重 的 责任 ， 他 心里 看不见 的 强 总是 让 他 做 得到 。</translation>
+    <translation system="t5">别的 角色 看起来 又 大 又 强 ， 他 却 有 最 严重 的 责任 ， 他 心里 看不见 的 强 总是 让 他 做 得到 。 别的 角色 看起来 又 大 又 强 ， 他 却 有 最 严重 的 责任 ， 他 心里 看不见 的 强 总是 让 他 做 得到 。</translation>
+    <translation system="s2e">别的 角色 都 看起来 又 大 又 强 ， 他 却 有 最 严重 的 责任 ， 他 心里 看不见 的 强 总是 让 他 做 得到 。</translation>
+    <translation system="char">别的 角色 都 看起来 又 大 又 强 ， 他 却 有 最 严重 的 责任 ， 他 心里 看不见 的 强壮 总是 让 他 做 得到 。</translation>
+    <translation system="spm">别的 角色 看起来 都 又 大 又 强 ， 他 却 有 最 严重 的 责任 ， 他 心里 看不见 的 强 总是 让 他 做 得到 。</translation>
+  </seg>
+  <seg id="1224" doc-id="yaclc">
+    <source>我 在 日本 的 日本 人 没 影响 过 可是 ， 今年 除夕 我 去 年终 联欢会 我 的 汉语 学校 。</source>
+    <translation system="bart+spm">我 在 日本 的 日本 人 没 影响 过 ， 可是 ， 今年 除夕 我 去 年终 联欢会 我 的 汉语 学校 。</translation>
+    <translation system="t5">我 在 日本 的 日本 人 没 受到 影响 过 ， 可是 ， 今年 除夕 我 去 我 的 汉语 学校 参加 年终 联欢会 。</translation>
+    <translation system="s2e">我 在 日本 的 日本 人 没 影响 过 可是 ， 今年 除夕 我 去 年终 联欢会 我 的 汉语 学校 。</translation>
+    <translation system="word">我 在 日本 的 日本 人 没 影响 过 我 ， 可是 ， 今年 除夕 我要 去 年终 联欢会 我 的 汉语 学校 。</translation>
+    <translation system="char">我 在 日本 的 日本 人 没 影响 过 。 可是 ， 今年 除夕 我 去年 年终 联欢会 我 的 汉语 学校 。</translation>
+  </seg>
+  <seg id="762" doc-id="yaclc">
+    <source>从 我 小时候 我 父母 都 工作 ， 所以 我 就 天天 帮忙 做 家务 ， 照顾 小妹妹 和 弟弟 。</source>
+    <translation system="bart+word">从 我 小时候 起 我 父母 都 工作 ， 所以 我 就 天天 帮忙 做 家务 ， 照顾 小妹妹 和 弟弟 。</translation>
+    <translation system="t5">从 我 小时候 起 我 父母 就 都 工作 ， 所以 我 就 天天 帮忙 做 家务 ， 照顾 小妹妹 和 弟弟 。</translation>
+    <translation system="s2e">从 我 小时候 起 我 父母 都 工作 了 ， 所以 我 就 天天 帮忙 做 家务 ， 照顾 小妹妹 和 弟弟 。</translation>
+    <translation system="char">从 我 小时候 开始 我 父母 都 工作 ， 所以 我 就 天天 帮忙 做 家务 ， 照顾 小妹妹 和 弟弟 。</translation>
+    <translation system="spm">从 我 小时候 我 父母 都 工作 ， 所以 我 就 天天 帮忙 做 家务 ， 照顾 小妹妹 和 弟弟 。</translation>
+  </seg>
+  <seg id="1055" doc-id="yaclc">
+    <source>在 世界各地 各种 的 灾害 很多 ， 但是 这 不过 才 刚刚开始 ， 但愿 地球 不要 坏 了 ， 我 到 死 以前 。</source>
+    <translation system="bart">在 世界各地 各种 的 灾害 很多 ， 但是 这 不过 才 刚刚开始 ， 但愿 地球 不要 坏 了 ， 我 到 死 之前 。</translation>
+    <translation system="t5">在 世界各地 各种 的 灾害 很多 ， 但是 这 不过 才 刚刚开始 ， 但愿 地球 不要 坏 了 ， 我 到 死 以前 。 在 世界各地 ， 各种 灾害 很多 ， 但是 这 不过 才 刚刚开始 ， 但愿 地球 不要 坏 了 ， 我 到 死 以前 。</translation>
+    <translation system="s2e+char">在 世界各地 各种 的 灾害 很多 ， 但是 这 不过 才 刚刚开始 ， 但愿 地球 不要 坏 了 ， 我 到 死 以前 。</translation>
+    <translation system="word">在 世界各地 各种 灾害 很多 ， 但是 这 不过 才 刚刚开始 ， 但愿 地球 不要 坏 了 ， 我会 死 以前 。</translation>
+    <translation system="spm">在 世界各地 各种 灾害 很多 ， 但是 这 不过 才 刚刚开始 ， 但愿 地球 不要 坏 ， 我 到 死 以前 。</translation>
+  </seg>
+  <seg id="1429" doc-id="yaclc">
+    <source>今年 的 寒假 和 暑假 都 我 在 学校 读书 了 。</source>
+    <translation system="bart+t5+s2e+char">今年 的 寒假 和 暑假 我 都 在 学校 读书 。</translation>
+    <translation system="word+spm">今年 的 寒假 和 暑假 我 都 在 学校 读书 了 。</translation>
+  </seg>
+  <seg id="1257" doc-id="yaclc">
+    <source>其实 ， 如果 我能 说 “ 由于 我 的 中文 水平 有点 低 ， 我 难以 想 起来 文章 话题 ” ， 那会 更 方便 的 。</source>
+    <translation system="bart">其实 ， 如果 我能 说 由于 我 的 中文 水平 有点 低 ， 我 难以 想 起来 文章 话题 ， 那会 更 方便 的 。</translation>
+    <translation system="t5+s2e+spm">其实 ， 如果 我能 说 “ 由于 我 的 中文 水平 有点 低 ， 我 难以 想 起来 文章 话题 ” ， 那会 更 方便 的 。</translation>
+    <translation system="word">其实 ， 如果 我能 说 “ 由于 我 的 中文 水平 有点 低 ， 我 就 难以 想 起来 文章 话题 ” ， 那会 更 方便 的 。</translation>
+    <translation system="char">其实 ， 如果 我能 说 “ 由于 我 的 中文 水平 有点 低 ， 我 难以 想起 文章 话题 ” ， 那会 更 方便 的 。</translation>
+  </seg>
+  <seg id="353" doc-id="yaclc">
+    <source>一个 人住 的 人 百分之 多少 买 电视机 呢 ？</source>
+    <translation system="bart">一个 人住 的 人 百分之 多少 会 买 电视机 呢 ？</translation>
+    <translation system="t5">一个 人住 的 人 买 电视机 的 百分之 多少 呢 ？</translation>
+    <translation system="s2e">一个 人住 的 人 百分之 多少 买 电视机 呢 ？</translation>
+    <translation system="word">一个 人住 的 人 百分之 多少 就 买 电视机 呢 ？</translation>
+    <translation system="char">一个 人住 的 百分之 多少 买 电视机 呢 ？</translation>
+    <translation system="spm">一个 人住 的 人 有 百分之 多少 买 电视机 呢 ？</translation>
+  </seg>
+  <seg id="1567" doc-id="yaclc">
+    <source>我 试试 用 汉语 说明 电影 的 对话 /</source>
+    <translation system="bart+t5+word+char+spm">我试 着 用 汉语 说明 电影 的 对话 /</translation>
+    <translation system="s2e">我试 着 用 汉语 描绍 电影 的 对话 /</translation>
+  </seg>
+  <seg id="1273" doc-id="yaclc">
+    <source>在 山顶 我们 沉醉 了 一阵 与 满意 ， 过 了 一会儿 开始 下山 。</source>
+    <translation system="bart+word+spm">在 山顶 我们 沉醉 了 一阵 ， 很 满意 ， 过 了 一会儿 开始 下山 。</translation>
+    <translation system="t5">在 山顶 我们 沉醉在 其中 ， 过 了 一会儿 开始 下山 。</translation>
+    <translation system="s2e">在 山顶 我们 沉醉 了 一阵 满意 ， 过 了 一会儿 开始 下山 。</translation>
+    <translation system="char">在 山顶 我们 沉醉 了 一阵子 ， 过 了 一会儿 才 开始 下山 。</translation>
+  </seg>
+  <seg id="645" doc-id="yaclc">
+    <source>然后 我 出去 了 饭店 ， 先去 市 观光 询问处 ， 问 怎么 去 明天 我 打算 参加 的 演唱会 的 会场 ， 但是 我 连 那个 市 观光 询问处 也 找 不到 。</source>
+    <translation system="bart">然后 我出 了 饭店 ， 先去 市 观光 询问处 ， 问 怎么 去 明天 我 打算 参加 的 演唱会 的 会场 ， 但是 我 连 那个 市 观光 询问处 也 找 不到 。</translation>
+    <translation system="t5">然后 我 出去 了 饭店 ， 先去 市 观光 询问处 ， 问 怎么 去 明天 我 打算 参加 的 演唱会 的 会场 ， 但是 我 连 那个 市 观光 询问处 也 找 不到 。</translation>
+    <translation system="s2e+word+char+spm">然后 我 去 了 饭店 ， 先去 市 观光 询问处 ， 问 怎么 去 明天 我 打算 参加 的 演唱会 的 会场 ， 但是 我 连 那个 市 观光 询问处 也 找 不到 。</translation>
+  </seg>
+  <seg id="745" doc-id="yaclc">
+    <source>所以 用 随便 选择 的 工作 时间 的 制度 ， 工作 开始 1 点 ， 结束 7 点 的话 ， 差 两个 小时 。</source>
+    <translation system="bart">所以 用 随便 选择 工作 时间 的 制度 ， 工作 开始 1 点 ， 结束 7 点 的话 ， 差 两个 小时 。</translation>
+    <translation system="t5">所以 用 随便 选择 的 工作 时间 的 制度 ， 工作 开始 1 点 ， 结束 7 点 的话 ， 差 两个 小时 。 所以 用 随便 选择 的 工作 时间 的 制度 ， 工作 开始 1 点 ， 结束 7 点 的话 ， 差 两个 小时 。</translation>
+    <translation system="s2e+word+char+spm">所以 用 随便 选择 的 工作 时间 的 制度 ， 工作 开始 1 点 ， 结束 7 点 的话 ， 差 两个 小时 。</translation>
+  </seg>
+  <seg id="1655" doc-id="yaclc">
+    <source>去 出入境 时候 ， 有 一个 管理 不 允许 让 我 在 北京 留 点儿 。</source>
+    <translation system="bart">去 出入境 时候 ， 有 一个 管理 部门 不 允许 让 我 在 北京 留 点儿 。</translation>
+    <translation system="t5">去 出入境 的 时候 ， 有 一个 管理 不 允许 让 我 在 北京 留 点儿 。</translation>
+    <translation system="s2e">去 出入境 时候 ， 有 一个 管理 不 允许 让 我 在 北京 留 点儿 。</translation>
+    <translation system="word">去 出入境 的 时候 ， 有 一个 管理 不 允许 我 在 北京 留 点儿 。</translation>
+    <translation system="char">出入境 时候 ， 有 一个 管理者 不 允许 让 我 在 北京 留 点儿 。</translation>
+    <translation system="spm">出入境 时候 ， 有 一个 管理 不 允许 我 在 北京 留 点儿 。</translation>
+  </seg>
+  <seg id="372" doc-id="yaclc">
+    <source>我 第一次 看 她 的 是 在 《 非诚 无扰 2 》 里 。</source>
+    <translation system="bart+s2e+char+spm">我 第一次 看 她 是 在 《 非诚 无扰 2 》 里 。</translation>
+    <translation system="t5">我 第一次 看 她 的 是 在 《 非诚 无扰 2 》 里 。 我 第一次 看 她 的 是 在 《 非诚 无扰 2 》 里 。</translation>
+    <translation system="word">我 第一次 看到 她 是 在 《 非诚 无扰 2 》 里 。</translation>
+  </seg>
+  <seg id="1520" doc-id="yaclc">
+    <source>那个 叔叔 要 让 卖书 的 赔偿 他 的 电脑 ， 不过 他 说 什么 也 卖书 的 不要 认真 得 理睬 他 。</source>
+    <translation system="bart">那个 叔叔 要 让 卖书 的 赔偿 他 的 电脑 ， 不过 他 说 什么 也 卖书 的 不要 认真 地 理睬 他 。</translation>
+    <translation system="t5">那个 叔叔 要 让 卖书 的 赔偿 他 的 电脑 ， 不过 他 说 什么 卖书 的 也 不要 认真 地 理睬 他 。</translation>
+    <translation system="s2e">那个 叔叔 要 让 卖书 的 赔偿 他 的 电脑 ， 不过 他 说 什么 卖书 的 不要 认真 地 理睬 他 。</translation>
+    <translation system="word">那个 叔叔 要 让 卖书 的 人 赔偿 他 的 电脑 ， 不过 他 说 什么 也 卖书 的 不要 认真 得 理睬 他 。</translation>
+    <translation system="char">那个 叔叔 要求 卖书 的 赔偿 他 的 电脑 ， 不过 他 说 什么 也 卖书 的 不要 认真 地 理睬 他 。</translation>
+    <translation system="spm">那个 叔叔 要 让 卖书 的 赔偿 他 的 电脑 ， 不过 他 说 什么 也 卖书 的 ， 不要 认真 地 理睬 他 。</translation>
+  </seg>
+  <seg id="1174" doc-id="yaclc">
+    <source>这部 电视节目 描述 怎幺 我 的 大脑 从 出生 发育 。</source>
+    <translation system="bart">这部 电视节目 描述 怎幺 我 的 大脑 从 出生 开始 发育 。</translation>
+    <translation system="t5+s2e">这部 电视节目 描述 我 的 大脑 从 出生 发育 。</translation>
+    <translation system="word">这部 电视节目 描述 了 怎 幺 我 的 大脑 从 出生 发育 。</translation>
+    <translation system="char">这部 电视节目 描述 了 怎么 我 的 大脑 从 出生 发育 。</translation>
+    <translation system="spm">这部 电视节目 描述 了 怎么 从 出生 发育 开始 我 的 大脑 。</translation>
+  </seg>
+  <seg id="725" doc-id="yaclc">
+    <source>我 觉得 那个 理由 是 在 那儿 有 急剧 的 经济 变化 ， 所以 很多 建筑 表现 着 那样 的 差距 。</source>
+    <translation system="bart">我 觉得 那 是因为 在 那儿 有 急剧 的 经济 变化 ， 所以 很多 建筑 表现 着 那样 的 差距 。</translation>
+    <translation system="t5">我 觉得 那个 理由 是 在 那儿 有 急剧 的 经济 变化 ， 所以 很多 建筑 表现 着 那样 的 差距 。 我 觉得 那个 理由 是 在 那儿 有 急剧 的 经济 变化 ， 所以 很多 建筑 表现 着 那样 的 差距 。</translation>
+    <translation system="s2e">我 觉得 原因 是 在 那儿 有 急剧 的 经济 变化 ， 所以 很多 建筑 表现 着 那样 的 差距 。</translation>
+    <translation system="word">我 觉得 那个 理由 是因为 在 那儿 有 急剧 的 经济 变化 ， 所以 很多 建筑 表现 着 那样 的 差距 。</translation>
+    <translation system="char">我 觉得 理由 是 在 那儿 有 急剧 的 经济 变化 ， 所以 很多 建筑 表现 着 那样 的 差距 。</translation>
+    <translation system="spm">我 觉得 理由 是 在 那儿 有 急剧 的 经济 变化 ， 所以 很多 建筑 都 表现 着 那样 的 差距 。</translation>
+  </seg>
+  <seg id="407" doc-id="yaclc">
+    <source>那个 地方 既 好 修饰 又 毛巾 , 又 化妆水 等 的 必需品 都 有 , 会 尽情 使用 它 .</source>
+    <translation system="bart">那个 地方 既 好 修饰 又 有 毛巾 , 还有 化妆水 等 必需品 , 我会 尽情 使用 它 .</translation>
+    <translation system="t5">那个 地方 既有 好 修饰 毛巾 , 又 有 化妆水 等 的 必需品 , 会 尽情 使用 它 .</translation>
+    <translation system="s2e">那个 地方 既 好 修饰 毛巾 , 和 化妆水 等 必需品 都 有 , 会 尽情 使用 它 .</translation>
+    <translation system="word">那个 地方 既 好 修饰 毛巾 , 又 化妆水 等 必需品 , 会 尽情 使用 它 .</translation>
+    <translation system="char">那个 地方 既 好 修饰 又 有 毛巾 , 又 有 化妆水 等 必需品 , 会 尽情 使用 它 .</translation>
+    <translation system="spm">那个 地方 既 好 修饰 又 毛巾 , 又 化妆水 等 的 必需品 都 有 , 会 尽量 使用 它 .</translation>
+  </seg>
+  <seg id="112" doc-id="yaclc">
+    <source>我 正在 工作 也 满身 大汗 .</source>
+    <translation system="bart+word">我 正在 工作 ， 满身 大汗 .</translation>
+    <translation system="t5">我 正在 工作 也 满身 大汗 . 我 正在 工作 ， 也 满身 大 汗 。</translation>
+    <translation system="s2e">我 正在 工作 ， 满身 大 汗 。</translation>
+    <translation system="char+spm">我 正在 工作 ， 也 满身 大汗 .</translation>
+  </seg>
+  <seg id="1793" doc-id="yaclc">
+    <source>第一个 是 如果 她 常常 模着 自己 的 前发 ， 她 想 有 距离 自己 从 对方 。</source>
+    <translation system="bart">第一个 是 如果 她 常常 模着 自己 的 前发 ， 她 想 距离 自己 从 对方 。</translation>
+    <translation system="t5">第一个 是 如果 她 常常 模仿 自己 的 前发 ， 她 想 有 距离 自己 从 对方 。 第一个 是 如果 她 常常 模仿 自己 的 前发 ， 她 想 有 距离 自己 从 对方 。</translation>
+    <translation system="s2e">第一个 是 如果 她 常常 模仿 自己 的 前发 ， 她 想 有 距离 。</translation>
+    <translation system="word">第一个 是 如果 她 常常 模着 自己 的 前途 ， 她 想 有 距离 自己 从 对方 。</translation>
+    <translation system="char">第一个 是 如果 她 常常 模仿 自己 的 前发 ， 她 想 有 距离 自己 。</translation>
+    <translation system="spm">第一个 是 如果 她 常常 模着 自己 的 前发 ， 她 想 跟 对方 有 距离 。</translation>
+  </seg>
+  <seg id="951" doc-id="yaclc">
+    <source>从 我 来 台湾 的 天 ， 今天 我 努力学习 了 汉语 。</source>
+    <translation system="bart">从 我 来 台湾 的 那天 起 ， 我 就 努力学习 汉语 。</translation>
+    <translation system="t5">从 我 来 台湾 的 那天 起 ， 我 努力学习 了 汉语 。</translation>
+    <translation system="s2e">我来 台湾 的 那天 ， 今天 我 努力学习 了 汉语 。</translation>
+    <translation system="word+spm">从 我 来 台湾 的 那天 起 ， 今天 我 努力学习 了 汉语 。</translation>
+    <translation system="char">从 我 来 台湾 的 那天 起 ， 今天 我 努力学习 汉语 。</translation>
+  </seg>
+  <seg id="1099" doc-id="yaclc">
+    <source>读 了 信 以后 , 我 觉得 我们 好像 .</source>
+    <translation system="bart+spm">读 了 信 以后 , 我 觉得 我们 很 像 .</translation>
+    <translation system="t5+char">读 了 信 以后 , 我 觉得 我们 好像 很 像 .</translation>
+    <translation system="s2e+word">读 了 信 以后 , 我 觉得 我们 好像 .</translation>
+  </seg>
+  <seg id="168" doc-id="yaclc">
+    <source>在 登记册 有 很 长排 起 了 队 、 非常 可怕 等 了 。</source>
+    <translation system="bart">在 登记册 上排 了 很长 的 队 、 非常 可怕 。</translation>
+    <translation system="t5">登记册 上排 起 了 很长 的 队 ， 非常 可怕 。</translation>
+    <translation system="s2e">在 登记册 上排 着 很长 的 队伍 ， 非常 可怕 。</translation>
+    <translation system="word">在 登记册 有 很长 的 队 排起 了 队 ， 非常 可怕 。</translation>
+    <translation system="char">在 登记册 上 有 很 长排 起 了 队 、 非常 可怕 等 了 。</translation>
+    <translation system="spm">在 登记册 有 很长 的 队伍 排起 了 队 、 非常 可怕 等 。</translation>
+  </seg>
+  <seg id="430" doc-id="yaclc">
+    <source>以后 他 给我发 短信 ， 有 想 知道 的 或者 苦恼 。</source>
+    <translation system="bart">之后 他 给我发 短信 ， 有 想 知道 的 或者 苦恼 的 。</translation>
+    <translation system="t5">以后 他 给我发 短信 ， 有 想 知道 的 或者 苦恼 的 事情 。</translation>
+    <translation system="s2e">以后 他 给我发 短信 ， 有 想 知道 的 或者 苦恼 。</translation>
+    <translation system="word">之后 他 给我发 短信 ， 有 想 知道 的 或者 苦恼 。</translation>
+    <translation system="char">后来 他 给我发 短信 ， 有 想 知道 的 或者 苦恼 。</translation>
+    <translation system="spm">以后 他 给我发 短信 ， 有 想 知道 的 事 或者 苦恼 。</translation>
+  </seg>
+  <seg id="1468" doc-id="yaclc">
+    <source>我 建议 关于 现代 生活 的 一部 电视剧 ， 不要 用 关于 千年 以前 的 战 的 电视剧 。</source>
+    <translation system="bart+spm">我 建议 关于 现代 生活 的 一部 电视剧 ， 不要 用 关于 千年 以前 的 战争 的 电视剧 。</translation>
+    <translation system="t5">我 建议 一部 关于 现代 生活 的 电视剧 ， 不要 用 关于 千年 以前 的 战争 的 电视剧 。</translation>
+    <translation system="s2e">我 建议 关于 现代 生活 的 电视剧 ， 不要 用 关于 千年 以前 的 战争 的 电视剧 。</translation>
+    <translation system="word">我 建议 关于 现代 生活 的 一部 电视剧 ， 不要 用 关于 千年 以前 的 战 的 电视剧 。</translation>
+    <translation system="char">我 建议 关于 现代 生活 的 一部 电视剧 ， 不要 用 关于 千年 以前 战争 的 电视剧 。</translation>
+  </seg>
+  <seg id="253" doc-id="yaclc">
+    <source>我 特别 喜欢 他 笑 的 时候 ， 因为 先 他 的 眼睛 微笑 ， 然后 你 就 注意 到 他 的 口 也 微笑 ， 很 魅力 。</source>
+    <translation system="bart">我 特别 喜欢 他 笑 的 时候 ， 因为 先 他 的 眼睛 微笑 ， 然后 你 就 注意 到 他 的 嘴 也 微笑 ， 很 有 魅力 。</translation>
+    <translation system="t5">我 特别 喜欢 他 笑 的 时候 ， 因为 他 的 眼睛 先 微笑 ， 然后 你 就 注意 到 他 的 口 也 微笑 ， 很 有 魅力 。</translation>
+    <translation system="s2e">我 特别 喜欢 他 笑 的 时候 ， 因为 先 他 的 眼睛 微笑 ， 然后 你 就 会 注意 到 他 的 嘴 也 微笑 ， 很 有 魅力 。</translation>
+    <translation system="word">我 特别 喜欢 他 笑 的 时候 ， 因为 先 他 的 眼睛 微笑 ， 然后 你 就 会 注意 到 他 的 嘴 也 会 微笑 ， 很 有 魅力 。</translation>
+    <translation system="char">我 特别 喜欢 他 小 的 时候 ， 因为 先 让 他 的 眼睛 微笑 ， 然后 你 就 注意 到 他 的 口 也 微笑 ， 很 有 魅力 。</translation>
+    <translation system="spm">我 特别 喜欢 他 笑 的 时候 ， 因为 先 他 的 眼睛 微笑 ， 然后 你 就 注意 到 他 的 口 也 微笑 ， 很 有 魅力 。</translation>
+  </seg>
+  <seg id="1597" doc-id="yaclc">
+    <source>今天 我想 写个 博客 可是 想不起 什么 值得 写 。</source>
+    <translation system="bart">今天 我想 写个 博客 ， 可是 想不起 有 什么 值得 写 的 。</translation>
+    <translation system="t5">今天 我想 写个 博客 可是 想不起 写 什么 好 。</translation>
+    <translation system="s2e">今天 我想 写个 博客 可是 想不起 什么 值得 写 的 。</translation>
+    <translation system="word">今天 我想 写个 博客 可是 想不起 什么 好 写 的 。</translation>
+    <translation system="char">今天 我想 写个 博客 ， 可是 想不起 什么 值得 写 。</translation>
+    <translation system="spm">今天 我 想 写 博客 ， 可是 想不起 什么 值得 写 。</translation>
+  </seg>
+  <seg id="952" doc-id="yaclc">
+    <source>学习 的 时间 我 发现 好句 字 。</source>
+    <translation system="bart+char">学习 的 时候 我 发现 了 好 句子 。</translation>
+    <translation system="t5">学习 的 时间 我 发现 了 好 句子 。</translation>
+    <translation system="s2e+spm">学习 的 时候 我 发现 了 一个 好 句子 。</translation>
+    <translation system="word">学习 的 时候 我 发现 了 好 句 字 。</translation>
+  </seg>
+  <seg id="681" doc-id="yaclc">
+    <source>确实 的 中国 朋友 往 心里 去 你 。</source>
+    <translation system="bart">确实 ， 中国 朋友 往 心里 去 你 。</translation>
+    <translation system="t5">确实 的 中国 朋友 会往 心里 去 你 。</translation>
+    <translation system="s2e+char">确实 的 中国 朋友 往 心里 去 。</translation>
+    <translation system="word">确实 的 中国 朋友 会往 心里 去 。</translation>
+    <translation system="spm">确实 的 中国 朋友 会往 心里 去 的 。</translation>
+  </seg>
+  <seg id="1162" doc-id="yaclc">
+    <source>听读 手 的 声音 后 立即 对应 的 快速 的 运动 力 。</source>
+    <translation system="bart">听到 手 的 声音 后 立即 产生 快速 的 运动 力 。</translation>
+    <translation system="t5">听读 手 的 声音 后 立即 对应 快速 的 运动 力 。 听读 手 的 声音 后 立即 对应 快速 的 运动 力 。</translation>
+    <translation system="s2e">听读 手 的 声音 后 立即 对应 的 快速 的 运动 力 。</translation>
+    <translation system="word">听读 手 的 声音 后 立即 应对 快速 的 运动 力 。</translation>
+    <translation system="char">听读 手 的 声音 后 立即 对应 快速 的 运动 力 。</translation>
+    <translation system="spm">听 了 读手 的 声音 后 立即 对应 的 快速 的 运动 力 。</translation>
+  </seg>
+  <seg id="344" doc-id="yaclc">
+    <source>我 爱看 的 作者 是 夏目 sou 石 ， 太宰 治 ， 三岛 由纪夫 等等 。</source>
+    <translation system="bart+char">我 爱看 的 作者 有夏目 sou 石 ， 太宰 治 ， 三岛 由纪夫 等等 。</translation>
+    <translation system="t5">我 爱看 的 作者 有 夏目漱石 ， 太宰 治 ， 三岛 由纪夫 等等 。</translation>
+    <translation system="s2e">我 爱看 的 作者 是 夏目 u 石 ， 太宰 治 ， 三岛 由纪夫 等等 。</translation>
+    <translation system="word">我 爱看 的 作者 是 夏目 so ## u 石 、 太宰 治 、 三岛 由纪夫 等等 。</translation>
+    <translation system="spm">我 爱看 的 作者 是 夏目 、 矿石 、 太宰 治 、 三岛 由纪夫 等等 。</translation>
+  </seg>
+  <seg id="596" doc-id="yaclc">
+    <source>我 知道 我 看电视 ， 玩哟 戏 ， 听 我 最好 的 韩国 歌星 的 几首歌 耗 我 的 时间 ， 但 我 也 知道 我 应该 高高兴兴 地活 。</source>
+    <translation system="bart">我 知道 我 看电视 ， 玩游戏 ， 听 我 最好 的 韩国 歌星 的 几首歌 耗 我 的 时间 ， 但 我 也 知道 我 应该 高高兴兴 地活 。</translation>
+    <translation system="t5">我 知道 我 看电视 ， 玩哟 戏 ， 听 我 最好 的 韩国 歌星 的 几首歌 会 消耗 我 的 时间 ， 但 我 也 知道 我 应该 高高兴兴 地活 。</translation>
+    <translation system="s2e">我 知道 我 看电视 ， 玩哟 戏 ， 听 我 最好 的 韩国 歌星 的 几首歌 耗 我 的 时间 ， 但 我 也 知道 我 应该 高高兴兴 地活 。</translation>
+    <translation system="word">我 知道 我 看电视 ， 玩哟 戏 ， 听 我 最好 的 韩国 歌星 的 几首歌 消磨 我 的 时间 ， 但 我 也 知道 我 应该 高高兴兴 地 活着 。</translation>
+    <translation system="char+spm">我 知道 我 看电视 ， 玩哟 戏 ， 听 我 最好 的 韩国 歌星 的 几首歌 耗 我 的 时间 ， 但 我 也 知道 我 应该 高高兴兴 地 活着 。</translation>
+  </seg>
+  <seg id="1201" doc-id="yaclc">
+    <source>不但 感动 而且 使 我 不得不 考虑 。</source>
+    <translation system="bart">不但 让 我 感动 而且 使 我 不得不 考虑 。</translation>
+    <translation system="t5">不但 感动 而且 使 我 不得不 考虑 。 这使 我 不得不 考虑 。</translation>
+    <translation system="s2e">不但 感动 而且 使 我 不得不 考虑 。</translation>
+    <translation system="word">不但 感动 而且 让 我 不得不 考虑 。</translation>
+    <translation system="char+spm">不但 感动 ， 而且 使 我 不得不 考虑 。</translation>
+  </seg>
+  <seg id="814" doc-id="yaclc">
+    <source>像是 中国 旅行 的 礼物 是 什么 ？</source>
+    <translation system="bart+word">像是 去 中国 旅行 的 礼物 是 什么 ？</translation>
+    <translation system="t5">中国 旅行 的 礼物 是 什么 ？</translation>
+    <translation system="s2e">像是 中国 旅行 的 礼物 是 什么 ？</translation>
+    <translation system="char+spm">像是 在 中国 旅行 的 礼物 是 什么 ？</translation>
+  </seg>
+  <seg id="214" doc-id="yaclc">
+    <source>我 看 了 那部 连续剧 里 吉川 晃司 演 织田信长 后 ， 我 对 织田信长 产生 了 兴趣 ， 就 从 图书馆 关于 他 的 小说书 。</source>
+    <translation system="bart">我 看 了 那部 连续剧 里 吉川 晃司 演 织田信长 后 ， 我 对 织田信长 产生 了 兴趣 ， 就 去 图书馆 找 关于 他 的 小说 。</translation>
+    <translation system="t5">我 看 了 那部 连续剧 里 吉川 晃司 演 织田信长 后 ， 我 对 织田信长 产生 了 兴趣 ， 就 从 图书馆 看 关于 他 的 小说书 。</translation>
+    <translation system="s2e">我 看 了 那部 连续剧 里 吉川 晃司 扮演 织田信长 后 ， 我 对 织田信长 产生 了 兴趣 ， 就 从 图书馆 关于 他 的 小说书 。</translation>
+    <translation system="word">我 看 了 那部 连续剧 里 吉川 晃司 演 织田信长 后 ， 我 对 织田信长 产生 了 兴趣 ， 就 从 图书馆 对 他 的 小说书 。</translation>
+    <translation system="char">我 看 了 那部 连续剧 里 吉川 晃司 演 织田信长 后 ， 我 对 织田信长 产生 了 兴趣 ， 就 从 图书馆 借 了 关于 他 的 小说书 。</translation>
+    <translation system="spm">我 看 了 那部 连续剧 里 吉川 晃司 演 织田信长 后 ， 我 对 织田信长 产生 了 兴趣 ， 就 从 图书馆 看 他 的 小说书 。</translation>
+  </seg>
+  <seg id="481" doc-id="yaclc">
+    <source>③ 親切 热情 / 亲切 ⇒ 有 肯能 消费者 会 遇到 事情 ， 容易 错 的 事情 提前 告诉 。</source>
+    <translation system="bart">③ 亲切 热情 / 亲切 ⇒ 有 可能 消费者 会 遇到 事情 ， 容易 错 的 事情 提前 告诉 。</translation>
+    <translation system="t5">切 热情 / 亲切 有 肯能 消费者 会 遇到 事情 ， 容易 错 的 事情 提前 告诉 。 切 热情 或 亲切 有 肯能 消费者 会 遇到 容易 错 的 事情 提前 告诉 。</translation>
+    <translation system="s2e">③ 親切 热情 / 亲切 ⇒ 有 肯能 消费者 会 遇到 事情 ， 容易 错 的 事情 提前 告诉 。</translation>
+    <translation system="word">[ UNK ] [ UNK ] 切 热情 / 亲切 [ UNK ] 有 可能 消费者 会 遇到 事情 ， 容易 错 的 事情 提前 告诉 。</translation>
+    <translation system="char">③ 亲切 热情 / 亲切 ⇒ 有 肯能 消费者 会 遇到 事情 ， 容易 错 的 事情 提前 告诉 。</translation>
+    <translation system="spm">切 热情 / 亲切 ⇒ 有 肯能 让 消费者 会 遇到 事情 ， 容易 错 的 事情 提前 告诉 。</translation>
+  </seg>
+  <seg id="291" doc-id="yaclc">
+    <source>上个月 19 号 我 从 中国 回来 直到现在 我 一直 在 和 男友 尽情 的 玩 每 一天 。</source>
+    <translation system="bart+t5+spm">上个月 19 号 我 从 中国 回来 ， 直到现在 我 一直 在 和 男友 尽情 的 玩 每 一天 。</translation>
+    <translation system="s2e">上个月 19 号 我 从 中国 回来 ， 直到现在 我 一直 在 和 男友 尽情 的 玩耍 。</translation>
+    <translation system="word+char">上个月 19 号 我 从 中国 回来 直到现在 我 一直 在 和 男友 尽情 地玩 每 一天 。</translation>
+  </seg>
+  <seg id="1378" doc-id="yaclc">
+    <source>朋友 找 不到 ， 那么 吃 甜 的 东西 ， 或者 去 买 衣服 ， 解散 我 心理 的 疙瘩 。</source>
+    <translation system="bart+spm">朋友 找 不到 ， 那么 吃 甜 的 东西 ， 或者 去 买 衣服 ， 解散 我 心里 的 疙瘩 。</translation>
+    <translation system="t5">朋友 找 不到 ， 吃 甜 的 东西 ， 或者 去 买 衣服 ， 消除 我 心里 的 疙瘩 。</translation>
+    <translation system="s2e">朋友 找 不到 那么 吃 甜 的 东西 ， 或者 去 买 衣服 ， 解散 我 心里 的 疙瘩 。</translation>
+    <translation system="word">朋友 找 不到 ， 那么 吃 甜 的 东西 ， 或者 去 买 衣服 ， 减轻 我 心里 的 疙瘩 。</translation>
+    <translation system="char">朋友 找 不到 ， 吃 甜 的 东西 ， 或者 去 买 衣服 ， 解散 我 心理 的 疙瘩 。</translation>
+  </seg>
+</set>
