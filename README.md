@@ -40,7 +40,7 @@ Evaluate.
 ```
 python gleu.py --src /src/path --hyp /sys/path --ref /ref/path
 ```
-### PT-M2
+### PT-M^2
 Download scripts from https://github.com/pygongnlp/PT-M2/ .
 
 Evaluate.
