@@ -1,11 +1,12 @@
 # Revisiting the Evaluation for Chinese Grammatical Error Correction
 Data for the paper Revisiting the Evaluation for Chinese Grammatical Error Correction.
-
+# Copyright
+The data are released under the [CC-BY-4.0 license](https://github.com/wang136906578/RevisitCGEC/blob/main/LICENSE). You should also comply with the [Apache-2.0 license](https://github.com/HillZhang1999/MuCGEC/blob/main/LICENSE) when using data related to the [MuCGEC Dataset](https://github.com/HillZhang1999/MuCGEC/blob/main/data/MuCGEC/MuCGEC_dev.txt).
 # How to use
 ## Prepare the data
 ```system corrections``` contains the output from each system. 
 
-Source sentences and references can be extracted from [YACLC](https://github.com/blcuicall/CCL2022-CLTC/tree/main/datasets/track3/dev) and [MuCGEC](https://github.com/HillZhang1999/MuCGEC/blob/main/data/MuCGEC/MuCGEC_dev.txt) using the ids provided in ```sentence ids```.
+Source sentences and references can be extracted from [YACLC](https://github.com/blcuicall/CCL2022-CLTC/tree/main/datasets/track3/dev) and [MuCGEC](https://github.com/HillZhang1999/MuCGEC/blob/main/data/MuCGEC/MuCGEC_dev.txt) datasets using the ids provided in ```sentence ids```.
 
 ```judgments.xml``` contains the human rankings.
 ## Acquire human rankings
