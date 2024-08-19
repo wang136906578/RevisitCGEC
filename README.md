@@ -1,6 +1,6 @@
 # Revisiting the Evaluation for Chinese Grammatical Error Correction
 Data for the paper Revisiting the Evaluation for Chinese Grammatical Error Correction.
-# Copyright
+# License
 The data are released under the [CC-BY-4.0 license](https://github.com/wang136906578/RevisitCGEC/blob/main/LICENSE). You should also comply with the [Apache-2.0 license](https://github.com/HillZhang1999/MuCGEC/blob/main/LICENSE) when using data related to the [MuCGEC Dataset](https://github.com/HillZhang1999/MuCGEC/blob/main/data/MuCGEC/MuCGEC_dev.txt).
 # How to use
 ## Prepare the data
